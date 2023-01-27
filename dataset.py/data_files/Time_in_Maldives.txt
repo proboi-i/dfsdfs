@@ -1,0 +1,6 @@
+URI[https://en.wikipedia.org/wiki/Time_in_Maldives]
+= Time_in_Maldives = 
+Time in Maldives is given by Maldives Time (MVT) (UTC+05:00). However, some island resorts operate their own time zone, known as Maldives Island Time, up to 2 hours ahead of the official Maldives Time. The Maldives does not currently observe daylight saving time as time does not vary in Maldives due to be located in the equator. 
+
+
+== References ==

@@ -1,0 +1,40 @@
+URI[https://en.wikipedia.org/wiki/Setuptools]
+= Setuptools = 
+setuptools is a package development process library designed to facilitate packaging Python projects by enhancing the Python standard library distutils (distribution utilities). It includes:
+
+Python package and module definitions
+Distribution package metadata
+Test hooks
+Project installation
+Platform-specific details
+Python 3 support
+
+
+== History ==
+On 2004-03-17, Phillip J. Eby announced the existence of the project. In 2013, Distribute, a fork of setuptools, was merged back into setuptools 0.7.
+
+
+== Package format ==
+
+Python wheels have replaced eggs.Python eggs are a way of bundling additional information with a Python project, that allows the project's dependencies to be checked and satisfied at runtime, as well as allowing projects to provide plugins for other projects.
+
+"Eggs are to Pythons as Jars are to Java..."
+
+
+== Package manager ==
+Python pip has replaced EasyInstall.EasyInstall is a package manager for Python that provides a standard format for distributing Python programs and libraries (based on the Python Eggs format). EasyInstall is a module bundled with setuptools. It is analogous to RubyGems for Ruby.
+EasyInstall is not a fully fledged package manager. It cannot list local packages nor update them all. Pip and Python Package Manager (PyPM) are Python applications designed to fulfill a similar role as EasyInstall. The Distribute fork was created specifically due to the lack of progress in EasyInstall development.By default, EasyInstall looks in the Python Package Index (PyPI) for the desired packages and uses the metadata there to download and install the package and its dependencies.
+
+
+== See also ==
+Buildout - software build tool designed to handle Python package dependencies
+Software repository
+
+
+== References ==
+
+
+== External links ==
+Official website 
+PyPI project page
+setuptools on GitHub

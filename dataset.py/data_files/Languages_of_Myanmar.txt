@@ -1,0 +1,164 @@
+URI[https://en.wikipedia.org/wiki/Languages_of_Myanmar]
+= Languages_of_Myanmar = 
+There are approximately a hundred languages spoken in Myanmar (also known as Burma). Burmese, spoken by two-thirds of the population, is the official language.Languages spoken by ethnic minorities represent six language families: Sino-Tibetan, Austro-Asiatic, Tai–Kadai, Indo-European, Austronesian and Hmong–Mien, as well as an incipient national standard for Burmese sign language.
+
+
+== Burmese ==
+
+Burmese is the native language of the Bamar people and related sub-ethnic groups of the Bamar, as well as that of some ethnic minorities in Burma like the Mon. In 2007, Burmese was spoken by 33 million people as a first language. Burmese is spoken as a second language by another 10 million people, particularly ethnic minorities in Burma and those in neighbouring countries.Burmese is a Sino-Tibetan language belonging to the Southern Burmish branch of the Tibeto-Burman languages. Burmese is the most widely spoken of the Tibeto-Burman languages and among the Sino-Tibetan languages, the second most widely spoken, after the Sinitic languages. Burmese was the fourth of the Sino-Tibetan languages to develop a writing system, after Chinese, Tibetan, and Tangut.As far as natural language processing research dealing with interaction of computers and Burmese human-spoken language is concerned, during the period spanning more than 25 years, from 1990 to 2016, notable work has been done and annotated in the areas of Burmese language word identification, segmentation, disambiguation, collation, semantic parsing and tokenization followed by part-of-speech tagging, machine translation systems , text keying/input, text recognition and text display methods.  The scope for further research too has been explored for areas of parallel corpus development as well as development of search engine and WordNet for the Burmese language.
+
+
+== Indigenous languages ==
+Aside from Myanmar (Burmese) and its dialects, the hundred or so languages of Myanmar include Shan (Tai, spoken by 3.2 million), Karen languages (spoken by 2.6 million), Kachin (spoken by 900,000), Tamil (spoken by 1.1 Million), various Chin languages (spoken by 780,000), and Mon (Mon–Khmer, spoken by 750,000). Most of these languages use the Myanmar (Burmese) script.
+In Myanmar, usage of its minority languages is discouraged.It is not clear if there are one or two Burmese sign languages.
+
+
+=== Sino-Tibetan ===
+Languages in Chin State
+Anu-Hkongso
+Shö
+Bawm
+Daai
+Khumi
+Falam
+Hakha Chin
+Kaang
+Laitu
+Lautu
+Mara
+Matu
+Mizo
+Mün
+Ngawn
+Welaung
+Rungtu
+Senthang
+Sizang
+Songlai
+Sumtu
+Tawr
+Tedim
+Thadou
+Thaiphum
+Zotung
+Zyphe
+Other
+Akeu
+Akha
+Anal
+Nung
+Sak
+Derung
+Hpon
+Kadu
+Ganan
+Kayaw
+Red Karen
+Padaung
+Kayaw
+Lashi
+Lahta
+Lahu
+Lhao Vo
+Lisu
+Mru
+Mro
+Akyaung Ari
+Kayaw
+Eastern Pwo
+Western Pwo
+Para
+Khiamniungan
+Koki
+Konyak
+Leinong
+Tangsa
+Long Phuri
+Makury
+Ponyo
+Tangkhul
+Tangsa
+Achang
+Nusu
+Pa'o
+Pyen
+Arakanese
+Rawang
+Riang
+Taman
+Khams Tibetan
+Geko Karen
+Zaiwa
+Zou
+Intha-Danu
+
+
+=== Austroasiatic ===
+Blang
+Danau
+Muak Sa-aak
+Palaung
+Riang
+Tai Loi
+Wa
+Mon
+
+
+=== Kra-Dai ===
+Khamti
+Khün
+Tai Lue
+Tai Laing
+Tai Nuea
+
+
+=== Austronesian ===
+Kedah Malay
+Moken
+Moklen
+Salone
+Standard Malay
+
+
+=== Hmong-Mien ===
+Hmong
+
+
+=== Indo-Aryan ===
+Nepali (Burmese Gurkha)
+Chakma
+Rohingya
+Bengali
+Tanchangya
+Hajong
+
+
+=== Dravidian ===
+Tamil
+
+
+== English as a second language ==
+
+Today, Burmese is the primary language of instruction, and English is the secondary language taught. English was the primary language of instruction in higher education from late 19th century to 1964, when Gen. Ne Win mandated educational reforms to "Burmanise". English continues to be used by educated urbanites and the national government.
+
+
+== See also ==
+Burmese English
+
+
+== Footnotes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Goddard, Cliff (2005), The Languages Of East And Southeast Asia: An Introduction, Oxford University Press, ISBN 0-19-924860-5
+Myanmar in Eberhard, David M.; Simons, Gary F.; Fennig, Charles D., eds. (2022). Ethnologue: Languages of the World (25th ed.). Dallas, Texas: SIL International.
+Lintner, Bertil (2003), "Myanmar/Burma",  in MacKerras, Colin (ed.), Ethnicity in Asia, Routledge, ISBN 0-415-25816-2
+Thein, Myat (2004), Economic Development of Myanmar, Institute of Southeast Asian Studies, ISBN 981-230-211-5
+
+
+== External links ==
+Linguistic map of Burma from Muturzikin.com
+Main spoken languages of Myanmar at MIMU

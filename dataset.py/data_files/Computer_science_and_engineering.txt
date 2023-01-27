@@ -1,0 +1,49 @@
+URI[https://en.wikipedia.org/wiki/Computer_science_and_engineering]
+= Computer_science_and_engineering = 
+Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.
+
+
+== Academic courses ==
+Academic programs vary between colleges, but typically include a combination of topics in computer science, computer engineering, and electrical engineering. Undergraduate courses usually include programming, algorithms and data structures, computer architecture, operating systems, computer networks, parallel computing, embedded systems, algorithms design, circuit analysis and electronics, digital logic and processor design, computer graphics, scientific computing, software engineering, database systems, digital signal processing, virtualization, computer simulations and games programming. CSE programs also include core subjects of theoretical computer science such as theory of computation, numerical methods, machine learning, programming theory and paradigms. Modern academic programs also cover emerging computing fields like image processing, data science, robotics, bio-inspired computing, computational biology, autonomic computing and artificial intelligence. Most CSE programs require introductory mathematical knowledge, hence the first year of study is dominated by mathematical courses, primarily discrete mathematics, mathematical analysis, linear algebra, probability, and statistics, as well as the basics of electrical and electronic engineering, physics, and electromagnetism.
+
+
+== Example universities with CSE majors and departments ==
+American International University-Bangladesh
+American University of Beirut
+Amrita Vishwa Vidyapeetham
+Bangladesh University of Engineering and Technology
+Bucknell University
+Delft University of Technology
+Indian Institute of Technology Kanpur
+Indian Institute of Technology Bombay
+Indian Institute of Technology Delhi
+Indian Institute of Technology Madras
+Lund University
+Massachusetts Institute of Technology
+North South University
+Ohio State University
+Santa Clara University
+Seoul National University
+UC Davis
+UC Irvine
+UCLA
+UC Merced
+UC San Diego
+UC Santa Cruz
+University of Michigan
+University of New South Wales
+University of Nevada
+University of Notre Dame
+University of Washington
+Virginia Tech
+Shahid Beheshti University
+
+
+== See also ==
+Computer science
+Computer engineering
+Computer graphics (computer science)
+Bachelor of Technology
+
+
+== References ==

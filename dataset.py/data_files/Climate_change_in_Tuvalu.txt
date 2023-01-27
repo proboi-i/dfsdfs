@@ -1,0 +1,157 @@
+URI[https://en.wikipedia.org/wiki/Climate_change_in_Tuvalu]
+= Climate_change_in_Tuvalu = 
+Climate change is particularly threatening for the long-term habitability of the island state of Tuvalu. This is because the average height of the islands is less than 2 metres (6.6 ft) above sea level, with the highest point of Niulakita being about 4.6 metres (15 ft) above sea level. Between 1971 and 2014, during a period of global warming, Tuvalu islands have increased in size, according to aerial photography and satellite imagery. Over four decades, there was a net increase in land area in Tuvalu of 73.5 ha (2.9%), although the changes were not uniform, with 74% of land increasing in size and 27% of land decreasing in size. The sea level at the Funafuti tide gauge has risen at 3.9 mm per year, which is approximately twice the global average.Tuvalu could be one of the first nations to be significantly impacted by rising sea levels due to global climate change. Not only could parts of the island be flooded but the rising saltwater table could also destroy deep rooted food crops such as coconut, pulaka, and taro. Research from the University of Auckland suggests that Tuvalu may remain habitable over the next century. However, as of March 2018, Prime Minister Enele Sopoaga stated that Tuvalu is not expanding and has gained no additional habitable land. Sopoaga has also said that evacuating the islands is the last resort.The installed PV capacity in Funafuti in 2020 was 735 kW compared to 1800 kW of diesel (16% penetration).
+The South Pacific Applied Geoscience Commission (SOPAC) suggests that, while Tuvalu is vulnerable to climate change, environmental problems such as population growth and poor coastal management also affect sustainable development. SOPAC ranks the country as extremely vulnerable using the Environmental Vulnerability Index.
+
+
+== Greenhouse gas emissions ==
+
+On 27 November 2015 the Government of Tuvalu announced its Intended Nationally Determined Contributions (INDCs) in relation to the reduction of greenhouse gases (GHGs) under provisions of the United Nations Framework Convention on Climate Change (UNFCCC):
+Tuvalu commits to reduction of emissions of green-house gases from the electricity generation (power) sector, by 100%, ie almost zero emissions by 2025. Tuvalu's indicative quantified economy-wide target for a reduction in total emissions of GHGs from the entire energy sector to 60% below 2010 levels by 2025. These emissions will be further reduced from the other key sectors, agriculture and waste, conditional upon the necessary technology and finance.
+These targets go beyond the targets enunciated in Tuvalu's National Energy Policy (NEP) and the Majuro Declaration on Climate Leadership (2013). Currently, 50% of electricity is derived from renewables, mainly solar, and this figure will rise to 75% by 2020 and 100% by 2025. This would mean almost zero use of fossil fuel for power generation. This is also in line with our ambition to keep the warming to less than 1.5°C, if there is a chance to save atoll nations like Tuvalu.
+
+
+== Impacts on the natural environment ==
+
+Tuvalu faces challenges to its natural environment which will be exacerbated by climate change: Coastal erosion, saltwater intrusion and increasing vector and water borne diseases due to sea level rise.
+
+
+=== Climate systems that affect Tuvalu ===
+
+Tuvalu participates in the operations of the Secretariat of the Pacific Regional Environment Programme (SPREP). The climate of the Pacific region at the equator is influenced by a number of factors; the science of which is the subject of continuing research. The SPREP described the climate of Tuvalu as being:
+
+[I]nfluenced by a number of factors such as trade wind regimes, the paired Hadley cells and Walker circulation, seasonally varying convergence zones such as the South Pacific Convergence Zone (SPCZ), semi-permanent subtropical high-pressure belts, and zonal westerlies to the south, with the El Niño–Southern Oscillation (ENSO) as the dominant mode of year to year variability (...). The Madden–Julian oscillation (MJO) also is a major mode of variability of the tropical atmosphere-ocean system of the Pacific on times scales of 30 to 70 days (...), while the leading mode with decadal time-scale is the Interdecadal Pacific Oscillation (IPO) (...). A number of studies suggest the influence of global warming could be a major factor in accentuating the current climate regimes and the changes from normal that come with ENSO events (...).
+
+The sea level in Tuvalu varies as a consequence of a wide range of atmospheric and oceanographic influences. The 2011 report of the Pacific Climate Change Science Program published by the Australian Government, describes a strong zonal (east‑to-west) sea-level slope along the equator, with sea level west of the International Date Line (180° longitude) being about a half metre higher than found in the eastern equatorial Pacific and South American coastal regions. The trade winds that push surface water westward create this zonal tilting of sea level on the equator. Below the equator a higher sea level can also be found about 20° to 40° south (Tuvalu is spread out from 6° to 10° south).The Pacific Climate Change Science Program Report (2011) describes the year-by-year volatility in the sea-level as resulting from the El Niño–Southern Oscillation (ENSO):
+
+ENSO has a major influence on sea levels across the Pacific and this can influence the occurrence of extreme sea levels. During La Niña events, strengthened trade winds cause higher than normal sea levels in the western tropical Pacific, and lower than normal levels in the east. Conversely, during El Niño events, weakened trade winds are unable to maintain the normal gradient of sea level across the tropical Pacific, leading to a drop in sea level in the west and a rise in the east. Pacific islands within about 10° of the equator are most strongly affected by ENSO‑related sea-level variations.
+The Pacific (inter-)decadal oscillation is a climate switch phenomenon that results in changes from periods of La Niña to periods of El Niño. This has an effect on sea levels as El Niño events can actually result in sea levels falling by 11 inches (28.4 centimeters) as compared to the sea level during a La Niña events. For example, in 2000 there was a switch from periods of downward pressure of El Niño on sea levels to an upward pressure of La Niña on sea levels, which upward pressure causes more frequent and higher high tide levels. The Perigean spring tide (often called a king tide) can result in seawater flooding low-lying areas of the islands of Tuvalu.
+
+
+=== Temperature and weather changes ===
+
+A report in 2011 concluded in relation to Tuvalu that over the course of the 21st century:
+Surface air temperature and sea‑surface temperature are projected to continue to increase (very high confidence).
+Annual and seasonal mean rainfall is projected to increase (high confidence).
+The intensity and frequency of days of extreme heat are projected to increase (very high confidence).
+The intensity and frequency of days of extreme rainfall are projected to increase (high confidence).
+The incidence of drought is projected to decrease (moderate confidence).
+Tropical cyclone numbers are projected to decline in the south-east Pacific Ocean basin (0–40ºS, 170ºE–130ºW) (moderate confidence).
+
+
+=== Sea level rise ===
+
+Sea level observation to collect data for the purpose of the Permanent Service for Mean Sea Level (PSMSL) has been made at two locations within the Funafuti lagoon. In 1978 a tide gauge was installed at Funafuti by the University of Hawaii. The University of Hawai'i Sea Level Center (UHSLC) operated a tide gauge from November 1979 until December 2001. Since June 1993 the National Tidal Centre of the Australian Bureau of Meteorology has operated an Aquatrak acoustic gauge. This was done due to the uncertainty as to the accuracy of the data from this tide gauge. It was installed by the Australian National Tidal Facility (NTF) as part of the AusAID-sponsored South Pacific Sea Level and Climate Monitoring Project.The two records were synthesised into a single data source by averaging the difference between the two records over the period during which both gauges operated simultaneously.The analysis of 15+1⁄2 years of sea level data from Funafuti, identified that the sea level rise rate was 5.9 mm per year (in the 15+1⁄2 years to September 2008) and the sea level in the Funafuti area rose approximately 9.14 cm during that period of time.The analysis of 15+1⁄2 years of sea level data identified the effect of the four El Niño events that took place during that period, including a very severe one in 1997/98 that generated a significant sea level drop in the Tuvalu sea level data. The usual positive (rising) sea level trends were changed to negative values (falling) for several months due to the effect of the El Niño event. There is an inverted barometric pressure effect on sea level during a severe El Niño event due to the high air pressure in the western Pacific.The highest elevation is 4.6 metres (15 ft) above sea level on Niulakita, which gives Tuvalu the second-lowest maximum elevation of any country (after the Maldives). However, the highest elevations are typically in narrow storm dunes on the ocean side of the islands which are prone to over topping in tropical cyclones, such as occurred with Cyclone Bebe. In March 2015 the storm surge created by Cyclone Pam resulted in waves of 3 to 5 metres (9.8 to 16.4 ft) breaking over the reef of the outer islands caused damage to houses, crops and infrastructure. On Nui the sources of fresh water were destroyed or contaminated.Tuvalu is also affected by perigean spring tide events (often called a king tide), which raise the sea level higher than a normal high tide. The highest peak tide recorded by the Tuvalu Meteorological Service was 3.4 metres (11 ft) on 24 February 2006 and again on 19 February 2015. As a result of historical sea level rise, the king tide events lead to flooding of low-lying areas, which is compounded when sea levels are further raised by La Niña effects or local storms and waves. In the future, sea level rise may threaten to submerge the nation entirely as it is estimated that a sea level rise of 20–40 centimetres (7.9–15.7 inches) in the next 100 years could make Tuvalu uninhabitable.The atolls have shown resilience to gradual sea-level rise, with atolls and reef islands being able to grow under current climate conditions by generating sufficient sand and broken coral that accumulates and gets dumped on the islands during cyclones. There remains the risk that the dynamic response of atolls and reef islands does not result in stable islands as tropical cyclones can strip the low-lying islands of their vegetation and soil. Tepuka Vili Vili islet of Funafuti atoll was devastated by Cyclone Meli in 1979, with all its vegetation and most of its sand swept away during the cyclone. Vasafua islet, part of the Funafuti Conservation Area, was severely damaged by Cyclone Pam in 2015. The coconut palms were washed away, leaving the islet as a sand bar. The effect of Cyclone Pam, which did not pass directly over the islands, shows that Tuvaluans are exposed to storm surges causing damage to their houses and crops, and also the risk of water born disease as a consequence of contamination of the water supplies.Gradual sea-level rise also allows for coral polyp activity to raise the atolls with the sea level. However, if the increase in sea level occurs at faster rate as compared to coral growth, or if polyp activity is damaged by ocean acidification, then the resilience of the atolls and reef islands is less certain.There are observable changes that have occurred over the last ten to fifteen years that show Tuvaluans that there have been changes to sea levels. Those observable changes include sea water bubbling up through the porous coral rock to form pools on each high tide and flooding of low-lying areas including the airport on a regular basis during spring tides and king tides.Several causes of coastal flooding in Tuvalu have been identified, including: "sand mining, paving of surface areas, and manipulation of coastlines in addition to high seas caused by meteorological and climatological forces."
+
+
+=== Ecosystems ===
+Ocean acidification was projected to continue in 2011 (with very high confidence).There is further contention as to whether saltwater encroachment that is destroying the gardens for pulaka, taro and coconut palms is the consequence of changes in the sea level; or the consequence of the fresh water being extracted from the freshwater lens in the sub-surface of the atoll or the consequence of the creation of the borrow pits, which are the result of the extraction of coral to build the runway at Funafuti during World War II. The investigation of groundwater dynamics of Fongafale Islet, Funafuti, show that tidal forcing results in salt water contamination of the surficial aquifer during spring tides. The degree of aquifer salinization depends on the specific topographic characteristics and the hydrologic controls in the sub-surface of the atoll. About half of Fongafale islet is reclaimed swamp that contains porous, highly permeable coral blocks that allow the tidal forcing of salt water. Increases in the sea level will exacerbate the aquifer salinization as the result of increases in tidal forcing.
+The reefs at Funafuti have suffered damage, with 80 per cent of the coral having been bleached as a consequence of the increase of the ocean temperatures and acidification from increased levels of carbon dioxide. The coral bleaching, which includes staghorn corals, is attributed to the increase in water temperature that occurred during the El Niños that occurred from 1998 to 2000 and from 2000 to 2001. Researchers from Japan have investigated rebuilding the coral reefs through introduction of foraminifera.The atolls have shown resilience to gradual sea-level rise, with atolls and reef islands being able to grow under current climate conditions by generating sufficient sand and coral debris that accumulates and gets dumped on the islands during cyclones. Gradual sea-level rise also allows for coral polyp activity to increase the reefs. However, if the increase in sea level occurs at faster rate as compared to coral growth, or if polyp activity is damaged by ocean acidification, then the resilience of the atolls and reef islands is less certain.
+
+
+== Impacts on people ==
+
+
+=== Impacts on housing and long term habitability ===
+Existing scientific narratives suggest that Tuvalu may become uninhabitable as a consequence of rising sea levels, however results of research from the University of Auckland challenge the existing narratives by showing that island expansion has been the most common physical alteration throughout Tuvalu over the past four decades. The results challenge the existing perceptions of island loss due to rising sea levels by showing that the islands are dynamic features that will persist as sites for habitation over the next century and allows for alternate opportunities for adaptation rather than a forced exodus.Despite these findings the Prime Minister of Tuvalu maintains that "Tuvalu [is] not expanding" and that "the expansion of Tuvaluan shoreline did not equate to habitable land."While some commentators have called for the relocation of Tuvalu's population to Australia, New Zealand or Kioa in Fiji, in 2006 Maatia Toafa (Prime Minister from 2004 to 2006) said his government did not regard rising sea levels as such a threat that the entire population would need to be evacuated. In 2013, Prime Minister Enele Sopoaga said that relocating Tuvaluans to avoid the impact of sea level rise "should never be an option because it is self defeating in itself. For Tuvalu I think we really need to mobilise public opinion in the Pacific as well as in the [rest of] world to really talk to their lawmakers to please have some sort of moral obligation and things like that to do the right thing."
+
+
+=== Health impacts ===
+Climate change in Tuvalu is expected to cause the prevalence of various diseases to increase, including diahorreal and respiratory disease, as well as lead to compromised food security.
+
+
+=== Economic impacts ===
+
+
+==== Agriculture and fisheries ====
+Climate change is expected to worsen the following challenges:
+Pulaka (a crop grown in Tuvalu) pit salinisation due to saltwater intrusion; and
+Decreasing fisheries population.
+
+
+==== Infrastructure ====
+Climate change is expected to lead to inadequate potable water due to less rainfall and prolonged droughts.
+
+
+== Mitigation and adaptation ==
+
+
+=== Mitigation ===
+
+
+=== Policies and legislation to achieve adaptation ===
+
+
+==== The National Advisory Council on Climate Change ====
+In a speech on 16 September 2005 to the 60th Session of the UN General Assembly, Prime Minister Maatia Toafa emphasized the impact of climate change as a "broader security issue which relates to environmental security. Living in a very fragile island environment, our long-term security and sustainable development is closely linked to issues of climate change, preserving biodiversity, managing our limited forests and water
+resources."The threat of climate change to the islands is not a dominant motivation for migration as Tuvaluans appear to prefer to continue living in Tuvalu for reasons of lifestyle, culture and identity. In 2013 Enele Sopoaga, the prime minister of Tuvalu, said that relocating Tuvaluans to avoid the impact of sea level rise "should never be an option because it is self defeating in itself. For Tuvalu I think we really need to mobilise public opinion in the Pacific as well as in the [rest of] world to really talk to their lawmakers to please have some sort of moral obligation and things like that to do the right thing.""The Economics of Climate Change in the Pacific" 2013 report of the Asian Development Bank estimates the range of potential economic impacts of climate change for agriculture, fisheries, tourism, coral reefs, and human health in the Pacific region; with agriculture production, such as taro, particularly vulnerable to the effect of climate change. The Pacific countries are projected incur economic losses in the range of 4.6% to 12.7% of the region's annual GDP equivalent by 2100, with the degree of severity changing with different CO2 emission scenarios.
+On 16 January 2014 Prime Minister Enele Sopoaga established the National Advisory Council on Climate Change, which functions are "to identify actions or strategies: to achieve energy efficiencies; to increase the use of renewable energy; to encourage the private sector and NGOs to reduce greenhouse gas emissions; to ensure a whole of government response to adaptation and climate change related disaster risk reduction; and to encourage the private sector and NGOs to develop locally appropriate technologies for adaptation and climate change mitigation (reductions in [greenhouse gas])."At the 20th Conference of Parties to the UN Framework Convention on Climate Change in December 2014 at Lima, Peru, Sopoaga said "Climate change is the single greatest challenge facing my country. It is threatening the livelihood, security and wellbeing of all Tuvaluans."Te Kakeega III - National Strategy for Sustainable Development-2016-2020 (TK III) sets out the development agenda of the Government of Tuvalu. TK III includes new strategic areas, in addition to the eight identified in TK II. The additional strategic areas are climate change; environment; migration and urbanization; and oceans and seas.
+
+
+==== The National Adaptation Programme of Action and the Tuvalu Coastal Adaptation Project ====
+Tuvalu's National Adaptation Programme of Action (NAPA) describes a response to the climate change problem as using the combined efforts of several local bodies on each island that will work with the local community leaders (the Falekaupule). The main office, named the Department of Environment, is responsible for coordinating the non-governmental organizations, religious bodies, and stakeholders. Each of the named groups are responsible for implementing Tuvalu's NAPA, the main plan to adapt to the adverse effects of human use and climate change.In 2015 the United Nations Development Program (UNDP) assisted the government of Tuvalu to acquire MV Talamoana, a 30-metre vessel that will be used to implement Tuvalu's National Adaptation Programme of Action  to transport government officials and project personnel to the outer islands.In August 2017 the Government of Tuvalu and the UNDP launched the Tuvalu Coastal Adaptation Project (TCAP) that is financed with US$36 million from the Green Climate Fund and T$2.9 million from the Government of Tuvalu. The TCAP focuses on construction works to defend infrastructure including roads, schools, hospitals and government buildings. over a period of seven years. The goal of the Tuvalu Coastal Adaptation Project is to build coastal resilience in three of Tuvalu's nine inhabited islands and to manage coastal inundation risks by reducing the impact of increasingly intensive wave action.In 2020, Environmental and Social Impact Assessments were published for plans to  construct hard and soft coastal protection infrastructure to reduce inundation and coastal erosion on the islands of Funafuti,  Nanumaga and Nanumea. The implementation of the TCAP on Funafuti is proposed to be a land reclamation project, which will start from the northern boundary of the Queen Elizabeth Park (QEP) reclamation area and extend to the northern Tausoa Beach Groyne and the development of the Catalina Ramp Harbour.  The land reclamation will  be approximately 710m in length by 100m wide, giving a total area of approximately 7.1Ha (17.5 acres). It will require approximately 250,000m3 of fill material.  An ecological assessment of the TCAP project considers the removal of sand by dredging in Funafuti lagoon, which was the source of the sand in the Borrow Pits Remediation (BPR) project.The implementation of the TCAP on Nanumaga is a plan to build berm top barriers on the crest of the main natural storm berm that runs parallel to the foreshore area of the main village.The implementation of the TCAP on Nanumea, is a proposal to protect approximately 1,500m of high value shoreline with berm top barriers along the crest of the main natural storm berm. For approximately 160m of coastline in front of the church, following consultation with the Falekaupule, it is proposed to reinstate the former shore by constructing a new seawall made from precast concrete interlocking Seabee units where there are the remnants of existing but crumbling hard coastal protection measures.
+
+
+==== Tuvalu Survival Fund (TSF) ====
+The Tuvaluan government established the Tuvalu Survival Fund (TSF) in 2016 to finance climate change programs and as a fund available to respond promptly to natural disasters, such as tropical cyclones. Contributions are made to the TSF from the national budget.
+
+
+==== Plan to upload nation into the Metaverse ====
+In November of 2022, Simon Kofe, Minister for Justice, Communication & Foreign Affairs, proclaimed that in response to rising sea levels and the perceived failures by the outside world to combat global warming, the country would be uploading itself to the metaverse in an effort to preserve itself and allow it to function as a country even in the event of it being underwater.
+
+
+=== International cooperation ===
+
+
+==== Tuvalu's role at the Copenhagen Climate Change Conference 2009 ====
+
+In December 2009 the islands stalled talks at United Nations Climate Change Conference in Copenhagen, fearing some other developing countries were not committing fully to binding deals on a reduction in carbon emission, their chief negotiator stated "Tuvalu is one of the most vulnerable countries in the world to climate change, and our future rests on the outcome of this meeting." When the conference failed to reach a binding, meaningful agreement, Tuvalu's representative Ian Fry said, "It looks like we are being offered 30 pieces of silver to betray our people and our future... Our future is not for sale. I regret to inform you that Tuvalu cannot accept this document."Fry's speech to the conference was a highly impassioned plea for countries around the world to address the issues of man-made global warming resulting in climate change. The five-minute speech addressed the dangers of rising sea levels to Tuvalu and the world. In his speech Fry claimed man-made global warming to be currently "the greatest threat to humanity", and ended with an emotional "the fate of my country rests in your hands".
+
+
+==== 2015 United Nations Climate Change Conference (COP21) ====
+
+Enele Sopoaga said at the 2015 United Nations Climate Change Conference (COP21) that the goal for COP21 should be a global temperature goal of below 1.5 degrees Celsius relative to pre-industrial levels, which is the position of the Alliance of Small Island States.The countries participating in the Paris Agreement agreed to reduce their carbon output "as soon as possible" and to do their best to keep global warming "to well below 2 °C". Enele Sopoaga described the important outcomes of COP21 as including the stand-alone provision for assistance to small island states and some of the least developed countries for loss and damage resulting from climate change and the ambition of limiting temperature rise to 1.5 degrees by the end of the century.Prime Minister Enele Sopoaga said at the 2015 United Nations Climate Change Conference (COP21) that the goal for COP21 should be a global temperature goal of below 1.5 degrees Celsius relative to pre-industrial levels, which is the position of the Alliance of Small Island States. Ms. Pepetua Latasi, the director of the Department of Environment, was the Chief Negotiator for Tuvalu.
+Prime Minister Sopoaga said in his speech to the meeting of heads of state and government:
+
+Tuvalu's future at current warming, is already bleak, any further temperature increase will spell the total demise of Tuvalu.... For Small Island Developing States, Least Developed Countries and many others, setting a global temperature goal of below 1.5 degrees Celsius relative to pre-industrial levels is critical. I call on the people of Europe to think carefully about their obsession with 2 degrees. Surely, we must aim for the best future we can deliver and not a weak compromise.
+His speech concluded with the plea:
+
+Let's do it for Tuvalu. For if we save Tuvalu we save the world.
+The countries participating in the Paris Agreement agreed to reduce their carbon output "as soon as possible" and to do their best to keep global warming "to well below 2 degrees C". Enele Sopoaga described the important outcomes of the Paris Agreement as including the stand-alone provision for assistance to small island states and some of the least developed countries for loss and damage resulting from climate change and the ambition of limiting temperature rise to 1.5 degrees by the end of the century.
+
+
+== Society and culture ==
+
+
+=== Activism ===
+
+
+==== Climate change leadership and the Majuro Declaration 2013 ====
+In November 2011, Tuvalu was one of the eight founding members of Polynesian Leaders Group, a regional grouping intended to cooperate on a variety of issues including culture and language, education, responses to climate change, and trade and investment. Tuvalu participates in the Alliance of Small Island States (AOSIS), which is a coalition of small island and low-lying coastal countries that have concerns about their vulnerability to the adverse effects of global climate change. The Sopoaga Ministry led by Enele Sopoaga made a commitment under the Majuro Declaration, which was signed on 5 September 2013, to implement power generation of 100% renewable energy (between 2013 and 2020). This commitment is proposed to be implemented using Solar PV (95% of demand) and biodiesel (5% of demand). The feasibility of wind power generation will be considered.Marshall Islands President Christopher Loeak presented the Majuro Declaration to the UN Secretary-General Ban Ki-moon during General Assembly Leaders' week from 23 September 2013. The Majuro Declaration is offered as a "Pacific gift" to the UN Secretary-General in order to catalyze more ambitious climate action by world leaders beyond that achieved at the December 2009 United Nations Climate Change Conference (COP15). On 29 September 2013 the Deputy Prime Minister Vete Sakaio concluded his speech to the General Debate of the 68th Session of the United Nations General Assembly with an appeal to the world, "please save Tuvalu against climate change. Save Tuvalu in order to save yourself, the world".
+
+
+==== Women and children ====
+Women from Tuvalu, such as Moira Simmons-Avafoa, along with others from Pacific countries have been encouraged to use their voices to contribute to discussion about climate change – in particular how it disproportionately affects women and children.
+
+
+== See also ==
+
+Renewable energy in Tuvalu
+Climate change in the Pacific Islands
+
+
+== References ==
+
+
+== External links ==
+Te Kakeega III - National Strategy for Sustainable Development-2016-2020
+Talofa! Tuvalu Met Service
+South Pacific Sea Level and Climate Monitoring Project (SPSLCMP)
+Secretariat of the Pacific Regional Environment Program
+Talanoa Dialogue Portal (United Nations Framework Convention on Climate Change (UNFCCC))
+Tuvalu's options on setting up defences against the rising sea
+Small Is Beautiful A lobby group set up to help the island nation
+King Tide | The Sinking of Tuvalu (2007) by Juriaan Booij.
+Tuvalu (Director: Aaron Smith, "Hungry Beast" program, ABC June 2011) 6:40 minutes - YouTube video.
+ThuleTuvalu (2014) by Matthias von Gunten, HesseGreutert Film/OdysseyFilm.
+(28 Sep 2013) Address by His Excellency Vete Palakua Sakaio, Deputy Prime Minister of Tuvalu at the general debate of the 68th Session of the General Assembly of the United Nations *

@@ -1,0 +1,48 @@
+URI[https://en.wikipedia.org/wiki/Brunei_Malay]
+= Brunei_Malay = 
+The Brunei Malay language, or Kedayan (Malay: Bahasa Melayu Brunei, Jawi: بهاس ملايو بروني) is the most widely spoken language in Brunei and a lingua franca in some parts of Sarawak and Sabah, such as Labuan, Limbang, Lawas, Sipitang and Papar. Though Standard Malay is promoted as the official national language of Brunei, Brunei Malay is socially dominant and it is currently replacing the minority languages of Brunei, including the Dusun and Tutong languages. It is quite divergent from Standard Malay to the point where it is almost mutually unintelligible with it. Although the idea that Brunei Malay might be classified as a creole language has been discredited, it does bear considerable similarities to East Indonesian Malay-based creole languages.
+
+
+== Phonology ==
+The consonantal inventory of Brunei Malay is shown below:
+Notes:
+
+^ /t/ is dental in many varieties of Malay, but it is alveolar in Brunei.
+^ /k/ is velar in initial position, but it is realised as uvular /q/ in coda.
+^ Parenthesised sounds occur only in loanwords.
+All consonants can occur in word-initial position, except /h/. Therefore, Standard Malay hutan 'forest' became utan in Brunei Malay, and Standard Malay hitam 'black' became itam.
+All consonants can occur in word-final position, except the palatals /tʃ, dʒ, ɲ/ and voiced plosives /b, d, ɡ/. Exceptions can be found in a few borrowed words such as mac 'March' and kabab 'kebab'.
+^ Some analysts exclude /w/ and /j/ from this table because they are 'margin high vowels', while others include /w/ but exclude /j/.
+Brunei Malay has a three-vowel system: /i/, /a/, /u/. Acoustic variation in the realisation of these vowels is shown in the plot on the right, based on the reading of a short text by a single female speaker.While /i/ is distinct from the other two vowels, there is substantial overlap between /a/ and /u/. This is partly because of the vowel in the first syllable of words such as maniup ('to blow') which can be realised as [ə]. Indeed, the Brunei Malay dictionary uses an 'e' for the prefix in this word, listing it as meniup, though other analyses prefer to show prefixes such as this with 'a', on the basis that Brunei Malay just has three vowel phonemes.
+
+
+== Language use ==
+
+Brunei Malay, Kedayan and Kampong Ayer can be regarded as different dialects of Malay. Brunei Malay is used by the numerically and politically dominant Brunei people, who traditionally lived on water, while Kedayan is used by the land-dwelling farmers, and the Kampong Ayer dialect is used by the inhabitants of the river north of the capital. It has been estimated that 94% of the words of Brunei Malay and Kedayan are lexically related.Coluzzi studied the street signs in Bandar Seri Begawan, the capital city of Brunei Darussalam. The researcher concluded that except Chinese, "minority languages in Brunei have no visibility and play a very marginal role beyond the family and the small community."
+
+
+== Vocabulary words ==
+
+
+== Studies ==
+The vocabulary of Brunei Malay has been collected and published by several western explorers in Borneo including Pigafetta in 1521, De Crespigny in 1872, Charles Hose in 1893, A. S. Haynes in 1900, Sidney H. Ray in 1913, H. B. Marshall in 1921, and G. T. MacBryan in 1922, and some Brunei Malay words are included in A Malay-English Dictionary by R. J. Wilkinson.The language planning of Brunei has been studied by some scholars.
+
+
+== References ==
+
+
+== Further reading ==
+Royal Geographical Society (Great Britain) (1872). On Northern Borneo. Proceedings of the Royal Geographical Society XVI. Edward Stanford. pp. 171–187. [6] [7] [8] [9] [10]
+"Brunei Low Dialect" [11]
+Haynes, A. S. “A List of Brunei-Malay words.” JSBRAS 34 ( July 1900): 39—48. [12]
+Hose, Charles. No. 3. "A Journey up the Baram River to Mount Dulit and the Highlands of Borneo". The Geographical Journal. No. 3. VOL. I. (March, 1893)
+MacBryan, G.T. 1922. Additions to a vocabulary of Brunei-Malay. JSBRAS. 86:376–377. [13]
+Marshall, H.B. and Moulton, J.C. 1921, "A vocabulary of Brunei Malay", in Journal of the Straits Branch, Royal Asiatic Society. [14] [15] [16]
+Marshall, H.B. 1921. A vocabulary of Brunei Malay. JSBRAS. 83:45–74.
+Ray, Sidney H. 1913. The Languages of Borneo. The Sarawak Museum Journal. 1,4:1–196.
+Roth, Henry Ling. 1896. The Natives of Sarawak and British North Borneo. 2 vols. London: Truslove and Hanson. Rep. 1980. Malaysia: University of Malaya Press. [17] VOL I. [18] VOL II. VOL II. [19]
+Marshall, H. B. (1921), "A Vocabulary of Brunei Malay", Journal of the Straits Branch of the Royal Asiatic Society (83): 45–74, JSTOR 41561363
+
+
+== External links ==
+The Pronunciation of Brunei Malay

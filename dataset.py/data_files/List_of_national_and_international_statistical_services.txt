@@ -1,0 +1,57 @@
+URI[https://en.wikipedia.org/wiki/List_of_national_and_international_statistical_services]
+= List_of_national_and_international_statistical_services = 
+The following is a list of national and international statistical services.
+
+
+== Central national statistical services ==
+Nearly every country in the world has set a central public sector unit entirely devoted to the production, harmonisation and dissemination of official statistics that the public sector and the national community need to run, monitor and evaluate their operations and policies. This central statistical organisation does not produce every official statistic as other public sector organisations, like the national central bank or ministries in charge of agriculture, education or health, may be charged with producing and disseminating sector policy oriented statistical data. The statistical legislation and regulation generally attribute responsibilities and authorities according to statistical domains or functions in addition to those of the central unit.
+The table below lists these central statistical organisations by country. The United States has no central producing unit, but several units (also listed below) have been given responsibility over various federal statistics domains (see also: Federal Statistical System of the United States).
+
+
+=== Africa ===
+
+
+=== Americas ===
+
+
+=== Asia ===
+
+
+=== Europe ===
+(Institutions from countries marked with * are members of Eurostat's European Statistical System (ESS).)
+
+
+=== Oceania ===
+
+
+== Autonomous statistical services at sub-national level ==
+Some countries are politically organised as federations of states or of autonomous regions; also a specific territory might have been given a partial autonomy. Several of these sub-national regional units have set their own quasi-independent statistical department. A list is presented in Sub-national autonomous statistical services
+
+
+== International statistical services ==
+
+
+=== United Nations organisations ===
+
+
+=== Intergovernmental Development and Central Banks ===
+
+
+=== Regional intergovernmental organisations ===
+
+
+=== Other organisations ===
+
+
+== See also ==
+Official statistics
+Statistics
+List of statistical topics
+List of academic statistical associations
+National agencies responsible for GDP measurement
+
+
+== External links ==
+World Bank directory of national statistic sites
+OECD Worldwide statistical sources
+UN Statistics Division Information on National Statistical Systems

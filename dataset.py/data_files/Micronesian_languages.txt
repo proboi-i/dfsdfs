@@ -1,0 +1,39 @@
+URI[https://en.wikipedia.org/wiki/Micronesian_languages]
+= Micronesian_languages = 
+The twenty Micronesian languages form a family of Oceanic languages. Micronesian languages are known for their lack of plain labial consonants; they have instead two series, palatalized and labio-velarized labials.
+
+
+== Languages ==
+According to Jackson (1983, 1986) the languages group as follows:
+Nauruan
+Nuclear Micronesian family
+Kosraean
+Central Micronesian family
+Gilbertese
+Western Micronesian family
+Marshallese
+Chuukic-Pohnpeic family
+Chuukic (Chuukic)
+Pohnpeic (Ponapeic)The family appears to have originated in the east, likely on Kosrae, and spread westwards.  Kosrae appears to have been settled from the south, in the region of northern Vanuatu.
+Kevin Hughes (2020) revises Jackson's classification, especially with regards to the position of Nauruan, who states that there is no compelling argument from classifying Nauruan apart from other Micronesian languages. He proposes three hypotheses: (1) Nauruan is a primary branch alongside Kosraean, (2) Kosraean and Nauruan form a subgroup, and (3) Nauruan is a primary branch of the Central Micronesian family.
+
+
+== External classification ==
+
+John Lynch (2003) tentatively proposes that the Micronesian languages may form a subclade within the Southern Oceanic languages, and specifically a sister clade to the Loyalty Islands languages within the latter family. He notes the following features that the Micronesian and Loyalties languages share in common, among other features:
+
+Palatalized reflexes of the Proto-Oceanic bilabial series
+Loss of Proto-Oceanic *p before round vowels
+Unconditioned loss of Proto-Oceanic *y and (ungeminated) *qHowever, he does not state that this relationship is certain or even likely. He merely states "that this is something that could well be further investigated, even if only to confirm that Micronesian languages did not originate in the Loyalties."
+
+
+== References ==
+
+
+== Further reading ==
+Jackson, Frederick (1986), "On determining the external relationships of the Micronesian languages",  in Paul Geraghty; Lois Carrington; Stephen A. Wurm (eds.), FOCAL II: Papers from the Fourth International Conference on Austronesian Linguistics, Pacific Linguistics Series C, No. 94, Canberra: Pacific Linguistics, pp. 201–238, doi:10.15144/PL-C94, hdl:1885/145382.
+Hughes, Kevin (2020). The Synchronic and Diachronic Phonology of Nauruan: Towards a Definitive Classification of an Understudied Micronesian Language (PhD dissertation). City University of New York.
+
+
+== External links ==
+Micronesian Comparative Dictionary

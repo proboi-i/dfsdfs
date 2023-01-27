@@ -1,0 +1,171 @@
+URI[https://en.wikipedia.org/wiki/City_status_in_Ireland]
+= City_status_in_Ireland = 
+In Ireland, the term city has somewhat differing meanings in Northern Ireland and the Republic of Ireland.
+Historically, city status in the United Kingdom, and before that in the Kingdom of Ireland, was a ceremonial designation. It carried more prestige than the alternative municipal titles "borough", "town" and "township", but gave no extra legal powers. This remains the case in Northern Ireland, which is still part of the United Kingdom. In the Republic of Ireland, "city" has an additional designation in local government.
+
+
+== History up to 1920 ==
+Before the Partition of Ireland in 1920–22, the island formed a single jurisdiction in which "city" had a common history.
+The first edition of the Oxford English Dictionary s.v. city (published 1893), explains that in England, from the time of Henry VIII, the word was applied to towns with Church of England cathedrals. It goes on to say:
+
+The history of the word in Ireland is somewhat parallel. Probably all or most of the places having bishops have been styled on some occasion civitas; but some of these are mere hamlets, and the term 'city' is currently applied only to a few of them which are ancient and important boroughs. Thom's Directory applies it to Dublin, Cork, Derry, Limerick ('City of the violated treaty'), Kilkenny, and Waterford; also to Armagh and Cashel, but not to Tuam or Galway (though the latter is often called 'the City of the Tribes'). Belfast was, in 1888, created a 'city' by Royal Letters Patent.
+
+
+=== Cathair ===
+In most European languages, there is no distinction between "city" and "town", with the same word translating both English words; for example, ville in French, or Stadt in German.
+In Modern Irish, "city" is translated cathair and "town" is translated baile; however, this is a recent convention; previously baile was applied to any settlement, while cathair meant a walled or stone fortress, monastery, or city; the term was derived from Proto-Celtic *katrixs ("fortification"). For example, Dublin, long the metropolis of the island, has been called Baile Átha Cliath since the fifteenth century, while its earliest city charter is from 1172. The Irish text of the Constitution of Ireland translates "city of Dublin" as cathair Bhaile Átha Chliath, combining the modern sense of cathair with the historic sense of Baile.  Conversely, the original Irish names of such smaller settlements as Cahir, Cahirciveen, Caherdaniel, or Westport (Cathair na Mart) use cathair in the older sense.
+
+
+=== Civitas ===
+
+In the Roman Empire, the Latin civitas referred originally to the jurisdiction of a capital town, typically the territory of a single conquered tribe. Later it came to mean the capital town itself. When Christianity was organised in Gaul, each diocese was the territory of a tribe, and each bishop resided in the civitas. Thus civitas came to mean the site of a cathedral. This usage carried over generally to Anglo-Norman cité and English city in England. William Blackstone's Commentaries on the Laws of England of 1765 cites Edward Coke's Institutes of the Lawes of England of 1634:
+A city is a town incorporated, which is or hath been the see of a bishop; and though the bishoprick be dissolved, as at Westminster, yet still it remaineth a city.
+Subsequent legal authorities disputed this assertion; pointing out that the City of Westminster gained its status not implicitly from its (former) cathedral but explicitly from letters patent issued by Henry VIII shortly after the Diocese was established.In any case it was moot whether the association of city with dioceses applied to Ireland.  A 1331 writ of Edward III is addressed, among others, to "Civibus civitatis Dublin, —de Droghda, – de Waterford, de Cork, – de Limrik" implying civitas status for Drogheda. Some credence to the episcopal connection was given by the 1835 Report of the Commissioners into Municipal Corporations in Ireland and the 1846 Parliamentary Gazetteer of Ireland (see below).
+Whereas the Normans moved many English sees from a rural location to a regional hub, the cathedrals of the established Church of Ireland remained at the often rural sites agreed at the twelfth-century Synod of Rathbreasail and Synod of Kells.  The Roman Catholic church in Ireland had no cathedrals during the Protestant Ascendancy.
+Downpatrick is noted as "the City of Down" in a 1403 record, although no granting instrument is known. The corporation was defunct by 1661, when Charles II initiated plans to revive it, which were not completed.Although the charter of Clogher did not describe it as a city, the borough constituency in the Irish House of Commons was officially called "City of Clogher". It was a pocket borough of the Bishop of Clogher, disestablished by the Acts of Union 1800.John Caillard Erck records of Old Leighlin, "So flourishing indeed was this town in subsequent times, that it received the appellation of the city of Leighlin, and was inhabited by eighty-six burgesses during the prelacy of Richard Rocomb, who died in 1420."
+
+
+=== Royal charters ===
+For seven settlements in Ireland (listed below), the title "city" was historically conferred by the awarding of a royal charter which used the word "city" in the name of the body corporate charged with governing the settlement. (In fact, charters were for centuries written in Latin, with civitas denoting "city" and villa "town".) Armagh had no charter recognising it as a city but claimed the title by prescription; acts of the Parliament of Ireland in 1773 and 1791 refer to the "city of Armagh". There is one reference in James I's 1609 charter for Wexford to "our said city of Wexford", but the rest of the charter describes it as a town or borough.The label "city" carried prestige but was purely ceremonial and did not in practice affect the municipal government.  However, a few acts of the Parliament of Ireland were stated to apply to "cities". A section of the Newtown Act of 1748 allowed for members of a Corporation to be non-resident of its municipality in the case of "any town corporate or borough, not being a city". This was enacted because there were too few Protestants in smaller towns to make up the numbers. The 1835 Report of the Commissioners on Municipal Corporations in Ireland questioned whether it was applicable in the case of Armagh and Tuam, both being episcopal sees and hence "cities" in Blackstone's definition. In fact, non-residents had served on both corporations. The provisions of a 1785 act for "the lighting and cleaning of cities" were extended by a 1796 act to "other towns, not being cities". In the 1613 Irish House of Commons, members from a borough constituency were paid 50% more if it was a city.
+
+
+=== After the Union ===
+After the Acts of Union 1800, Ireland was part of the United Kingdom of Great Britain and Ireland, and British law governed the award and removal of the title "city".
+The Municipal Corporations (Ireland) Act 1840 abolished both those corporations which were already de facto defunct and those which were most egregiously unrepresentative. The latter category included Armagh and Cashel. It was moot whether these ipso facto were no longer cities; some later sources continued to describe them as such.
+
+
+==== The Parliamentary Gazetteer of Ireland ====
+
+The 1846 Parliamentary Gazetteer of Ireland uses the label "city" in a variety of ways. For Cork, Dublin, Kilkenny, Limerick, Derry, and Waterford, the definition at the start of the relevant article includes "a city". Armagh is defined as "[a] post, market, and ancient town, a royal borough, the capital of a county, and the ecclesiastical metropolis of Ireland"; however it is called a "city" throughout its article. Cashel is treated similarly to Armagh. For other episcopal seats, "city" is not used, or used in hedged descriptions like "episcopal city", "ancient city", or "nominal city". Of Kilfenora it says, "It belongs to the same category as Emly, Clonfert, Kilmacduagh, Ardfert, Connor, Clogher, Kilmore, Ferns, and Achonry, in exhibiting a shrunk and ghastly caricature upon the practical notion of a 'city;' and nothing but its episcopal name and historical associations prevent it from being regarded as a mean and shabby hamlet." Of Elphin it says "the general tone of at once masonry, manners, and business, is a hideous satire upon the idea of 'a city.'" Of Downpatrick it says "it displays a striking, and almost outré combination of unique and common place character, of ancient piles and modern edifices curiously mingling the features of city and village, of political grandeur and social littleness." There are passing references in other articles to "the city of Tuam", and "the city of Killaloe".
+
+
+==== Belfast ====
+Belfast in 1887 applied to be granted city status on the occasion of Queen Victoria's Golden Jubilee. The Home Office objected to setting a precedent for granting city status to towns not episcopal sees. Thomas Sexton asked in the House of Commons:
+with regard to the granting of the City Charter to Belfast. A Question was lately put in the House upon the subject, and ... [ W. H. Smith] replied ... that the Government did not intend to recommend any such grant in connection with Her Majesty's Jubilee. ... I will ask him for a reply upon the point ... I do not know that there is much difference between a town and a city; but some people prefer the title of city, and if there is any advantage in a place being called a city, I think the people of Belfast are entitled to have their choice. There are eight cities in Ireland, and Belfast is next to Dublin in point of importance; according to Thom's information, it is the first town of manufacturing importance. I believe there is a strong desire that the title of city should be given to the place. ... It seems absurd that Belfast should be shut out from any City Charter, while Armagh, with 10,000 of a population, is a city; and when Cashell, with a population of 4,000, enjoys the distinction also. Perhaps the right hon. Gentleman the Chancellor of the Exchequer will be able to say that, in consideration of the importance of the town, the Government will recommend the Crown to grant to it the title of city. Like civility, a Charter of this kind costs nothing; and, therefore, I think that this Charter might be promptly and gracefully conceded to the town.
+In 1888, the request was granted by letters patent, setting a precedent for non-episcopal cities which was soon emulated by Dundee and Birmingham.
+
+
+==== County corporate and county borough ====
+Prior to the Local Government (Ireland) Act 1898, eight Irish municipalities were counties corporate. This was distinct from being a city. Five of the counties corporate were "County of the City", the other three being "County of the Town". The other cities —Derry, and until 1840 Cashel and Armagh— were not governed separately from their surrounding counties; however, the official name of County Londonderry was for long "the City and County of Londonderry". The 1898 act abolished the corporate counties of the city of Kilkenny and the towns of Galway, Drogheda, and Carrickfergus, and converted the other four corporate counties into county boroughs, a new class which also included the cities of Derry and Belfast.
+
+
+=== "Lord Mayor" and "Right Honourable" ===
+
+The title lord mayor is given to the mayor of a privileged subset of UK cities. In some cases, a lord mayor additionally has the style "Right Honourable". The Mayor of Dublin gained the title "lord" by a charter of 1641, but the Confederate Wars and their aftermath meant the form "lord mayor" was not used until 1665. The style "Right Honourable" was originally a consequence of the lord mayor's ex officio membership of the Privy Council of Ireland; it was later explicitly granted by the 1840 Act. The Lord Mayor of Belfast gained the title in 1892 —based on the precedent of Dundee— and the style "Right Honourable" in 1923, in recognition of Belfast's status as capital of the newly created Northern Ireland. The Lord Mayor of Cork gained the title in 1900, to mark Queen Victoria's visit to Ireland; the style "Right Honourable" has never applied. Armagh gained a lord mayor in 2012 for the Diamond Jubilee of Elizabeth II. The title of Right Honourable in the cities of Cork and Dublin was abolished by the Local Government Act 2001.
+
+
+== Northern Ireland ==
+
+
+=== Armagh ===
+In the area which in 1921 became Northern Ireland, after Belfast received its charter in 1888, no further towns applied for city status until 1953, when Armagh began to argue for the restoration of the status lost in 1840. Its justification was that the Archbishop of Armagh was Primate of All Ireland. The council used the appellation "city" unofficially until 1994, when Charles, Prince of Wales, announced the status had been granted to mark the 1,550th anniversary of the traditional date of Armagh's foundation by Saint Patrick.
+
+
+=== Lisburn and Newry ===
+Lisburn and Ballymena entered a UK-wide competition for city status held to mark the millennium in 2000; neither was selected, being below the unofficial 200,000 population threshold. Controversy surrounded the decision-making process for the competition, and as a result the rules changed for a 2002 competition for the Golden Jubilee of Elizabeth II, with Northern Ireland guaranteed one new city. This encouraged more applicants, with Lisburn and Ballymena being joined by Carrickfergus, Craigavon, Coleraine, and Newry. Surprisingly, Lisburn and Newry were both successful, prompting allegations of political expediency, since Lisburn is strongly Protestant and Newry strongly Catholic. Ballymena representatives were aggrieved, and there were claims that Lisburn, as a suburb of Belfast, ought to be ineligible. Sinn Féin members of Newry and Mourne District Council were opposed to Newry's city status because of the connection to the British monarchy; other councillors welcomed the award.
+
+
+=== Bangor ===
+Coleraine and Craigavon were again among the 26 applicants for city status at the 2012 Diamond Jubilee of Elizabeth II, but neither was among the three successful. Ballymena, Bangor, and Coleraine were among the 39 towns applying for city status as part of the Platinum Jubilee Civic Honours, with Bangor among the eight winners announced on 20 May 2022. A Bangor Green Party member of Ards and North Down Borough Council suggested the £10,000 to update Bangor's four welcome signs should not be spent during the UK cost-of-living crisis. The production by the Crown Office of the letters patent formally granting city status was delayed by the death of Elizabeth II. The document is expected to be issued in late November 2022 and formally presented in Bangor in December by the Lord Lieutenant of Down to the Mayor of Ards and North Down.
+
+
+=== Current list ===
+Thus the recognised cities in Northern Ireland as of 16 November 2022 number five (Armagh, Belfast, Derry, Lisburn, Newry) plus one announced for later in 2022 (Bangor). The local government districts named after two of the new cities were granted a corresponding change of name: from "Armagh District" to "Armagh City and District", and from "Lisburn Borough" to "Lisburn City". just as the older cities had Belfast City Council and Derry City Council. Newry and Mourne district's name did not use the word "city". In 2014–2015, the number of districts was reduced from 26 to 11 by merging all except Belfast with neighbouring ones. The successor districts inherited city status where applicable: those linked to a charter (Belfast, Derry, Lisburn) by request of its council, and those not linked to a charter (Armagh, Newry) automatically. This is reflected in the names of Derry City and Strabane District Council, Lisburn and Castlereagh City Council and Armagh City, Banbridge and Craigavon Borough Council, but not in that of Newry, Mourne and Down District Council.
+
+
+== Republic of Ireland ==
+
+On the establishment of the Irish Free State in 1922 (Ireland from 1937), there were four county boroughs within its jurisdiction: Dublin, Cork, Limerick and Waterford. Galway was made a fifth county borough in 1986. The Local Government Act 2001 redesignated the five county boroughs as cities. These cities, like the county boroughs before them, are almost identical in power and function to the administrative counties. The five administrative cities were Cork, Dublin, Galway, Limerick, and Waterford. The Local Government Reform Act 2014 amalgamated the cities of Limerick and Waterford with their respective counties, creating local government areas under the category of Cities and Counties.
+
+
+=== Dublin ===
+The Constitution of Ireland adopted in 1937 prescribes that the Oireachtas must meet, and the President must reside, "in or near the City of Dublin"; the only occurrences of "city" in the Constitution. In fact Leinster House and Áras an Uachtaráin are within the municipal limits of the city. The formula "in or near the City of Dublin" had occurred in earlier statutes, including Ormonde's Articles of Peace of 1649 and the 1922 Constitution.
+
+
+=== Cork ===
+A 2015 review proposed a merger of Cork city and county by 2019, but was not implemented after objections from the city. Instead, the boundary of the city of Cork was extended.
+
+
+=== Limerick and Waterford ===
+The Local Government Reform Act 2014 amalgamated the local government areas of the county of Limerick and the city of Limerick to form a single local government area named as Limerick City and County, and amalgamated the local government areas of the county of Waterford and the city of Waterford to form a single local government area named as Waterford City and County, with the first elections held to the new Limerick City and County Council and Waterford City and County Council at the 2014 local elections. Each of the two merged local government areas is termed a "city and county". The changes are "without prejudice to the continued use of the description city in relation to Limerick and to Waterford". Within each "city and county", the municipal district which contains the city is styled a "metropolitan district" (Ceantar Cathrach in Irish).
+
+
+=== Galway ===
+
+Galway's status as a city was for long debatable. Its nickname was "the city of the Tribes" due to the fact that there were 14 main tribes there Athy, Blake, Bodkin, Browne, Darcy, Deane, French, Font, Joyce, Kirwan, Lynch, Martin, Morris, and Skerrett, families, but in British times it was legally a town, and its county corporate was the "county of the town of Galway". Its 1484 charter grants its corporation's head the title of Mayor, but so did the charters of Clonmel and Drogheda, as well as the charters extinguished in 1840 of Carrickfergus, Coleraine, Wexford, and Youghal, none of which claimed the title of "city".  Under Irish self Rule however there has never been any debate about the city's status
+Galway was nevertheless intermittently described as a city; John Speed's 1610 map of "Connaugh" includes a plan of "the Citie of Galway". In The history of the town and county of the town of Galway (1820), James Hardiman generally describes it as a town. However, his account of the 1651 map commissioned by Clanricarde concludes that at the time Galway "was universally acknowledged to be the most perfect city in the kingdom". Robert Wilson Lynd in 1912 referred to "Galway city – technically, it is only Galway town —". The Local Government (Galway) Act 1937, describes it as the "Town of Galway" and created a municipal government called the "Borough of Galway". On the other hand, the Aran Islands (Transport) Act 1936, regulates steamships travelling "between the City of Galway and the Aran Islands"; and legislators debating the passage of the 1937 Act frequently referred to Galway as a "city".In 1986, the Borough of Galway became the County Borough of Galway and ceased to part of County Galway. The Borough Council became the "City Council" and it acquired its own "City Manager". This was not presented as the acquiring of city status; Minister for the Environment Liam Kavanagh said it was "the extension of the Galway City boundary and for upgrading of that city to the status of county borough".A proposal to merge Galway city and county was put on hold in 2018 after Seanad opposition, and has now been completely abandoned by the government.Galway only officially became a city in 2001 under the Local Government Act of that year.
+
+
+=== Kilkenny ===
+The only city in the Republic which was not a county borough was Kilkenny. The original version of the 2001 Act would have reclassified as "towns" all "boroughs" which were not county boroughs, including Kilkenny. This drew objections from Kilkenny's borough councillors, and from TDs Phil Hogan and John McGuinness. Accordingly, a clause was added to the bill:
+This section is without prejudice to the continued use of the description city in relation to Kilkenny, to the extent that that description was used before the establishment day and is not otherwise inconsistent with this Act.
+The Act also states:
+Subject to this Act, royal charters and letters patent relating to local authorities shall continue to apply for ceremonial and related purposes in accordance with local civic tradition but shall otherwise cease to have effect.
+Minister of State Tom Kitt explained these provisions as follows:
+New provisions to recognise the term "city" to describe Kilkenny in line with long-established historical and municipal practice were brought in. Kilkenny was reconstituted as a borough corporation under the Municipal Corporations Act, 1840, as were Clonmel, Drogheda and Sligo. Section 2 of the 1840 Act specifically provided that Kilkenny is a borough which is still the current legal position in local government law. Traditionally, however, Kilkenny had been referred to as a city and this has its roots in local usage, deriving from a 17th-century charter. It has not been a city in terms of local government law for at least 160 years.
+As I have indicated, the Bill as published specifically provides that local charters can continue for ceremonial or related purposes, thereby safeguarding local tradition and practice. There was, therefore, no difficulty in Kilkenny continuing with this long-established tradition. However, Kilkenny Corporation indicated that it was concerned that the existing provisions in the Bill would not maintain the status quo in addition to concerns with the other boroughs that the term "town" was some form of diminution of status. In view of these concerns the Minister [ Noel Dempsey ] indicated that he would include a provision in the Bill to specifically recognise the traditional usage of the term "city" to describe Kilkenny. For the first time ever in the Local Government Act the unique position of Kilkenny is being recognised in local government law.
+
+The Minister honoured in full his commitment on Kilkenny and delivered on what the deputation from Kilkenny sought. It was never intended that Kilkenny would be a city such as Dublin or Cork. All Kilkenny wanted was to be allowed to continue to use the term "city" in recognition of its ancient tradition. The deputation expressed its satisfaction to the Minister on his proposal.
+In 2002, Phil Hogan (a Fine Gael TD) asked for "full city status" for Kilkenny; in 2009 he said "Kilkenny has lost its City status courtesy of Fianna Fáil".The Local Government Reform Act 2014 established new municipal districts throughout the state and to abolish all the boroughs, including Kilkenny. Whereas the municipal district encompassing other boroughs are styled "the Borough District of Sligo [or Drogheda/Wexford/Clonmel]", that encompassing Kilkenny is styled "the Municipal District of Kilkenny City".
+
+
+=== National Spatial Strategy ===
+
+The National Spatial Strategy (NSS) for 2002–2020 planned to manage urban sprawl by identifying certain urban centres outside Dublin as areas for concentrated growth. The NSS report calls the regional centres "gateways" and the sub-regional centres "hubs". It does not call them "cities", but among the features it lists for "Gateways" are "City level range of theatres, arts and sports centres and public spaces/parks." and "City-scale water and waste management services." It also gives a target population for a gateway of over 100,000, including the suburban hinterland.The report describes Cork, Limerick/Shannon, Galway and Waterford, as  "existing gateways" and identifies four "new national level gateways": Dundalk, Sligo, and two "linked" gateways
+Letterkenny/(Derry), and Athlone/Tullamore/Mullingar. The campaigns of Sligo and Dundalk for city status have referenced their status as regional gateways. The "Midlands Gateway", a polycentric zone based on Tullamore, Athlone, and Mullingar, has occasionally been described as constituting a new or future city. A 2008 study by Dublin Institute of Technology concluded that the growth in population of the designated gateways was far less than had been planned.
+
+
+=== Proposed cities ===
+
+Local councillors and TDs from several towns have raised the possibility of gaining city status. Prior to the 2001 Act, these suggestions were a matter of simple prestige. Since the 2001 Act, the suggestions sometimes relate to the administrative functions of county-equivalent cities and sometimes to the ceremonial title. The Minister for Housing, Local Government and Heritage has not entertained these suggestions, and has said "A modernised legal framework and structures at both regional and local level are now in place ... I have no proposals for amending legislation, which would be necessary to establish new city councils."
+
+
+==== Drogheda ====
+The possibility of Drogheda gaining city status was raised in Dáil questions by Gay Mitchell in 2005, Michael Noonan in 2007 and by Fergus O'Dowd in 2007 and 2010. The Borough Council's draft development plan for 2011–17 does not mention city status, although the manager's summary of public submissions reported backing for city status for the greater Drogheda area, incorporating adjacent areas in Counties Louth and Meath. In 2010, a "Drogheda City Status Campaign" was launched, and in March 2012, Drogheda Borough Council passed a resolution, "That the members of Drogheda Borough Council from this day forward give their consent and approval to the people of Drogheda referring to Drogheda as the City of Drogheda".
+
+
+==== Dún Laoghaire ====
+A 1991 official report recommended that the borough of Dún Laoghaire should be "upgraded to city [i.e. county borough] status" with an extended boundary; instead the Local Government (Dublin) Act 1993 used a similar boundary to delimit a new administrative county, subsuming the old borough, named Dún Laoghaire–Rathdown.
+
+
+==== Dundalk ====
+Dundalk's development plan for 2003–09 stated "Dundalk, in order to fulfil its potential as a regional growth centre, should, in the near future achieve City Status, to acknowledge its present role and to enable its future growth as a regional gateway." Michael Noonan asked a question in the Dáil in 2007. Dundalk's draft development plan for 2009–15 seeks to develop the "Newry–Dundalk Twin City Region" with Newry, which is nearby across the border. The county manager of County Louth made a summary of public submissions on the plan, which predicted Dundalk Institute of Technology being upgraded to university status would help to win city status.
+
+
+==== Sligo ====
+John Perry raised an adjournment debate in 1999 calling for Sligo to be declared a "millennium city", stating:
+While the Government will probably say Sligo can call itself a city, an official declaration by the Government to declare Sligo the millennium city will confer an official status on it. The word 'city' has a certain meaning for investors. ... The requirement for a town to be called a city is that it be a seat of government or a cathedral town. Sligo is sometimes called a town and sometimes a city. This leads to confusion and the region falls between both stools. An official declaration of Sligo as a millennium city would have major significance for the entire area. The word city has a certain meaning for investors. It presumes a certain level of services and a status towards which the world reacts very favourably. The Fitzpatrick report established Sligo as a future growth centre. Even officials of Sligo Corporation are confused because in certain instances Sligo is called a town and in others a city.
+Declan Bree, mayor of the town in 2005, advocated "Sligo gaining city status similar to Limerick, Galway and Waterford." The town council and county council held meetings to plan an expansion of the borough boundaries with a view to enhancing the prospects for such a change.The main building of Sligo Borough Council is called "City Hall".  However Sligo is still not officially recognised as a City
+
+
+==== Swords ====
+Michael Kennedy, TD for Dublin North, stated in 2007 that "Fingal County Council is planning to confer city status on our county town of Swords in the next 15 to 20 years as its population grows to 100,000." In May 2008, the Council published "Your Swords, an Emerging City, Strategic Vision 2035", with a vision of Swords as "an emerging green city of 100,000 people."
+
+
+==== Tallaght ====
+A campaign to have Tallaght given city status was launched in 2003 by Eamonn Maloney, a member of South Dublin County Council. It is supported by the Tallaght Area Committee, comprising 10 of the 26 county councillors. Advantages envisaged by the campaign's website include having a dedicated Industrial Development Authority branch office for attracting investment, and facilitating the upgrade of Institute of Technology, Tallaght to university status. When Charlie O'Connor asked about city status for "Tallaght, Dublin 24" in 2007, the minister had "no plans to re-designate South Dublin County Council as a city council, or to establish Tallaght as a separate city authority". O'Connor said later "The only problem I can see is our close proximity to Dublin". The head of the local chamber of commerce said in 2010, "If Tallaght was anywhere else in the country, it would have been a city years ago. We already have the population, the hospital and the third-level institution. If we're missing something, someone needs to tell us, clarify what the criteria [are], and we'll get it."
+
+
+== List ==
+This list includes places which have at some time had a legally recognised claim to the title "city". Informally the term may have been applied to other places or at other times.
+
+
+=== Current ===
+Cities in Northern Ireland are denoted by a light blue background.
+
+
+=== Former ===
+
+
+== See also ==
+List of places in Ireland
+ Cities portal
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===

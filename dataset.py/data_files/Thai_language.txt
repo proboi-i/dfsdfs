@@ -1,0 +1,293 @@
+URI[https://en.wikipedia.org/wiki/Thai_language]
+= Thai_language = 
+Thai, or Central Thai (historically Siamese; Thai: ภาษาไทย), is a Tai language of the Kra–Dai language family spoken by the Central Thai people and a vast majority of Thai Chinese. It is the sole official language of Thailand.Thai is the most spoken of over 60 languages of Thailand by both number of native and overall speakers. Over half of its vocabulary is derived from or borrowed from Pali, Sanskrit, Mon and Old Khmer. It is a tonal and analytic language. Thai has a complex orthography and system of relational markers. Spoken Thai, depending on standard sociolinguistic factors such as age, gender, class, spatial proximity, and the urban/rural divide, is partly mutually intelligible with Lao, Isan, and some fellow Thai topolects. These languages are written with slightly different scripts, but are linguistically similar and effectively form a dialect continuum.Thai language is spoken by over 69 million people (2020). Moreover, most Thais in the northern and the northeastern (Isaan) parts of the country today are bilingual speakers of Central Thai and their respective regional dialects because (Central) Thai is the language of television, education, news reporting, and all forms of media. A recent research found that the speakers of the Northern Thai language (or Kham Mueang) have become so few, as most people in northern Thailand now invariably speak Standard Thai, so that they are now using mostly Central Thai words and seasoning their speech only with "kham mueang" accent. Standard Thai is based on the register of the educated classes by Central Thai people in the Metropolis.In addition to Central Thai, Thailand is home to other related Tai languages. Although some linguists classify these dialects as related but distinct languages, native speakers often identify them as regional variants or dialects of the "same" Thai language, or as "different kinds of Thai". As a dominant language in all aspects of society in Thailand, Thai initially saw gradual and later widespread adoption as a second language among the country's minority ethnic groups from the mid-late Ayutthaya period onward. Ethnic minorities today are predominantly bilingual, speaking Thai alongside their native language or dialect.
+
+
+== Classification ==
+
+Standard Thai is classified as one of the Chiang Saen languages—others being Tai Lanna, Southern Thai and numerous smaller languages, which together with the Northwestern Tai and Lao-Phutai languages, form the Southwestern branch of Tai languages. The Tai languages are a branch of the Kra–Dai language family, which encompasses a large number of indigenous languages spoken in an arc from Hainan and Guangxi south through Laos and Northern Vietnam to the Cambodian border.
+Standard Thai is the principal language of education and government and spoken throughout Thailand. The standard is based on the dialect of the central Thai people, and it is written in the Thai script.
+
+
+== History ==
+According to a Chinese source, during the Ming Dynasty, Yingya Shenglan (1405–1433), Ma Huan reported on the language of the Hsien Lo, saying that it somewhat resembled the local patois as pronounced in Guangdong: 107  Thai has undergone various historical sound changes. Some of the most significant changes occurred during the evolution from Old Thai to modern Thai. The Thai writing system has an eight-century history and many of these changes, especially in consonants and tones, are evidenced in the modern orthography.
+
+
+=== Old Thai ===
+Old Thai had a three-way tone distinction on "live syllables" (those not ending in a stop), with no possible distinction on "dead syllables" (those ending in a stop, i.e. either /p/, /t/, /k/ or the glottal stop that automatically closes syllables otherwise ending in a short vowel).
+There was a two-way voiced vs. voiceless distinction among all fricative and sonorant consonants, and up to a four-way distinction among stops and affricates.  The maximal four-way occurred in labials (/p pʰ b ʔb/) and dentals (/t tʰ d ʔd/); the three-way distinction among velars (/k kʰ ɡ/) and palatals (/tɕ tɕʰ dʑ/), with the glottalized member of each set apparently missing.
+The major change between old and modern Thai was due to voicing distinction losses and the concomitant tone split.  This may have happened between about 1300 and 1600 CE, possibly occurring at different times in different parts of the Thai-speaking area.  All voiced–voiceless pairs of consonants lost the voicing distinction:
+
+Plain voiced stops (/b d ɡ dʑ/) became voiceless aspirated stops (/pʰ tʰ kʰ tɕʰ/).
+Voiced fricatives became voiceless.
+Voiceless sonorants became voiced.However, in the process of these mergers, the former distinction of voice was transferred into a new set of tonal distinctions.  In essence, every tone in Old Thai split into two new tones, with a lower-pitched tone corresponding to a syllable that formerly began with a voiced consonant, and a higher-pitched tone corresponding to a syllable that formerly began with a voiceless consonant (including glottalized stops).  An additional complication is that formerly voiceless unaspirated stops/affricates (original /p t k tɕ ʔb ʔd/) also caused original tone 1 to lower, but had no such effect on original tones 2 or 3.
+The above consonant mergers and tone splits account for the complex relationship between spelling and sound in modern Thai.  Modern "low"-class consonants were voiced in Old Thai, and the terminology "low" reflects the lower tone variants that resulted.  Modern "mid"-class consonants were voiceless unaspirated stops or affricates in Old Thai—precisely the class that triggered lowering in original tone 1 but not tones 2 or 3.  Modern "high"-class consonants were the remaining voiceless consonants in Old Thai (voiceless fricatives, voiceless sonorants, voiceless aspirated stops).  The three most common tone "marks" (the lack of any tone mark, as well as the two marks termed mai ek and mai tho) represent the three tones of Old Thai, and the complex relationship between tone mark and actual tone is due to the various tonal changes since then.  Since the tone split, the tones have changed in actual representation to the point that the former relationship between lower and higher tonal variants has been completely obscured.  Furthermore, the six tones that resulted after the three tones of Old Thai were split have since merged into five in standard Thai, with the lower variant of former tone 2 merging with the higher variant of former tone 3, becoming the modern "falling" tone.
+
+
+==== Early Old Thai ====
+
+Early Old Thai also apparently had velar fricatives /x ɣ/ as distinct phonemes.  These were represented by the now-obsolete letters ฃ kho khuat and ฅ kho khon, respectively.  During the Old Thai period, these sounds merged into the corresponding stops /kʰ ɡ/, and as a result the use of these letters became unstable.
+At some point in the history of Thai, a palatal nasal phoneme /ɲ/ also existed, inherited from Proto-Tai.  A letter ญ yo ying also exists, which is used to represent a palatal nasal in words borrowed from Sanskrit and Pali, and is currently pronounced /j/ at the beginning of a syllable but /n/ at the end of a syllable.  Most native Thai words that are reconstructed as beginning with /ɲ/ are also pronounced /j/ in modern Thai, but generally spelled with ย yo yak, which consistently represents /j/.  This suggests that /ɲ/ > /j/ in native words occurred in the pre-literary period.  It is unclear whether Sanskrit and Pali words beginning with /ɲ/ were borrowed directly with a /j/, or whether a /ɲ/ was re-introduced, followed by a second change /ɲ/ > /j/.
+Proto-Tai also had a glottalized palatal sound, reconstructed as /ʔj/ in Li Fang-Kuei (1977).  Corresponding Thai words are generally spelled หย, which implies an Old Thai pronunciation of /hj/ (or /j̊/), but a few such words are spelled อย, which implies a pronunciation of /ʔj/ and suggests that the glottalization may have persisted through to the early literary period.
+
+
+=== Vowel developments ===
+The vowel system of modern Thai contains nine pure vowels and three centering diphthongs, each of which can occur short or long. According to Li (1977), however, many Thai dialects have only one such short–long pair (/a aː/), and in general it is difficult or impossible to find minimal short–long pairs in Thai that involve vowels other than /a/ and where both members have frequent correspondences throughout the Tai languages.  More specifically, he notes the following facts about Thai:
+
+In open syllables, only long vowels occur. (This assumes that all apparent cases of short open syllables are better described as ending in a glottal stop.  This makes sense from the lack of tonal distinctions in such syllables, and the glottal stop is also reconstructible across the Tai languages.)
+In closed syllables, the long high vowels /iː ɯː uː/ are rare, and cases that do exist typically have diphthongs in other Tai languages.
+In closed syllables, both short and long mid /e eː o oː/ and low /ɛ ɛː ɔ ɔː/ do occur.  However, generally, only words with short /e o/ and long /ɛː ɔː/ are reconstructible back to Proto-Tai.
+Both of the mid back unrounded vowels /ɤ ɤː/ are rare, and words with such sounds generally cannot be reconstructed back to Proto-Tai.Furthermore, the vowel that corresponds to short Thai /a/ has a different and often higher quality in many of the Tai languages compared with the vowel corresponding to Thai /aː/.
+This leads Li to posit the following:
+
+Proto-Tai had a system of nine pure vowels with no length distinction, and possessing approximately the same qualities as in modern Thai: high /i ɯ u/, mid /e ɤ o/, low /ɛ a ɔ/.
+All Proto-Tai vowels were lengthened in open syllables, and low vowels were also lengthened in closed syllables.
+Modern Thai largely preserved the original lengths and qualities, but lowered /ɤ/ to /a/, which became short /a/ in closed syllables and created a phonemic length distinction /a aː/.  Eventually, length in all other vowels became phonemic as well and a new /ɤ/ (both short and long) was introduced, through a combination of borrowing and sound change.  Li believes that the development of long /iː ɯː uː/ from diphthongs, and the lowering of /ɤ/ to /a/ to create a length distinction /a aː/, had occurred by the time of Proto-Southwestern-Tai, but the other missing modern Thai vowels had not yet developed.Note that not all researchers agree with Li.  Pittayaporn (2009), for example, reconstructs a similar system for Proto-Southwestern-Tai, but believes that there was also a mid back unrounded vowel /ə/ (which he describes as /ɤ/), occurring only before final velar /k ŋ/.  He also seems to believe that the Proto-Southwestern-Tai vowel length distinctions can be reconstructed back to similar distinctions in Proto-Tai.
+
+
+== Phonology ==
+
+
+=== Consonants ===
+
+
+==== Initials ====
+Standard Thai distinguishes three voice-onset times among plosive and affricate consonants:
+
+voiced
+tenuis (unvoiced, unaspirated)
+aspiratedWhere English makes a distinction between voiced /b/ and unvoiced aspirated /pʰ/, Thai distinguishes a third sound – the unvoiced, unaspirated /p/ that occurs in English only as an allophone of /pʰ/, for example after an /s/ as in the sound of the p in "spin". There is similarly an alveolar  /d/, /t/, /tʰ/ triplet in Thai. In the velar series there is a /k/, /kʰ/ pair and in the postalveolar series a /t͡ɕ/, /t͡ɕʰ/ pair, but the language lacks the corresponding voiced sounds /ɡ/ and /dʑ/. (In loanwords from English, English /ɡ/ and /d͡ʒ/ are borrowed as the tenuis stops /k/ and /t͡ɕ/.)
+In each cell below, the first line indicates International Phonetic Alphabet (IPA), the second indicates the Thai characters in initial position (several letters appearing in the same box have identical pronunciation). The letter ห, one of the two h letters, is also used to help write certain tones (described below).
+
+
+==== Finals ====
+Although the overall 44 Thai consonant letters provide 21 sounds in case of initials, the case for finals is different. For finals, only eight sounds, as well as no sound, called mātrā (มาตรา) are used. To demonstrate, at the end of a syllable, บ (/b/) and ด (/d/) are devoiced, becoming pronounced as /p/ and /t/ respectively. Additionally, all plosive sounds are unreleased. Hence, final /p/, /t/, and /k/ sounds are pronounced as [p̚], [t̚], and [k̚] respectively.
+Of the consonant letters, excluding the disused ฃ and ฅ, six (ฉ ผ ฝ ห อ ฮ) cannot be used as a final and the other 36 are grouped as following.
+
+
+==== Clusters ====
+In Thai, each syllable in a word is articulated independently, so consonants from adjacent syllables (i.e. heterosyllabic) show no sign of articulation as a cluster. Thai has specific phonotactical patterns that describe its syllable structure, including tautosyllabic consonant clusters, and vowel sequences. In core Thai words (i.e. excluding loanwords), only clusters of two consonants occur, of which there are 11 combinations:
+
+/kr/ (กร), /kl/ (กล), /kw/ (กว)
+/kʰr/ (ขร,คร), /kʰl/ (ขล,คล), /kʰw/ (ขว,คว)
+/pr/ (ปร), /pl/ (ปล)
+/pʰr/ (พร), /pʰl/ (ผล,พล)
+/tr/ (ตร)The number of clusters increases in loanwords such as /tʰr/ (ทร) in อินทรา (/intʰraː/, from Sanskrit indrā) or /fr/ (ฟร) in ฟรี (/friː/, from English free); however, these usually only occur in initial position, with either /r/, /l/, or /w/ as the second consonant sound and not more than two sounds at a time.
+
+
+=== Vowels ===
+The vowel nuclei of the Thai language are given in the following table. The top entry in every cell is the symbol from the International Phonetic Alphabet, the second entry gives the spelling in the Thai script, where a dash (–) indicates the position of the initial consonant after which the vowel is pronounced. A second dash indicates that a final consonant follows.
+
+Each vowel quality occurs in long-short pairs: these are distinct phonemes forming distinct words in Thai.The long-short pairs are as follows:
+
+There are also opening and closing diphthongs in Thai, which Tingsabadh & Abramson (1993) analyze as /Vj/ and /Vw/. For purposes of determining tone, those marked with an asterisk are sometimes classified as long:
+
+Additionally, there are three triphthongs. For purposes of determining tone, those marked with an asterisk are sometimes classified as long:
+
+
+=== Tones ===
+
+There are five phonemic tones: mid, low, falling, high, and rising, sometimes referred to in older reference works as rectus, gravis, circumflexus, altus, and demissus, respectively. The table shows an example of both the phonemic tones and their phonetic realization, in the IPA. Moren & Zsiga (2006) and Zsiga & Nitisaroj (2007) provide phonetic and phonological analyses of Thai tone realization.
+
+Notes:
+
+Five-level tone value: Mid [33], Low [21], Falling [43], High [44], Rising [323]. Traditionally, the high tone was recorded as either [44] or [45]. This remains true for the older generation, but the high tone is changing to [334] among youngsters.
+For the diachronic changes of tone value, please see Pittayaporn (2007).
+The full complement of tones exists only in so-called "live syllables", those that end in a long vowel or a sonorant (/m/, /n/, /ŋ/, /j/, /w/).
+For "dead syllables", those that end in a plosive (/p/, /t/, /k/) or in a short vowel, only three tonal distinctions are possible: low, high, and falling. Because syllables analyzed as ending in a short vowel may have a final glottal stop (especially in slower speech), all "dead syllables" are phonetically checked, and have the reduced tonal inventory characteristic of checked syllables.
+
+
+==== Unchecked syllables ====
+
+
+==== Checked syllables ====
+In some English loanwords, closed syllables with a long vowel ending in an obstruent sound have a high tone, and closed syllables with a short vowel ending in an obstruent sound have a falling tone.
+
+1 May be /báːs.kêt.bɔ̄l/ in educated speech.
+
+
+== Grammar ==
+From the perspective of linguistic typology, Thai can be considered to be an analytic language. The word order is subject–verb–object, although the subject is often omitted. Additionally, Thai is an isolating language lacking any form of inflectional morphology whatsoever. Thai pronouns are selected according to the gender and relative status of speaker and audience.
+
+
+=== Adjectives and adverbs ===
+There is no morphological distinction between adverbs and adjectives. Many words can be used in either function. They follow the word they modify, which may be a noun, verb, or another adjective or adverb.
+
+Comparatives take the form "A X กว่า B" (kwa, [kwàː]), 'A is more X than B'. The superlative is expressed as "A X ที่สุด" (thi sut, [tʰîːsùt]), 'A is most X'.
+
+Adjectives in Thai can be used as complete predicates. Because of this, many words used to indicate tense in verbs (see Verbs:Tense below) may be used to describe adjectives.
+
+Remark ฉันหิวแล้ว mostly means 'I am hungry right now' because normally, แล้ว ([lɛ́ːw]) marks the change of a state, but แล้ว has many other uses as well. For example, in the sentence, แล้วเธอจะไปไหน ([lɛ́ːw tʰɤː tɕ͡àʔ paj nǎj]): 'So where are you going?', แล้ว ([lɛ́ːw]) is used as a discourse particle
+
+
+=== Verbs ===
+Verbs do not inflect. They do not change with person, tense, voice, mood, or number; nor are there any participles. The language being analytic and case-less, the relationship between subject, direct and indirect object is conveyed through word order and auxiliary verbs. Transitive verbs follow the pattern subject-verb-object.
+
+In order to convey tense, aspect and mood (TAM), the Thai verbal system employs auxiliaries and verb serialization. TAM markers are however not obligatory and often left out in colloquial use. In such cases, the precise meaning is determined through context. This results in sentences lacking both TAM markers and overt context being ambiguous and subject to various interpretations.
+
+The sentence chan kin thi nan can thus be interpreted as 'I am eating there', 'I eat there habitually', 'I will eat there' or 'I ate there'.  Aspect markers in Thai have been divided into four distinct groups based on their usage. These markers could appear either before or after the verb. The following list describes some of the most commonly used aspect markers. A number of these aspect markers are also full verbs on their own and carry a distinct meaning. For example yu (อยู่) as a full verb means 'to stay, to live or to remain at'. However, as an auxiliary it can be described as a temporary aspect or continuative marker.
+Imperfective
+อยู่ yu
+ไป pai
+ยัง yang
+กำลัง kamlang
+Perfective
+ได้ dai
+Perfect
+แล้ว laew,
+มา ma
+Prospective/Future
+จะ chaThe imperfective aspect marker กำลัง (kamlang, [kamlaŋ], currently) is used before the verb to denote an ongoing action (similar to the -ing suffix in English). Kamlang is commonly interpreted as a progressive aspect marker. Similarly, อยู่ (yu, [jùː]) is a post-verbal aspect marker which corresponds to the continuative or temporary aspect.
+
+The marker ได้ (dai, [dâːj]) is usually analyzed as a past tense marker when it occurs before the verb. As a full verb, dai means 'to get or receive'. However, when used after a verb, dai takes on a meaning of potentiality or successful outcome of the main verb.
+
+แล้ว (laeo, [lɛ́ːw], 'already') is treated as a marker indicating the perfect aspect. That is to say, laeo marks the event as being completed at the time of reference. Laeo has to other meanings in addition to its use as a TAM marker. Laeo can either be a conjunction for sequential actions or an archaic word for 'to finish'.
+
+Future can be indicated by จะ (cha, [t͡ɕaʔ], 'will') before the verb or by a time expression indicating the future. For example:
+
+The passive voice is indicated by the insertion of ถูก (thuk, [tʰùːk]) before the verb. For example:
+
+This describes an action that is out of the receiver's control and, thus, conveys suffering.Negation is indicated by placing ไม่ (mai, [mâj] not) before the verb.
+
+เขาไม่ตี, (khao mai ti) 'He is not hitting' or 'He doesn't hit'.Thai exhibits serial verb constructions, where verbs are strung together. Some word combinations are common and may be considered set phrases.
+
+
+=== Nouns ===
+Nouns are uninflected and have no gender; there are no articles. Thai nouns are bare nouns and can be interpreted as singular, plural, definite or indefinite. Some specific nouns are reduplicated to form collectives: เด็ก (dek, 'child') is often repeated as เด็ก ๆ (dek dek) to refer to a group of children. The word พวก (phuak, [pʰûak]) may be used as a prefix of a noun or pronoun as a collective to pluralize or emphasise the following word. (พวกผม, phuak phom, [pʰûak pʰǒm], 'we', masculine; พวกเรา phuak rao, [pʰûak raw], emphasised 'we'; พวกหมา phuak ma, '(the) dogs'). Plurals are expressed by adding classifiers, used as measure words (ลักษณนาม), in the form of noun-number-classifier:
+
+While in English, such classifiers are usually absent ("four chairs") or optional ("two bottles of beer" or "two beers"), a classifier is almost always used in Thai (hence "chair four item" and "beer two bottle").
+Possession in Thai is indicated by adding the word ของ (khong) in front of the noun or pronoun, but it may often be omitted. For example:
+
+
+==== Nominal phrases ====
+Nominal phrases in Thai often use a special class of words classifiers. As previously mentioned, these classifiers are obligatory for noun phrases containing numerals e.g.
+
+In the previous example khon (คน) acts as the classifier in the nominal phrase. This follows the form of noun-cardinal-classifier mentioned above. Classifiers are also required to form quantified noun phrases in Thai with some quantifiers such as ทุก ('all'), บาง ('some'). The examples below are demonstrated using the classifier khon, which is used for people.
+
+However, classifiers are not utilized for negative quantification. Negative quantification is expressed by the pattern ไม่มี (mai mi, [majmiː]) + NOUN. Classifiers are also used for demonstratives such as นี้ (ni, 'this/these') and นั่น (nan, 'that/those'). The syntax for demonstrative phrases, however, differ from that of cardinals and follow the pattern noun-classifier-demonstrative. For example, the noun phrase "this dog" would be expressed in Thai as หมาตัวนี้ (literally 'dog (classifier) this'). Classifiers in Thai
+
+
+=== Pronouns ===
+Subject pronouns are often omitted, with nicknames used where English would use a pronoun. See Thai names#Formal and informal names for more details. Pronouns, when used, are ranked in honorific registers, and may also make a T–V distinction in relation to kinship and social status. Specialised pronouns are used for royalty, and for Buddhist monks. The following are appropriate for conversational use:
+
+The reflexive pronoun is ตัวเอง (tua eng), which can mean any of: myself, yourself, ourselves, himself, herself, themselves. This can be mixed with another pronoun to create an intensive pronoun, such as ตัวผมเอง (tua phom eng, lit: I myself) or ตัวคุณเอง (tua khun eng, lit: you yourself). Thai also does not have a separate possessive pronoun. Instead, possession is indicated by the particle ของ (khong).  For example, "my mother" is แม่ของผม (mae khong phom, lit: mother of I). This particle is often implicit, so the phrase is shortened to แม่ผม (mae phom). Plural pronouns can be easily constructed by adding the word พวก (phuak) in front of a singular pronoun as in พวกเขา (phuak khao) meaning 'they' or พวกเธอ (phuak thoe) meaning the plural sense of 'you'. The only exception to this is เรา (rao), which can be used as singular (informal) or plural, but can also be used in the form of พวกเรา (phuak rao), which is only plural.
+Thai has many more pronouns than those listed above. Their usage is full of nuances. For example:
+
+"ผม เรา ฉัน ดิฉัน หนู กู ข้า กระผม ข้าพเจ้า กระหม่อม อาตมา กัน ข้าน้อย ข้าพระพุทธเจ้า อั๊ว เขา" all translate to "I", but each expresses a different gender, age, politeness, status, or relationship between speaker and listener.
+เรา (rao) can be first person (I), second person (you), or both (we), depending on the context.
+Children or younger female could use or being referred by word หนู (nu) when talking with older person. The word หนู could be both feminine first person (I) and feminine second person (you) and also neuter first and neuter second person for children.
+หนู commonly means rat or mouse, though it also refers to small creatures in general.
+The second person pronoun เธอ (thoe) (lit: you) is semi-feminine. It is used only when the speaker or the listener (or both) are female. Males usually don't address each other by this pronoun.
+Both คุณ (khun) and เธอ (thoe) are polite neuter second person pronouns.  However, คุณเธอ (khun thoe) is a feminine derogative third person.
+Instead of a second person pronoun such as คุณ ('you'), it is much more common for unrelated strangers to call each other พี่ น้อง ลุง ป้า น้า อา ตา or ยาย (brother, sister, aunt, uncle, granny).
+To express deference, the second person pronoun is sometimes replaced by a profession, similar to how, in English, presiding judges are always addressed as "your honor" rather than "you".  In Thai, students always address their teachers by ครู, คุณครู or อาจารย์ (each meaning 'teacher') rather than คุณ ('you').  Teachers, monks, and doctors are almost always addressed this way.
+
+
+=== Particles ===
+The particles are often untranslatable words added to the end of a sentence to indicate respect, a request, encouragement or other moods (similar to the use of intonation in English), as well as varying the level of formality. They are not used in elegant (written) Thai. The most common particles indicating respect are ครับ (khrap, [kʰráp], with a high tone) when the speaker is male, and ค่ะ (kha, [kʰâ], with a falling tone) when the speaker is female. Used in a question or a request, the particle ค่ะ (falling tone) is changed to a คะ (high tone).
+Other common particles are:
+
+
+== Register ==
+Central Thai is composed of several distinct registers, forms for different social contexts:
+
+Street or Common Thai (ภาษาพูด, phasa phut, spoken Thai): informal, without polite terms of address, as used between close relatives and friends.
+Elegant or Formal Thai (ภาษาเขียน, phasa khian, written Thai): official and written version, includes respectful terms of address; used in simplified form in newspapers.
+Rhetorical Thai: used for public speaking.
+Religious Thai: (heavily influenced by Sanskrit and Pāli) used when discussing Buddhism or addressing monks.
+Royal Thai (ราชาศัพท์, racha sap): influenced by Khmer, this is used when addressing members of the royal family or describing their activities. (See Monarchy of Thailand § Rachasap.)Most Thais can speak and understand all of these contexts. Street and Elegant Thai are the basis of all conversations. Rhetorical, religious, and royal Thai are taught in schools as part of the national curriculum.
+As noted above, Thai has several registers, each having certain usages, such as colloquial, formal, literary, and poetic. Thus, the word 'eat' can be กิน (kin; common), แดก (daek; vulgar), ยัด (yat; vulgar), บริโภค (boriphok; formal), รับประทาน (rapprathan; formal), ฉัน (chan; religious), or เสวย (sawoei; royal), as illustrated below:
+
+Thailand also uses the distinctive Thai six-hour clock in addition to the 24-hour clock.
+
+
+== Vocabulary ==
+
+Other than compound words and words of foreign origin, most words are monosyllabic.
+Chinese-language influence was strong until the 13th century when the use of Chinese characters was abandoned, and replaced by Sanskrit and Pali scripts. However, the vocabulary of Thai retains many words borrowed from Middle Chinese.Later most vocabulary was borrowed from Sanskrit and Pāli; Buddhist terminology is particularly indebted to these. Indic words have a more formal register, and may be compared to Latin and French borrowings in English. Old Khmer has also contributed its share, especially in regard to royal court terminology. Since the beginning of the 20th century, however, the English language has had the greatest influence, especially for scientific, technical, international, and other modern terms.
+
+
+=== Arabic-origin ===
+
+
+=== Chinese-origin ===
+From Middle Chinese or Teochew Chinese.
+
+
+=== English-origin ===
+
+
+=== French-origin ===
+
+
+=== Khmer-origin ===
+From Old Khmer
+
+
+=== Portuguese-origin ===
+The Portuguese were the first Western nation to arrive in what is modern-day Thailand in the 16th century during the Ayutthaya period. Their influence in trade, especially weaponry, allowed them to establish a community just outside the capital and practise their faith, as well as exposing and converting the locals to Christianity. Thus, Portuguese words involving trade and religion were introduced and used by the locals.
+
+
+== Writing system ==
+
+Thai is written in the Thai script, an abugida written from left to right. Many scholars believe that it is derived from the Khmer script. Certainly the numbers were lifted directly from Khmer. The language and its script are closely related to the Lao language and script. Most literate Lao are able to read and understand Thai, as more than half of the Thai vocabulary, grammar, intonation, vowels and so forth are common with the Lao language.
+The Thais adopted and modified the Khmer script to create their own writing system. While in Thai the pronunciation can largely be inferred from the script, the orthography is complex, with silent letters to preserve original spellings and many letters representing the same sound. While the oldest known inscription in the Khmer language dates from 611 CE, inscriptions in Thai writing began to appear around 1292 CE. Notable features include:
+
+It is an abugida script, in which the implicit vowel is a short /a/ in a syllable without final consonant and a short /o/ in a syllable with final consonant.
+Tone markers, if present, are placed above the final onset consonant of the syllable.
+Vowels sounding after an initial consonant can be located before, after, above or below the consonant, or in a combination of these positions.
+
+
+=== Transcription ===
+
+There is no universally applied method for transcribing Thai into the Latin alphabet. For example, the name of the main airport is transcribed variably as Suvarnabhumi, Suwannaphum, or Suwunnapoom. Guide books, textbooks and dictionaries may each follow different systems. For this reason, many language courses recommend that learners master the Thai script.Official standards are the Royal Thai General System of Transcription (RTGS), published by the Royal Institute of Thailand, and the almost identical ISO 11940-2 defined by the International Organization for Standardization. The RTGS system is increasingly used in Thailand by central and local governments, especially for road signs. Its main drawbacks are that it does not indicate tone or vowel length. As the system is based on pronunciation, not orthography, reconstruction of Thai spelling from RTGS romanisation is not possible.
+
+
+=== Transliteration ===
+
+The ISO published an international standard for the transliteration of Thai into Roman script in September 2003 (ISO 11940). By adding diacritics to the Latin letters it makes the transcription reversible, making it a true transliteration. Notably, this system is used by Google Translate, although it does not seem to appear in many other contexts, such as textbooks and other instructional media.
+
+
+== See also ==
+Thai script
+Thai honorifics
+Thai literature
+Thai numerals
+Thai braille
+Thai typography
+
+
+== Explanatory notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== General and cited sources ===
+
+
+== Further reading ==
+Inglis, Douglas. 1999. Lexical conceptual structure of numeral classifiers in Thai-Part 1. Payap Research and Development Institute and The Summer Institute of Linguistics. Payap University.
+Inglis, Douglas. 2000. Grammatical conceptual structure of numeral classifiers in Thai-Part 2. Payap Research and Development Institute and The Summer Institute of Linguistics. Payap University.
+Inglis, Douglas. 2003. Conceptual structure of numeral classifiers in Thai. In Eugene E. Casad and Gary B. Palmer (eds.). Cognitive linguistics and non-Indo-European languages. CLR Series 18. De Gruyter Mouton. 223–246. ISBN 978-311-017-371-0
+
+
+== External links ==
+
+IPA and SAMPA for Thai
+Consonant Ear Training Tape
+Tones of Tai DialectGlossaries and word listsThai phrasebook from Wikivoyage
+Thai Swadesh list of basic vocabulary words (from Wiktionary's Swadesh-list appendix)DictionariesEnglish–Thai Dictionary: English–Thai bilingual online dictionary
+The Royal Institute Dictionary, official standard Thai–Thai dictionary
+Longdo Thai Dictionary LongdoDict
+Thai-English dictionary
+Thai2english.com: LEXiTRON-based Thai–English dictionary
+Daoulagad Thai: mobile OCR Thai–English dictionary
+Thai dictionaries for Stardict/GoldenDict – Thai – English (also French, German, Italian, Russian, Chinese and others) dictionaries in Stardict and GoldenDict formats
+Volubilis Dictionary VOLUBILIS (Romanized Thai – Thai – English – French): free databases (ods/xlsx) and dictionaries (PDF) – Thai transcription system.Learners' resourcesthai-language.com English speakers' online resource for the Thai language
+Say Hello in the Thai Language
+FSI Thai language course (Formerly at thailanguagewiki.com)
+Spoken Thai (30 exercises with audio)

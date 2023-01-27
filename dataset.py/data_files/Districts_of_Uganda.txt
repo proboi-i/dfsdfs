@@ -1,0 +1,26 @@
+URI[https://en.wikipedia.org/wiki/Districts_of_Uganda]
+= Districts_of_Uganda = 
+As of 17 November 2020, Uganda is divided into 136 districts and the capital city of Kampala, which are grouped into four administrative regions.Since 2005, the Ugandan government has been in the process of dividing districts into smaller units. This decentralization is intended to prevent resources from being distributed primarily to chief towns and leaving the remainder of each district neglected.Each district is further divided into counties and municipalities, and each county is further divided into sub-counties. The head elected official in a district is the chairperson of the Local Council five (usually written with a Roman numeral V).
+Below are population figures from the 2014 census (tables show population figures for districts that existed in 2014).
+
+
+== Districts created since 2015 ==
+In September 2015, the Parliament of Uganda created 23 new districts, to be phased in over the next four years.
+In May 2020, Parliament approved the creation of Terego District, which went into effect on 1 July 2020.
+
+
+== See also ==
+Regions of Uganda
+Uganda Local Governments Association
+ISO 3166-2 codes for Ugandan regions and districts
+
+
+== References ==
+
+
+== External links ==
+Website of Ministry of Local Government
+Members of Parliament
+District Profile At Statoids.com
+Uganda Bureau of Statistics
+Uganda - UBOS Districts Shapefile

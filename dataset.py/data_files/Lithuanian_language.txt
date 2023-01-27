@@ -1,0 +1,227 @@
+URI[https://en.wikipedia.org/wiki/Lithuanian_language]
+= Lithuanian_language = 
+Lithuanian (lietuvių kalba [lʲeˈtʊvʲuː ˈkɐɫbɐ]) is an Eastern Baltic language belonging to the Baltic branch of the Indo-European language family. It is the official language of Lithuania and one of the official languages of the European Union. There are about 2.8 million native Lithuanian speakers in Lithuania and about 200,000 speakers elsewhere.
+Lithuanian is closely related to the neighbouring Latvian language. It is written in a Latin script. It is said to be the most conservative of the existing Indo-European languages, retaining features of the Proto-Indo-European language that had disappeared through development from other descendant languages.
+
+
+== History ==
+
+Among Indo-European languages, Lithuanian is conservative in some aspects of its grammar and phonology, retaining archaic features otherwise found only in ancient languages such as Sanskrit (particularly its early form, Vedic Sanskrit) or Ancient Greek. For this reason, it is an important source for the reconstruction of the Proto-Indo-European language despite its late attestation (with the earliest texts dating only to c. 1500).
+
+According to hydronyms of Baltic origin, the Baltic languages were spoken in a large area east of the Baltic Sea, and in ~1000 BC it had two linguistic units: western and eastern. The Greek geographer Ptolemy had already written of two Baltic tribe/nations by name, the Galindai and Sudinoi (Γαλίνδαι, Σουδινοί) in the 2nd century AD. The Lithuanian language originated from the Eastern Balts subgroup and remained nearly unchanged until ~1 AD, however in ~500 AD the language of the northern part of Eastern Balts was influenced by the Finnic languages, which fueled the development of changes from the language of the Southern Balts (see: Latgalian language, which developed into the Latvian language, and now-extinct Curonian, Semigallian, Selonian languages). The language of Southern Balts was less influenced by this process and retained its features which forms the Lithuanian language. According to glottochronological researches, the Eastern Baltic languages split from the Western Baltic ones between 400 and 600 AD.
+
+The differentiation between Lithuanian and Latvian started after 800; for a long period, they could be considered dialects of a single language. At a minimum, transitional dialects existed until the 14th or 15th century and perhaps as late as the 17th century. The German Sword Brethren occupied the western part of the Daugava basin, which resulted in colonization of the territory of modern Latvia (at the time it was called Terra Mariana) by Germans and had a significant influence on the language's independent development due to Germanisation (see also: Baltic Germans and Baltic German nobility).Lithuanian was studied by linguists such as Franz Bopp, August Schleicher, Adalbert Bezzenberger, Louis Hjelmslev, Ferdinand de Saussure, Winfred P. Lehmann and Vladimir Toporov, Jan Safarewicz, and others.
+By studying place names of Lithuanian origin, linguist Jan Safarewicz made conclusions that the eastern boundaries of Lithuanian language used to be in the shape of zigzags through Grodno, Shchuchyn, Lida, Valozhyn, Svir, Braslaw. Such eastern boundaries partly coincides with the spread of Catholic and Orthodox faith, and should have existed at the time of the Christianization of Lithuania in 1387 and later. The Safarewicz's eastern boundaries were moved even further to the south and east by other scientists following their researches (e.g. Мікалай Васілевіч Бірыла, Petras Gaučas, Jerzy Ochmański, Aleksandras Vanagas, Zigmas Zinkevičius, and others).The Proto-Balto-Slavic language branched off directly from Proto-Indo-European, then sub-branched into Proto-Baltic and Proto-Slavic. Proto-Baltic branched off into Proto-West Baltic and Proto-East Baltic. Baltic languages passed through a Proto-Balto-Slavic stage, from which Baltic languages retain numerous exclusive and non-exclusive lexical, morphological, phonological and accentual isoglosses in common with the Slavic languages, which represent their closest living Indo-European relatives. Moreover, with Lithuanian being so archaic in phonology, Slavic words can often be deduced from Lithuanian by regular sound laws; for example, Lith. vilkas and Polish wilk ← PBSl. *wilkás (cf. PSl. *vьlkъ) ← PIE *wĺ̥kʷos, all meaning "wolf".
+Initially the Lithuanian language was a spoken language in the Grand Duchy of Lithuania and Duchy of Prussia, while the beginning of Lithuanian writing is possibly associated with the introduction of Christianity in Lithuania when Mindaugas was baptized and crowned as King of Lithuania in 1250-1251. It is believed that prayers were translated into local dialect of Lithuanian by Franciscan monks during the baptism of Mindaugas, however none of the writings has survived.
+
+Although no writings in the Lithuanian language has survived from the 15th or earlier centuries, the Lithuanian language (Latin: Lingwa Lietowia) was mentioned as one of the European languages of the participants of the Council of Constance in 1414–1418.
+
+The earliest surviving written Lithuanian text is a translation dating from about 1503–1525 of the Lord's Prayer, the Hail Mary, and the Nicene Creed written in the Southern Aukštaitian dialect. On 8 January 1547 the first Lithuanian book was printed – Catechism of Martynas Mažvydas.In 1864, following the January Uprising, Mikhail Muravyov, the Russian Governor General of Lithuania, banned the language in education and publishing and barred use of the Latin alphabet altogether, although books printed in Lithuanian continued to be printed across the border in East Prussia and in the United States. Brought into the country by book smugglers (Lithuanian: knygnešiai) despite the threat of stiff prison sentences, they helped fuel a growing nationalist sentiment that finally led to the lifting of the ban in 1904.Jonas Jablonskis (1860–1930) made significant contributions to the formation of the standard Lithuanian language. The conventions of written Lithuanian had been evolving during the 19th century, but Jablonskis, in the introduction to his Lietuviškos kalbos gramatika, was the first to formulate and expound the essential principles that were so indispensable to its later development. His proposal for Standard Lithuanian was based on his native Western Aukštaitian dialect with some features of the eastern Prussian Lithuanians' dialect spoken in Lithuania Minor. These dialects had preserved archaic phonetics mostly intact due to the influence of the neighbouring Old Prussian language, while the other dialects had experienced different phonetic shifts.
+Lithuanian has been the official language of Lithuania following the restoration of Lithuania's statehood in 1918 as the 1922 Constitution of Lithuania recognized Lithuanian as the official language and it was required to be used throughout the state.In 1862–1944 the Lithuanian schools were completely banned in Lithuania Minor and the Lithuanian language was destroyed there.The Soviet occupation of Lithuania in 1940, German occupation of Lithuania in 1941 and eventually the Soviet re-occupation of Lithuania in 1944 led to the conversion of the independent Republic of Lithuania into the Lithuanian Soviet Socialist Republic within the Soviet Union. The Soviet authorities introduced and Lithuanian and Russian languages bilingualism. The Russian language, which, as the official language of the USSR, took precedence over Lithuanian and the usage of Lithuanian was constantly being reduced, therefore the population and language was subject to intense Russification. Moreover, many Russian-speaking workers, specialists and higher education lecturers migrated to the Lithuanian SSR (fueled by the industrialization in the Soviet Union). Consequently, the Russian language came into force in the state institutions, Central Committee of the Communist Party of Lithuania (e.g. in 1948 there were 22.000 communists in the Lithuanian SSR and 80% of them were Russians), radio and television (e.g. 61–74% of broadcasts in the Lithuanian SSR were Russian in 1970). The Lithuanians passively resisted Russification by avoiding to speak Russian.On 18 November 1988 the Supreme Soviet of the Lithuanian SSR restored Lithuanian as the official language of Lithuania due to pressure by Sąjūdis and Lithuanian society.On 11 March 1990 the Act of the Re-Establishment of the State of Lithuania was passed by the Supreme Council of the Republic of Lithuania and Lithuanian was recognized as the sole official language of Lithuania in the Provisional Basic Law (Lithuanian: Laikinasis Pagrindinis Įstatymas) and the Constitution of Lithuania, which was approved on 25 October 1992 during the Lithuanian constitutional referendum.
+
+
+== Classification ==
+
+Lithuanian is one of two living Baltic languages, along with Latvian, and they constitute the eastern branch of Baltic languages family. An earlier Baltic language, Old Prussian, was extinct by the 18th century; the other Western Baltic languages, Curonian and Sudovian, became extinct earlier. Some theories, such as that of Jānis Endzelīns, considered that the Baltic languages form their own distinct branch of the family of Indo-European languages. There is also an opinion that suggests the union of Baltic and Slavic languages into a distinct sub-family of Balto-Slavic languages amongst the Indo-European family of languages. Such an opinion was first represented by the likes of August Schleicher, and to a certain extent, Antoine Meillet. Endzelīns thought that the similarity between Baltic and Slavic was explicable through language contact while Schleicher, Meillet and others argued for a genetic kinship between the two families.
+
+An attempt to reconcile the opposing stances was made by Jan Michał Rozwadowski. He proposed that the two language groups were indeed a unity after the division of Indo-European, but also suggested that after the two had divided into separate entities (Baltic and Slavic), they had posterior contact. The genetic kinship view is augmented by the fact that Proto-Balto-Slavic is easily reconstructible with important proofs in historic prosody. The alleged (or certain, as certain as historic linguistics can be) similarities due to contact are seen in such phenomena as the existence of definite adjectives formed by the addition of an inflected pronoun (descended from the same Proto-Indo-European pronoun), which exist in both Baltic and Slavic yet nowhere else in the Indo-European family (languages such as Albanian and the Germanic languages developed definite adjectives independently), and that are not reconstructible for Proto-Balto-Slavic, meaning that they most probably developed through language contact.The Baltic hydronyms area stretches from the Vistula River in the west to the east of Moscow and from the Baltic Sea in the north to the south of Kyiv. Vladimir Toporov and Oleg Trubachyov (1961, 1962) studied Baltic hydronyms in the Russian and Ukrainian territory. Hydronyms and archeology analysis show that the Slavs started migrating to the Baltic areas east and north-east directions in the 6–7th centuries, before then, the Baltic and Slavic boundary was south of the Pripyat River. In the 1960s Vladimir Toporov and Vyacheslav Ivanov made the following conclusions about the relationship between the Baltic and Slavic languages: a) the Proto-Slavic language formed from the peripheral-type Baltic dialects; b) the Slavic linguistic type formed later from the structural model of the Baltic languages; c) the Slavic structural model is a result of a transformation of the structural model of the Baltic languages. These scholars’ theses do not contradict the Baltic and Slavic languages closeness and from a historical perspective specify the Baltic-Slavic languages evolution.
+
+
+== Geographic distribution ==
+Lithuanian is spoken mainly in Lithuania. It is also spoken by ethnic Lithuanians living in today's Belarus, Latvia, Poland, and the Kaliningrad Oblast of Russia, as well as by sizable emigrant communities in Argentina, Australia, Brazil, Canada, Denmark, Estonia, France, Germany, Iceland, Ireland, Norway, Russia, Sweden, the United Kingdom, the United States, Uruguay, and Spain.
+2,955,200 people in Lithuania (including 3,460 Tatars), or about 86% of the 2015 population, are native Lithuanian speakers; most Lithuanian inhabitants of other nationalities also speak Lithuanian to some extent. The total worldwide Lithuanian-speaking population is about 3,200,000.
+
+
+=== Official status ===
+Lithuanian is the state language of Lithuania and an official language of the European Union.
+
+
+=== Dialects ===
+
+In the Compendium Grammaticae Lithvanicae, published in 1673, three dialects of the Lithuanian language are distinguished: Samogitian dialect (Latin: Samogitiae) of Samogitia, Royal Lithuania (Latin: Lithvaniae Regalis) and Ducal Lithuania (Latin: Lithvaniae Ducalis). The Ducal Lithuanian language is described as pure (Latin: Pura), half-Samogitian (Latin: SemiSamogitizans) and having elements of the Curonian language (Latin: Curonizans). Authors of the Compendium Grammaticae Lithvanicae singled out that the Lithuanians of the Vilnius Region (Latin: in tractu Vilnensi) tend to speak harshly, almost like Austrians, Bavarians and others speak German in Germany.Due to the historical circumstances of Lithuania, the Lithuanian language speakers territory was divided into Lithuania proper and Lithuania Minor, therefore in the 16th-17th centuries three regional variants of the common language emerged. Lithuanians in the Lithuania Minor spoke Western Aukštaitian dialect with specifics of Įsrutis and Ragainė environs (e.g. works of Martynas Mažvydas, Jonas Bretkūnas, Jonas Rėza, and Daniel Klein's Grammatica Litvanica). The other two regional variants of the common language were formed in Lithuania proper: middle, which was based on the specifics of the Duchy of Samogitia (e.g. works of Mikalojus Daukša, Merkelis Petkevičius, Steponas Jaugelis‑Telega, Samuelis Boguslavas Chylinskis, and Mikołaj Rej's Lithuanian postil), and eastern, based on the specifics of Eastern Aukštaitians, living in Vilnius and its region (e.g. works of Konstantinas Sirvydas, Jonas Jaknavičius, and Robert Bellarmine's catechism). The development of the Lithuanian language in Lithuania Minor, especially in the 18th century, was successful due to many publications and research. In contrary, the development of the Lithuanian language in Lithuania proper was obstructed due to the Polonization of the Lithuanian nobility, especially in the 18th century, and it was being influenced by the Samogitian dialect. The Lithuanian-speaking population was also dramatically decreased by the Great Northern War plague outbreak in 1700–1721 which killed 49% of residents in the Grand Duchy of Lithuania (1/3 residents in Lithuania proper and up to 1/2 residents in Samogitia) and 53% of residents in Lithuania Minor (more than 90% of the deceased were Prussian Lithuanians).As a result of decrease of the usage of the spoken Lithuanian language in the eastern part of Lithuania proper, in the 19th century it was suggested to create a standardized Lithuanian language based on the Samogitian dialect. Nevertheless, it was not accomplished because everyone offered their Samogitian subdialects and the Eastern and Western Aukštaitians offered their Aukštaitian subdialects.In the second half of the 19th century, when the Lithuanian National Revival intensified and the preparations to publish a Lithuanian periodical press was taking place, the mostly south-western Aukštaitian revival writers did not use the 19th century Lithuanian language of Lithuania Minor as it was largely Germanized. Instead, they used a more pure Lithuanian language which has been described by August Schleicher and Friedrich Kurschat and this way the written language of Lithuania Minor was transferred to the resurgent Lithuania. The most famous standardizer of the Lithuanian language Jonas Jablonskis established the south-western Aukštaitian dialect, including the Eastern dialect of Lithuania Minor, as the basis of the standardized Lithuanian language in the 20th century, which led to him being nicknamed as the father of the standardized Lithuanian language.Currently, the Lithuanian language is divided into two dialects: Aukštaitian (Highland Lithuanian), and Samogitian (Lowland Lithuanian). There are significant differences between standard Lithuanian and Samogitian and these are often described as separate languages. The modern Samogitian dialect formed in the 13th–16th centuries under the influence of the Curonian language. Lithuanian dialects are closely connected with ethnographical regions of Lithuania. Even nowadays Aukštaitians and Samogitians can have considerable difficulties understanding each other if they speak with their dialects and not the standard Lithuanian language, which is mandatory to learn in the Lithuanian education system.Dialects are divided into subdialects. Both dialects have three subdialects. Samogitian is divided into West, North and South; Aukštaitian into West (Suvalkiečiai), South (Dzūkai) and East.
+
+
+== Script ==
+
+Lithuanian uses the Latin script supplemented with diacritics. It has 32 letters. In the collation order, y follows immediately after į (called i nosinė), because both y and į represent the same long vowel [iː]:
+In addition, the following digraphs are used, but are treated as sequences of two letters for collation purposes. The digraph ch represents a single sound, the velar fricative [x], while dz and dž are pronounced like straightforward combinations of their component letters (sounds):
+Dz dz [dz] (dzė), Dž dž [dʒ] (džė), Ch ch [x] (cha).
+
+Distinctive Lithuanian letter Ė was used for the first time in the Daniel Klein's Grammatica Litvanica and firmly established itself in the Lithuanian language since then. However, linguist August Schleicher used Ë (with two points above it) instead of Ė for expressing the same. In the Grammatica Litvanica Klein also established the  letter W for marking sound V. D., the use of which was later abolished in the Lithuanian language (it was replaced with letter V, notably by authors of the Varpas newspaper). The usage of letter V instead of W especially increased since the early 20th century, likely considerably influenced by Lithuanian press and schools.The Lithuanian writing system is largely phonemic, i.e., one letter usually corresponds to a single phoneme (sound). There are a few exceptions: for example, the letter i represents either the vowel [ɪ], as in the English sit, or is silent and merely indicates that the preceding consonant is palatalized. The latter is largely the case when i occurs after a consonant and is followed by a back or a central vowel, except in some borrowed words (e.g., the first consonant in lūpa [ˈɫûːpɐ], "lip", is a velarized dental lateral approximant; on the other hand, the first consonant in liūtas [ˈlʲuːt̪ɐs̪], "lion", is a palatalized alveolar lateral approximant; both consonants are followed by the same vowel, the long [uː], and no [ɪ] can be pronounced in liūtas). Due to the Polish influence, the Lithuanian alphabet included sz, cz and the Polish Ł for the first sound and regular L (without a following i) for the second: łupa, lutas. During the Lithuanian National Revival in the 19th century the Polish Ł was abolished, while digraphs sz, cz (that are also common in the Polish orthography) were replaced with letters š and č from the Czech orthography because formally they were shorter. Nevertheless, another argument to abolish digraphs sz, cz was to distinguish the Lithuanian language from the Polish language. The new letters š and č were cautiously used in publications intended for more educated readers (e.g. Varpas, Tėvynės sargas, Ūkininkas), however digraphs sz, cz continued to be in use in publications intended for less educated readers as they caused tension in society and prevailed only after 1906.The Lithuanians also adopted letter ž from the Czechs.Nasal vowels ą and ę were taken from the Polish spelling and were began to be used by Renaissance Lithuanian writers, later the Lithuanians introduced nasal vowels į and ų as analogues. Letter ū is the latest addition by linguist Jonas Jablonskis.A macron (on u), an ogonek (on a, e, i, and u), and y (in place of i) are used for grammatical and historical reasons and always denote vowel length in Modern Standard Lithuanian. Acute, grave, and tilde diacritics are used to indicate pitch accents. However, these pitch accents are generally not written, except in dictionaries, grammars, and where needed for clarity, such as to differentiate homonyms and dialectal use.
+
+
+== Phonology ==
+
+
+=== Consonants ===
+All Lithuanian consonants except /j/ have two variants: the non-palatalized one represented by the IPA symbols in the chart, and the palatalized one (i.e. /b/ – /bʲ/, /d/ – /dʲ/, /ɡ/ – /ɡʲ/, and so on). The consonants /f/, /x/, /ɣ/ and their palatalized variants are only found in loanwords.
+/t͡ɕ, d͡ʑ, ɕ, ʑ/ have been traditionally transcribed with ⟨t͡ʃʲ, d͡ʒʲ, ʃʲ, ʒʲ⟩, but they can be seen as equivalent transcriptions, with the former set being somewhat easier to write.
+
+
+=== Vowels ===
+Lithuanian has six long vowels and four short ones (not including disputed phonemes marked in brackets). Length has traditionally been considered the distinctive feature, though short vowels are also more centralized and long vowels more peripheral:
+
+/e, ɔ/ are restricted to loanwords. Many speakers merge the former with /ɛ/.
+
+
+=== Diphthongs ===
+Lithuanian is traditionally described as having nine diphthongs, ai, au, ei, eu, oi, ou, ui, ie, and uo. However, some approaches (i.e., Schmalstieg 1982) treat them as vowel sequences rather than diphthongs; indeed, the longer component depends on the type of stress, whereas in diphthongs, the longer segment is fixed.
+
+
+=== Pitch accent ===
+
+The Lithuanian prosodic system is characterized by free accent and distinctive quantity. Its accentuation is sometimes described as a simple tone system, often called pitch accent. In lexical words, one syllable will be tonically prominent. A heavy syllable—that is, a syllable containing a long vowel, diphthong, or a sonorant coda—may have one of two tones, falling tone (or acute tone) or rising tone (or circumflex tone). Light syllables (syllables with short vowels and optionally also obstruent codas) do not have the two-way contrast of heavy syllables.
+
+
+== Grammar ==
+
+The first prescriptive printed grammar of the Lithuanian language – Grammatica Litvanica was commissioned by the Duke of Prussia, Friedrich Wilhelm, for use in the Lithuanian-speaking parishes of East Prussia. It was written by Daniel Klein in Latin and was published by Johann Reusner in 1653 in Königsberg, Duchy of Prussia. In ~1643 Christophorus Sapphun wrote the Lithuanian grammar Compendium Grammaticae Lithvanicae slightly earlier than Klein, however the edited variant of Sapphun's grammar was published only in 1673 by Theophylus Gottlieb Schultz.In one of the first Lithuanian grammars – Compendium Grammaticae Lithvanicae, published in 1673, most of the given examples are with Lithuanian endings (e.g. names Jonas = Jonas, Jonuttis = Jonutis, etc.), therefore it allows to highlight the tendency of spelling the endings of words in the Old Lithuanian writings.The Universitas lingvarum Litvaniae, published in Vilnius, 1737, is the oldest surviving grammar of the Lithuanian language published in the territory of the Grand Duchy of Lithuania.The first scientific Compendium of Lithuanian language was published in German in 1856/57 by August Schleicher, a professor at Charles University in Prague.  In it he describes Prussian-Lithuanian, which later became the "skeleton" (Būga) of modern Lithuanian. Schleicher asserted that the Lithuanian language can compete with the Greek and Roman (Old Latin) languages in perfection of forms.Lithuanian is a highly inflected language. In Lithuanian, there are two grammatical genders for nouns (masculine and feminine) and three genders for adjectives, pronouns, numerals and participles (masculine, feminine and neuter). Every attribute must agree with the gender and number of the noun. The neuter forms of other parts of speech are used with a subject of an undefined gender (a pronoun, an infinitive etc.).
+There are twelve noun and five adjective declensions and one (masculine and feminine) participle declension.Nouns and other parts of nominal morphology are declined in seven cases: nominative, genitive, dative, accusative, instrumental, locative, and vocative. In older Lithuanian texts, three additional varieties of the locative case are found: illative, adessive and allative. The most common are the illative, which still is used, mostly in spoken language, and the allative, which survives in the standard language in some idiomatic usages. The adessive is nearly extinct. These additional cases are probably due to the influence of Uralic languages, with which Baltic languages have had a longstanding contact. (Uralic languages possess a great variety of noun cases, a number of which are specialised locative cases.)
+Lithuanian verbal morphology shows a number of innovations; namely, the loss of synthetic passive (which is hypothesized based on other archaic Indo-European languages, such as Greek and Latin), synthetic perfect (formed by means of reduplication) and aorist; forming subjunctive and imperative with the use of suffixes plus flexions as opposed to solely flections in, e.g., Ancient Greek; loss of the optative mood; merging and disappearing of the -t- and -nt- markers for the third-person singular and plural, respectively (this, however, occurs in Latvian and Old Prussian as well and may indicate a collective feature of all Baltic languages).
+On the other hand, the Lithuanian verbal morphology retains a number of archaic features absent from most modern Indo-European languages (but shared with Latvian). This includes the synthetic form of the future tense with the help of the -s- suffix and three principal verbal forms with the present tense stem employing the -n- and -st- infixes.
+There are three verbal conjugations. The verb būti is the only auxiliary verb in the language. Together with participles, it is used to form dozens of compound forms.
+In the active voice, each verb can be inflected for any of the following moods:
+
+Indicative
+Indirect
+Imperative
+Conditional/subjunctiveIn the indicative mood and indirect moods, all verbs can have eleven tenses:
+
+simple: present (nešu), past (nešiau), past iterative (nešdavau) and future (nešiu)
+compound:
+present perfect (esu nešęs), past perfect (buvau nešęs), past iterative perfect (būdavau nešęs), future perfect (būsiu nešęs)
+past inchoative (buvau benešąs), past iterative inchoative (būdavau benešąs), future inchoative (būsiu benešąs)The indirect mood, used only in written narrative speech, has the same tenses corresponding to the appropriate active participle in nominative case; e.g., the past of the indirect mood would be nešęs, while the past iterative inchoative of the indirect mood would be būdavęs benešąs. Since it is a nominal form, this mood cannot be conjugated but must match the subject's number and gender.
+The subjunctive (or conditional)  and the imperative moods have three tenses. Subjunctive: present (neščiau), past (būčiau nešęs), inchoative (būčiau benešąs); imperative: present (nešk), perfect (būk nešęs) and inchoative (būk benešąs).
+The infinitive has only one form (nešti). These forms, except the infinitive and indirect mood, are conjugative, having two singular, two plural persons, and the third person form common both for plural and singular.
+In the passive voice, the form number is not as rich as in the active voice. There are two types of passive voice in Lithuanian: present participle (type I) and past participle (type II) (in the examples below types I and II are separated with a slash). They both have the same moods and tenses:
+
+Indicative mood: present (esu nešamas/neštas), past (buvau nešamas/neštas), past iterative (būdavau nešamas/neštas) and future (būsiu nešamas/neštas)
+Indirect mood: present (esąs nešamas/neštas), past (buvęs nešamas/neštas), past iterative (būdavęs nešamas/neštas) and future (būsiąs nešamas/neštas).
+Imperative mood: present (type I only: būk nešamas), past (type II only: būk neštas).
+Subjunctive / conditional mood: present (type I only: būčiau nešamas), past (type II only: būčiau neštas).Lithuanian has the richest participle system of all Indo-European languages, having participles derived from all simple tenses with distinct active and passive forms, and two gerund forms.
+In practical terms, the rich overall inflectional system makes the word order have a different meaning than in more analytic languages such as English. The English phrase "a car is coming" translates as "atvažiuoja automobilis" (the theme first), while "the car is coming" – "automobilis atvažiuoja" (the theme first; word order inversion).
+Lithuanian also has a very rich word derivation system and an array of diminutive suffixes.
+Today there are two definitive books on Lithuanian grammar: one in English, the Introduction to Modern Lithuanian (called Beginner's Lithuanian in its newer editions) by Leonardas Dambriūnas, Antanas Klimas and William R. Schmalstieg; and another in Russian, Vytautas Ambrazas' Грамматика литовского языка (The Grammar of the Lithuanian Language). Another recent book on Lithuanian grammar is the second edition of Review of Modern Lithuanian Grammar by Edmund Remys, published by Lithuanian Research and Studies Center, Chicago, 2003.
+
+
+== Vocabulary ==
+
+
+=== Indo-European vocabulary ===
+Lithuanian retains cognates to many words found in classical languages, such as Sanskrit and Latin. These words are descended from Proto-Indo-European. A few examples are the following:
+
+Lith. sūnus and Skt. sūnu (son)
+Lith. avis and Skt. avi and Lat. ovis (sheep)
+Lith. dūmas and Skt. dhūma and Lat. fumus (fumes, smoke)
+Lith. antras and Skt. antara (second, the other)
+Lith. vilkas and Skt. vṛka (wolf)
+Lith. ratas and Lat. rota (wheel) and Skt. ratha (carriage)
+Lith. senis and Lat. senex (an old man) and Skt. sanas (old)
+Lith. vyras and Lat. vir (a man) and Skt. vīra (man)
+Lith. angis and Lat. anguis (a snake in Latin, a species of snakes in Lithuanian)
+Lith. linas and Lat. linum (flax, compare with English 'linen')
+Lith. ariu and Lat. aro (I plow)
+Lith. jungiu and Lat. iungo, and Skt. yuñje (mid.), (I join)
+Lith. gentys and Lat. gentes and Skt. játi (tribes)
+Lith. mėnesis and Lat. mensis and Skt. masa (month)
+Lith. dantis and Lat. dens and Skt. danta (tooth)
+Lith. naktis and Lat. noctes (plural of nox) and Skt. naktam (night)
+Lith. ugnis and Lat. ignis and Skt. agni (fire)
+Lith. sėdime and Lat. sedemus and Skt. sīdama (we sit)This even extends to grammar, where for example Latin noun declensions ending in -um often correspond to Lithuanian -ų, with the Latin and Lithuanian fourth declensions being particularly close. Many of the words from this list are similar to other Indo-European languages, including English and Russian. The contribution of Lithuanian was influential in the reconstruction of the Proto-Indo-European language.
+Lexical and grammatical similarities between Baltic and Slavic languages suggest an affinity between these two language groups. On the other hand, there exist a number of Baltic (particularly Lithuanian) words without counterparts in Slavic languages, but which are similar to words in Sanskrit or Latin. The history of the relationship between Baltic and Slavic languages, and our understanding of the affinity between the two groups, remain in dispute (see: Balto-Slavic languages).
+
+
+=== Loanwords ===
+In a 1934 book entitled Die Germanismen des Litauischen. Teil I: Die deutschen Lehnwörter im Litauischen, K. Alminauskis found 2,770 loanwords, of which about 130 were of uncertain origin. The majority of the loanwords were found to have been derived from the Polish, Belarusian, and German languages, with some evidence that these languages all acquired the words from contacts and trade with Prussia during the era of the Grand Duchy of Lithuania. Loanwords comprised about 20% of the vocabulary used in the first book printed in the Lithuanian language in 1547, Martynas Mažvydas's Catechism. But as a result of language preservation and purging policies, Slavic loanwords currently constitute only 1.5% of the Standard Lithuanian lexicon, while German loanwords constitute only 0.5% of it. The majority of loanwords in the 20th century arrived from the Russian language.Towards the end of the 20th century, a number of words and expressions related to new technologies and telecommunications were borrowed from the English language. The Lithuanian government has an established language policy that encourages the development of equivalent vocabulary to replace loanwords. However, despite the government's best efforts to avoid the use of loanwords in the Lithuanian language, many English words have become accepted and are now included in Lithuanian language dictionaries. In particular, words having to do with new technologies have permeated the Lithuanian vernacular, including such words as:
+
+Monitorius (vaizduoklis) (computer monitor)
+Faksas (fax)
+Kompiuteris (computer)
+Failas (byla, rinkmena) (electronic file)Other common foreign words have also been adopted by the Lithuanian language. Some of these include:
+
+Taksi (taxi)
+Pica (pizza)
+Alkoholis (alcohol)
+Bankas (bank)
+Pasas (passport, pass)
+Parkas (park, park)These words have been modified to suit the grammatical and phonetic requirements of the Lithuanian language, mostly by adding -as suffix, but their foreign roots are obvious.
+
+
+== Old Lithuanian ==
+
+The language of the earliest Lithuanian writings, in the 16th and 17th centuries, is known as Old Lithuanian and differs in some significant respects from the Lithuanian of today.
+Besides the specific differences given below, nouns, verbs, and adjectives still had separate endings for the dual number. The dual persists today in some dialects. Example:
+
+
+=== Pronunciation ===
+The vowels written ą, ę, į, ų were still pronounced as long nasal vowels, not as long oral vowels as in today's Lithuanian.
+The original Baltic long ā was still retained as such, e.g. bralis "brother" (modern brólis).
+
+
+=== Nouns ===
+Compared to the modern language, there were three additional cases, formed under the influence of the Finnic languages. The original locative case had been replaced by four so-called postpositive cases, the inessive case, illative case, adessive case and allative case, which correspond to the prepositions "in", "into", "at" and "towards", respectively. They were formed by affixing a postposition to one of the previous cases:
+
+The inessive added -en to the original locative.
+The illative added -n(a) to the accusative.
+The adessive added -pie to the original locative.
+The allative added -pie to the genitive.The inessive has become the modern locative case, while the other three have disappeared. Note, however, that the illative case is still used occasionally in the colloquial language (mostly in the singular): Lietuvon "to Lithuania", miestan "to the city". This form is relatively productive: for instance, it is not uncommon to hear "skrendame Niujorkan (we are flying to New York)".
+The uncontracted dative plural -mus was still common.
+
+
+=== Adjectives ===
+Adjectives could belong to all four accent classes in Old Lithuanian (now they can only belong to classes 3 and 4).
+Additional remnants of i-stem adjectives still existed, e.g.:
+
+loc. sg. didimè pulkè "in the big crowd" (now didžiame)
+loc. sg. gerèsnime "better" (now geresniamè)
+loc. sg. mažiáusime "smallest" (now mažiáusiame)Additional remnants of u-stem adjectives still existed, e.g. rūgštùs "sour":
+
+No u-stem remnants existed in the dative singular and locative plural.
+Definite adjectives, originally involving a pronoun suffixed to an adjective, had not merged into a single word in Old Lithuanian. Examples:
+
+pa-jo-prasto "ordinary" (now pàprastojo)
+nu-jie-vargę "tired" (now nuvar̃gusieji)
+
+
+=== Verbs ===
+The Proto-Indo-European class of athematic verbs still existed in Old Lithuanian:
+
+The optative mood (i.e. the third-person imperative) still had its own endings, -ai for third-conjugation verbs and -ie for other verbs, instead of using regular third-person present endings.
+
+
+=== Syntax ===
+Word order was freer in Old Lithuanian. For example, a noun in the genitive case could either precede or follow the noun it modifies.
+
+
+== See also ==
+Lithuanian dictionaries
+Lithuanian literature
+Martynas Mažvydas
+
+
+== Citations ==
+
+
+== General sources ==
+Ambrazas, Vytautas; Geniušienė, Emma; Girdenis, Aleksas; Sližienė, Nijolė; Valeckienė, Adelė; Valiulytė, Elena; Tekorienė, Dalija; Pažūsis, Lionginas (1997),  Ambrazas, Vytautas (ed.), Lithuanian Grammar, Vilnius: Institute of the Lithuanian Language, ISBN 9986-813-22-0
+Dambriūnas, Leonardas; Antanas Klimas, William R. Schmalstieg, Beginner's Lithuanian, Hippocrene Books, 1999, ISBN 0-7818-0678-X. Older editions (copyright 1966) called "Introduction to modern Lithuanian".
+Dini, P. U. (2000). Baltų kalbos: Lyginamoji istorija [Baltic Languages: A Comparative History] (in Lithuanian). Vilnius: Mokslo ir enciklopedijų leidybos institutas. ISBN 5-420-01444-0.
+Klimas, Antanas. "Baltic and Slavic revisited". Lituanus vol. 19, no. 1, Spring 1973. Retrieved 23 October 2007.
+Ladefoged, Peter; Maddieson, Ian (1996). The Sounds of the World's Languages. Oxford: Blackwell. ISBN 978-0-631-19815-4.
+Remys, Edmund, Review of Modern Lithuanian Grammar, Lithuanian Research and Studies Center, Chicago, 2nd revised edition, 2003.
+Remys, Edmund, General distinguishing features of various Indo-European languages and their relationship to Lithuanian, Indogermanische Forschungen, Berlin, New York, 2007.
+Zinkevičius, Zigmas, "Lietuvių kalbos istorija" ("History of Lithuanian Language") Vol.1, Vilnius: Mokslas, 1984, ISBN 5-420-00102-0.
+Subačius, Giedrius (2005). The Lithuanian language: traditions and trends (PDF). The Lithuanian Institute, Ministry of Culture of the Republic of Lithuania. ISBN 9955-548-09-6. Retrieved 16 January 2023.
+Venckienė, Jurgita (2017). "Lietuviški XIX a. pabaigos ir XX a. pradžios antkapių užrašai: santykis su bendrine kalba" (PDF). Archivum Lithuanicum (in Lithuanian). Vilnius: Lithuanian Institute of History (19). Retrieved 16 January 2023.
+
+
+== External links ==
+
+Baltic Online (part of Early Indo-European Online) – Lithuanian and Old Lithuanian grammar
+Academic Dictionary of Lithuanian
+The Historical Grammar of Lithuanian language
+2005 analysis of Indo-European linguistic relationships
+Lithuanian verbs training
+Lithuanian verbs test
+Encyclopaedia Britannica – Lithuanian language
+glottothèque – Ancient Indo-European Grammars online, an online collection of introductory videos to Ancient Indo-European languages produced by the University of Göttingen

@@ -1,0 +1,62 @@
+URI[https://en.wikipedia.org/wiki/LAM_Mozambique_Airlines_Flight_470]
+= LAM_Mozambique_Airlines_Flight_470 = 
+LAM Mozambique Airlines Flight 470 was a scheduled international passenger flight from Maputo, Mozambique, to Luanda, Angola. On 29 November 2013, the Embraer E190 twinjet operating the service crashed into the Bwabwata National Park in Namibia, halfway through its flight, killing all 27 passengers and 6 crew on board.Preliminary findings of the Mozambican Civil Aviation Institute (IACM) showed that the captain deliberately crashed the jet. The Mozambican Association of Air Operators (AMOPAR) disputes the conclusion of the IACM. The Directorate of Aircraft Accident Investigations Namibia agreed with the IACM that the captain inputting controls leading to the crash was the probable cause of the aviation accident.: 2 
+
+
+== Crash ==
+
+The aircraft had departed Maputo International Airport at 11:26 CAT (09:26 UTC), and was due to land at 14:10 WAT (13:10 UTC) at Quatro de Fevereiro Airport, Angola.While cruising at about 38,000 feet (12,000 m) in Botswanan airspace, about halfway between Maputo and Luanda, the Embraer began to rapidly lose altitude. The aircraft descended rapidly at a rate of about 100 feet (30 m) per second and was being tracked on radar. The aircraft's track was lost from screens at 3,000 feet (910 m) above sea level, after about six minutes of losing altitude. Shortly after, the aircraft crashed into Bwabwata National Park and exploded. The explosion destroyed the aircraft and killed all 33 people on board instantly. The last contact with air traffic control was made at 13:30 CAT (11:30 UTC) over northern Namibia during heavy rainfall.Weather was reported to be poor at the time of the incident, with heavy rainfall in the vicinity of the flight path.
+
+
+== Aircraft ==
+The aircraft involved in the incident was a one-year-old Embraer 190 with manufacturer serial number 581, registered as C9-EMC and named Chaimite. The aircraft was manufactured in October 2012 and was delivered to LAM Mozambique Airlines in November 2012. It had since accumulated more than 2900 flight hours in 1900 flight cycles. It was powered by two General Electric CF34-10E engines. The airframe and the engines were last inspected on 28 November 2013, one day before the crash.
+
+
+== Passengers and crew ==
+LAM Mozambique Airlines confirmed there were a total of 33 people on board (27 passengers and 6 crew members). The Namibian Police Force Deputy Commissioner Willy Bampton stated that there were no survivors and that the aircraft was "burned to ashes."
+The crew comprised two pilots, three cabin attendants, and a technician. The captain, 49-year-old Herminio dos Santos Fernandes, had logged more than 9,000 flight hours in total (including 2,519 hours on the Embraer E190) while the first officer, 24-year-old Grácio Gregório Chimuquile, had accumulated about 1,400 hours of flying experience, with 101 of them on the Embraer E190.
+
+
+== Response ==
+The government of Mozambique announced it would declare a period of national mourning. Portuguese President Aníbal Cavaco Silva expressed condolence to victims' families. LAM Mozambique Airlines reported it was providing counselling and legal advice to families in both Mozambique and Angola and had set up an information hotline.The pattern of debris indicated that the aircraft slid along the ground for several hundred metres (yards).Both flight recorders – the cockpit voice recorder (CVR) and the flight data recorder (FDR) – were recovered from the crash site within four days of the crash and were subsequently sent to the United States' National Transportation Safety Board (NTSB) for readout.
+
+
+== Investigation ==
+On 21 December 2013, the Mozambican Civil Aviation Institute (Portuguese: Instituto Moçambicano de Aviação Civil, IACM) head João Abreu presented the preliminary investigation report, according to which Captain Herminio dos Santos Fernandes had a "clear intention" to crash the jet and manually changed its autopilot settings, making this a suicide by pilot. After the co-pilot left the cockpit, two minutes passed before the captain decided to lock the door, and a further minute passed before he initiated a descent. NTSB pilot psychologist Malcolm Brenner stated that during this period the captain was probably "thinking about life" and contemplating whether he could carry out such an action. The aircraft's intended altitude was reportedly changed three times from 38,000 feet (11,582 m) to 592 feet (180 m), the latter being below ground level, and the speed was manually adjusted as well. The cockpit voice recorder captured several alarms going off during the descent, as well as repeated loud bangs on the door from the co-pilot, who was locked out of the cockpit. Contrary to regulations by Mozambique Airlines, no cabin crew member was deployed in the cockpit during the time of the co-pilot's absence.Investigations of the aircraft's pilot revealed that Captain Fernandes had suffered a number of blows of fate prior to the accident. His son died in a suspected suicide in November 2012; Fernandes stayed away from the funeral. The one year anniversary of Fernandes' son's death occurred almost exactly on the date of the accident. His daughter was also in hospital for heart surgery at the time of the crash, and his divorce proceedings had been unresolved for over a decade.Despite the conclusion of the IACM, the Mozambican Association of Air Operators (AMOPAR) disputed the preliminary report, explaining that the maneuvers of Captain Fernandes were from the manual of standard operating procedures issued by Embraer (the manufacturer of the crashed aircraft) about how to "act in emergency situation to avert disaster". According to the AMOPAR document, the Mozambican Government had not complied with the standards and recommendations of the International Civil Aviation Organization (ICAO) "about the disclosure, contents and procedures relating to the preliminary report of the investigation of the crash of flight TM 470."On 15 April 2016 the DAAI released its final report finding that the inputs to the auto flight systems by the person believed to be the Captain, who remained alone on the flight deck when the person believed to be the co-pilot requested to go to the lavatory, caused the aircraft to depart from cruise flight, transition to a sustained controlled descent and subsequently crash.According to experts interviewed in the TV series Mayday, the LAM crash was not extensively covered by the media because the crash happened in a third world country. This meant that the airline industry failed to apply safety measures in time to avoid another similar incident, the crash of Germanwings Flight 9525 in the French Alps in 2015, which was found to be a deliberate act by the co-pilot.
+
+
+== Dramatization ==
+The accident is featured in the ninth episode of Season 20 of Mayday, also known as Air Crash Investigation. The episode is titled "Cockpit Killer".
+
+
+== See also ==
+Aviation safety
+Embraer E-Jet family § Accidents and incidents
+List of accidents and incidents involving airliners by location § Namibia
+EgyptAir Flight 990
+Japan Airlines Flight 350
+Royal Air Maroc Flight 630
+SilkAir Flight 185
+Germanwings Flight 9525
+
+
+== References ==
+
+
+== Further reading ==
+(in Portuguese) "IACM NA POSSE DO RELATÓRIO DA INVESTIGAÇÃO PRELIMINAR" [IACM IN POSSESSION OF THE PRELIMINARY RESEARCH REPORT] (Archive). SAPO Moçambique. 22 December 2013.
+
+
+== External links ==
+
+Directorate of Aircraft Accident Investigations Namibia
+Final Report (Alternate Archive)
+Interim Report (Alternate Archive Alternate archive)
+LAM Mozambique Airlines – Index of press releases related to the crash
+Flight TM 470 (Archive)
+Voo TM 470 (in Portuguese) (Archive)
+Embraer
+"COMMUNIQUÉ." (Archive) 30 November 2013.
+"COMUNICADO." (Archive) 30 November 2013. (in Portuguese)
+Pre-crash photo of C9-EMC
+Accident description at the Aviation Safety Network

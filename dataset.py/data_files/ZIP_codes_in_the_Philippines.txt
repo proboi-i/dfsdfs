@@ -1,0 +1,15 @@
+URI[https://en.wikipedia.org/wiki/ZIP_codes_in_the_Philippines]
+= ZIP_codes_in_the_Philippines = 
+In the Philippines, a ZIP code is used by the Philippine Postal Corporation (PhlPost) to simplify the distribution of mail. While its function similar with the ZIP Codes used in the United States, its form and usage are quite different. Its use is not mandatory but highly recommended by the PhlPost. A ZIP code is composed of a four-digit number representing a locality. Usually, more than one code is issued for areas within Metro Manila, and a single code for each municipality and city in provincial areas, with some rare exceptions such as Dasmariñas in Cavite, which has three ZIP codes (4114, 4115, and 4126), Los Baños in Laguna, which has two ZIP codes (4030 and 4031 for the University of the Philippines Los Baños), and Angeles City, which has two ZIP codes (2009 and 2024 for Barangay Balibago).
+
+
+== See also ==
+Postal addresses in the Philippines
+Telephone numbers in the Philippines
+
+
+== References ==
+
+
+== External links ==
+Philippine Postal Corporation

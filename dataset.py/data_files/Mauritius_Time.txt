@@ -1,0 +1,7 @@
+URI[https://en.wikipedia.org/wiki/Mauritius_Time]
+= Mauritius_Time = 
+Mauritius Time, or MUT, is the time zone used by the Indian Ocean island nation of Mauritius. The zone is four hours ahead of UTC (UTC+04:00).
+Mauritius does not use daylight saving time, however, it has been used in the past. Daylight saving time was first introduced in Mauritius in 1982, however, it was discontinued the following year. It was re-introduced in 2008, however, it was not used in 2009 or since. In 2008, the period started at 2 am UTC+5 (1 am UTC+4) on 26 October 2008 (the last Sunday in October), and ended at 2 am UTC+5 (1 am UTC+4) on 29 March 2009 (the last Sunday in March). Mauritius is in the Southern Hemisphere, so summer begins towards the end of the year.
+
+
+== References ==

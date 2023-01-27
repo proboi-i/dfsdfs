@@ -1,0 +1,224 @@
+URI[https://en.wikipedia.org/wiki/Egyptian_language]
+= Egyptian_language = 
+The Egyptian language or Ancient Egyptian (𓂋𓏺𓈖 𓆎𓅓𓏏𓊖 r n km.t) is a dead Afro-Asiatic language that was spoken in ancient Egypt. It is known today from a large corpus of surviving texts which were made accessible to the modern world following the decipherment of the ancient Egyptian scripts in the early 19th century. Egyptian is one of the earliest written languages, first being recorded in the hieroglyphic script in the late 4th millennium BC. It is also the longest-attested human language, with a written record spanning over 4000 years. Its classical form is known as Middle Egyptian, the vernacular of the Middle Kingdom of Egypt which remained the literary language of Egypt until the Roman period. By the time of classical antiquity the spoken language had evolved into Demotic, and by the Roman era it had diversified into the Coptic dialects. These were eventually supplanted by Arabic after the Muslim conquest of Egypt, although Bohairic Coptic remains in use as the liturgical language of the Coptic Church.
+
+
+== Classification ==
+The Egyptian language belongs to the Afroasiatic language family. Among the typological features of Egyptian that are typically Afroasiatic are its fusional morphology, nonconcatenative morphology, a series of emphatic consonants, a three-vowel system /a i u/, nominal feminine suffix *-at, nominal m-, adjectival *-ī and characteristic personal verbal affixes. Of the other Afroasiatic branches, linguists have variously suggested that the Egyptian language shares its greatest affinities with Berber and Semitic languages, particularly Hebrew. However, other scholars have argued that the Ancient Egyptian language shared closer linguistic ties with north-eastern African regions.In Egyptian, the Proto-Afroasiatic voiced consonants */d z ð/ developed into pharyngeal ⟨ꜥ⟩ /ʕ/: Egyptian ꜥr.t 'portal', Semitic dalt 'door'. Afroasiatic */l/ merged with Egyptian ⟨n⟩, ⟨r⟩, ⟨ꜣ⟩, and ⟨j⟩ in the dialect on which the written language was based, but it was preserved in other Egyptian varieties. Original */k g ḳ/ palatalise to ⟨ṯ j ḏ⟩ in some environments and are preserved as ⟨k g q⟩ in others.The Egyptian language has many biradical and perhaps monoradical roots, in contrast to the Semitic preference for triradical roots. Egyptian is probably more conservative, and Semitic likely underwent later regularizations converting roots into the triradical pattern.Although Egyptian is the oldest Afroasiatic language documented in written form, its morphological repertoire is very different from that of the rest of the Afroasiatic languages in general, and Semitic languages in particular. There are multiple possibilities: Egyptian had already undergone radical changes from Proto-Afroasiatic before it was recorded; the Afroasiatic family has so far been studied with an excessively Semito-centric approach; or, as G. W. Tsereteli suggests, Afroasiatic is an allogenetic rather than a genetic group of languages.
+
+
+== History ==
+The Egyptian language is conventionally grouped into six major chronological divisions:
+Archaic Egyptian (before 2600 BC), the reconstructed language of the Early Dynastic Period,
+Old Egyptian (c. 2600 – 2000 BC), the language of the Old Kingdom,
+Middle Egyptian (c. 2000 – 1350 BC), the language of the Middle Kingdom to early New Kingdom and continuing on as a literary language into the 4th century,
+Late Egyptian (c. 1350 – 700 BC), Amarna period to Third Intermediate Period,
+Demotic (c. 700 BC – AD 400), the vernacular of the Late Period, Ptolemaic and early Roman Egypt,
+Coptic (after c. 200 AD), the vernacular at the time of Christianisation, and the liturgical language of Egyptian Christianity.Old, Middle, and Late Egyptian were all written using both the hieroglyphic and hieratic scripts. 
+Demotic is the name of the script derived from hieratic beginning in the 7th century BC.
+The Coptic alphabet was derived from the Greek alphabet, with adaptations for Egyptian phonology. It was first developed in the Ptolemaic period, and gradually replaced the Demotic script in about the 4th to 5th centuries of the Christian era.
+
+
+=== Old Egyptian ===
+
+The term "Archaic Egyptian" is sometimes reserved for the earliest use of hieroglyphs, from the late fourth through the early third millennia BC. At the earliest stage, around 3300 BC, hieroglyphs were not a fully developed writing system, being at a transitional stage of proto-writing; over the time leading up to the 27th century BC, grammatical features such as nisba formation can be seen to occur.Old Egyptian is dated from the oldest known complete sentence, including a finite verb, which has been found. Discovered in the tomb of Seth-Peribsen (dated c. 2690 BC), the seal impression reads:
+
+Extensive texts appear from about 2600 BC. The Pyramid Texts are the largest body of literature written in this phase of the language. One of its distinguishing characteristics is the tripling of ideograms, phonograms, and determinatives to indicate the plural. Overall, it does not differ significantly from Middle Egyptian, the classical stage of the language, though it is based on a different dialect.
+In the period of the 3rd dynasty (c. 2650 – c. 2575 BC), many of the principles of hieroglyphic writing were regularized. From that time on, until the script was supplanted by an early version of Coptic (about the third and fourth centuries), the system remained virtually unchanged. Even the number of signs used remained constant at about 700 for more than 2000 years.
+
+
+=== Middle Egyptian ===
+Middle Egyptian was spoken for about 700 years, beginning around 2000 BC. As the classical variant of Egyptian, Middle Egyptian is the best-documented variety of the language, and has attracted the most attention by far from Egyptology. Whilst most Middle Egyptian is seen written on monuments by hieroglyphs, it was also written using a cursive variant, and the related hieratic.Middle Egyptian first became available to modern scholarship with the decipherment of hieroglyphs in the early 19th century. The first grammar of Middle Egyptian was published by Adolf Erman in 1894, surpassed in 1927 by Alan Gardiner's work. Middle Egyptian has been well-understood since then, although certain points of the verbal inflection remained open to revision until the mid-20th century, notably due to the contributions of Hans Jakob Polotsky.The Middle Egyptian stage is taken to have ended around the 14th century BC, giving rise to Late Egyptian. This transition was taking place in the later period of the Eighteenth Dynasty of Egypt (known as the Amarna Period). 
+Middle Egyptian was retained as a literary standard language, and in this usage survived until the Christianisation of Roman Egypt in the 4th century.
+
+
+=== Late Egyptian ===
+Late Egyptian, appearing around 1350 BC, is represented by a large body of religious and secular literature, comprising such examples as the Story of Wenamun, the love poems of the Chester–Beatty I papyrus, and the Instruction of Any. Instructions became a popular literary genre of the New Kingdom, which took the form of advice on proper behavior. Late Egyptian was also the language of the New Kingdom administration.The Hebrew Bible contains some words, terms and names that are thought by scholars to be Egyptian in origin. An example of this is Zaphnath-Paaneah, the Egyptian name given to Joseph.
+
+
+=== Demotic and Coptic ===
+
+Demotic is the name given to the Egyptian script used to write both the Egyptian vernacular of the Late Period from the eight century BC as well as texts in archaic forms of the language. It was written in a script derived from a northern variety of hieratic writing. The last evidence of archaic Egyptian in Demotic is a graffito written in 452 BC, but Demotic was used to write vernacular before and in parallel with the Coptic script throughout the early Ptolemaic Kingdom until it was supplanted by the Coptic alphabet entirely.Coptic is the name given to the late Egyptian vernacular when it was written in a Greek-based alphabet, the Coptic alphabet; it flourished from the time of Early Christianity (c. 31/33–324) but first appeared during the Hellenistic period c. 3rd century BC. It survived into the medieval period.
+By the 16th century Coptic was dwindling rapidly due to the persecution of Coptic Christians under the Mamluks. It probably survived in the Egyptian countryside as a spoken language for several centuries after that. Coptic survives as the liturgical language of the Coptic Orthodox Church and the Coptic Catholic Church.
+
+
+== Dialects ==
+Most hieroglyphic Egyptian texts are written in a literary prestige register rather than the vernacular speech variety of their author. As a result, dialectical differences are not apparent in written Egyptian until the adoption of the Coptic alphabet. Nevertheless, it is clear that these differences existed before the Coptic period. In one Late Egyptian letter (dated c. 1200 BC), a scribe jokes that his colleague's writing is incoherent like "the speech of a Delta man with a man of Elephantine.”Recently, some evidence of internal dialects has been found in pairs of similar words in Egyptian that, based on similarities with later dialects of Coptic, may be derived from northern and southern dialects of Egyptian. Written Coptic has five major dialects, which differ mainly in graphic conventions, most notably the southern Saidic dialect, the main classical dialect, and the northern Bohairic dialect, currently used in Coptic Church services.
+
+
+== Writing systems ==
+Most surviving texts in the Egyptian language are written on stone in hieroglyphs. The native name for Egyptian hieroglyphic writing is zẖꜣ n mdw-nṯr ("writing of the gods' words").
+In antiquity, most texts were written on perishable papyrus in hieratic and (later) demotic. There was also a form of cursive hieroglyphs, used for religious documents on papyrus, such as the Book of the Dead of the Twentieth Dynasty; it was simpler to write than the hieroglyphs in stone inscriptions, but it was not as cursive as hieratic and lacked the wide use of ligatures. Additionally, there was a variety of stone-cut hieratic, known as "lapidary hieratic".
+In the language's final stage of development, the Coptic alphabet replaced the older writing system.
+Hieroglyphs are employed in two ways in Egyptian texts: as ideograms to represent the idea depicted by the pictures and, more commonly, as phonograms to represent their phonetic value.
+As the phonetic realisation of Egyptian cannot be known with certainty, Egyptologists use a system of transliteration to denote each sound that could be represented by a uniliteral hieroglyph.Egyptian scholar Gamal Mokhtar argued that the inventory of hieroglyphic symbols derived from "fauna and flora used in the signs [which] are essentially African" and in "regards to writing, we have seen that a purely Nilotic, hence African origin not only is not excluded, but probably reflects the reality" although he acknowledged the geographical location of Egypt made it a receptacle for many influences.
+
+
+== Phonology ==
+
+While the consonantal phonology of the Egyptian language may be reconstructed, the exact phonetics are unknown, and there are varying opinions on how to classify the individual phonemes. In addition, because Egyptian is recorded over a full 2000 years, the Archaic and Late stages being separated by the amount of time that separates Old Latin from Modern Italian, significant phonetic changes must have occurred during that lengthy time frame.Phonologically, Egyptian contrasted labial, alveolar, palatal, velar, uvular, pharyngeal, and glottal consonants. Egyptian also contrasted voiceless and emphatic consonants, as with other Afroasiatic languages, but exactly how the emphatic consonants were realised is unknown. Early research had assumed that the opposition in stops was one of voicing, but it is now thought to be either one of tenuis and emphatic consonants, as in many Semitic languages, or one of aspirated and ejective consonants, as in many Cushitic languages.Since vowels were not written until Coptic, reconstructions of the Egyptian vowel system are much more uncertain and rely mainly on evidence from Coptic and records of Egyptian words, especially proper nouns, in other languages/writing systems. Also, scribal errors provide evidence of changes in pronunciation over time.The actual pronunciations reconstructed by such means are used only by a few specialists in the language. For all other purposes, the Egyptological pronunciation is used, but it often bears little resemblance to what is known of how Egyptian was pronounced.
+
+
+=== Consonants ===
+The following consonants are reconstructed for Archaic (before 2600 BC) and Old Egyptian (2686–2181 BC), with IPA equivalents in square brackets if they differ from the usual transcription scheme:
+
+*Possibly unvoiced ejectives.
+/l/ has no independent representation in the hieroglyphic orthography, and it is frequently written as if it were /n/ or /r/. That is probably because the standard for written Egyptian is based on a dialect in which /l/ had merged with other sonorants. Also, the rare cases of /ʔ/ occurring are not represented. The phoneme /j/ is written as ⟨j⟩ in initial position (⟨jt⟩ = */ˈjaːtVj/ 'father') and immediately after a stressed vowel (⟨bjn⟩ = */ˈbaːjin/ 'bad') and as ⟨jj⟩ word-medially immediately before a stressed vowel (⟨ḫꜥjjk⟩ = */χaʕˈjak/ 'you will appear') and are unmarked word-finally (⟨jt⟩ = /ˈjaːtVj/ 'father').In Middle Egyptian (2055–1650 BC), a number of consonantal shifts take place. By the beginning of the Middle Kingdom period, /z/ and /s/ had merged, and the graphemes ⟨s⟩ and ⟨z⟩ are used interchangeably. In addition, /j/ had become /ʔ/ word-initially in an unstressed syllable (⟨jwn⟩ /jaˈwin/ > */ʔaˈwin/ "colour") and after a stressed vowel (⟨ḥjpw⟩ */ˈħujpVw/ > /ˈħeʔp(Vw)/ '[the god] Apis').In Late Egyptian (1069–700 BC), the phonemes d ḏ g gradually merge with their counterparts t ṯ k (⟨dbn⟩ */ˈdiːban/ > Akkadian transcription ti-ba-an 'dbn-weight'). Also, ṯ ḏ often become /t d/, but they are retained in many lexemes; ꜣ becomes /ʔ/; and /t r j w/ become /ʔ/ at the end of a stressed syllable and eventually null word-finally: ⟨pḏ.t⟩ */ˈpiːɟat/ > Akkadian transcription -pi-ta 'bow'.More changes occur in the 1st millennium BC and the first centuries AD, leading to Coptic (1st–17th centuries AD). In Sahidic ẖ ḫ ḥ had merged into ϣ š (most often from ḫ) and ϩ /h/ (most often ẖ ḥ). Bohairic and Akhmimic are more conservative and have a velar fricative /x/ (ϧ in Bohairic, ⳉ in Akhmimic). Pharyngeal *ꜥ had merged into glottal /ʔ/ after it had affected the quality of the surrounding vowels. /ʔ/ is not indicated orthographically unless it follows a stressed vowel; then, it is marked by doubling the vowel letter (except in Bohairic): Akhmimic ⳉⲟⲟⲡ /xoʔp/, Sahidic and Lycopolitan ϣⲟⲟⲡ šoʔp, Bohairic ϣⲟⲡ šoʔp 'to be' < ḫpr.w */ˈχapraw/ 'has become'. The phoneme ⲃ /b/ was probably pronounced as a fricative [β], becoming ⲡ /p/ after a stressed vowel in syllables that had been closed in earlier Egyptian (compare ⲛⲟⲩⲃ < */ˈnaːbaw/ 'gold' and ⲧⲁⲡ < */dib/ 'horn'). The phonemes /d g z/ occur only in Greek loanwords, with rare exceptions triggered by a nearby /n/: ⲁⲛⲍⲏⲃⲉ/ⲁⲛⲥⲏⲃⲉ < ꜥ.t n.t sbꜣ.w 'school'.
+
+Earlier *d ḏ g q are preserved as ejective t' c' k' k' before vowels in Coptic. Although the same graphemes are used for the pulmonic stops (⟨ⲧ ϫ ⲕ⟩), the existence of the former may be inferred because the stops ⟨ⲡ ⲧ ϫ ⲕ⟩ /p t c k/ are allophonically aspirated [pʰ tʰ cʰ kʰ] before stressed vowels and sonorant consonants. In Bohairic, the allophones are written with the special graphemes ⟨ⲫ ⲑ ϭ ⲭ⟩, but other dialects did not mark aspiration: Sahidic ⲡⲣⲏ, Bohairic ⲫⲣⲏ 'the sun'.Thus, Bohairic does not mark aspiration for reflexes of older *d ḏ g q: Sahidic and Bohairic ⲧⲁⲡ */dib/ 'horn'. Also, the definite article ⲡ is unaspirated when the next word begins with a glottal stop: Bohairic ⲡ + ⲱⲡ > ⲡⲱⲡ 'the account'.The consonant system of Coptic is as follows:
+
+*Various orthographic representations; see above.
+
+
+=== Vowels ===
+Here is the vowel system reconstructed for earlier Egyptian:
+
+Vowels are always short in unstressed syllables (⟨tpj⟩ = */taˈpij/ 'first') and long in open stressed syllables (⟨rmṯ⟩ = */ˈraːmac/ 'man'), but they can be either short or long in closed stressed syllables (⟨jnn⟩ = */jaˈnan/ 'we', ⟨mn⟩ = */maːn/ 'to stay').In the Late New Kingdom, after Ramses II, around 1200 BC, */ˈaː/ changes to */ˈoː/ (like the Canaanite shift), ⟨ḥrw⟩ '(the god) Horus' */ħaːra/ > */ħoːrə/ (Akkadian transcription: -ḫuru). */uː/, therefore, changes to */eː/: ⟨šnj⟩ 'tree' */ʃuːn(?)j/ > */ʃeːnə/ (Akkadian transcription: -sini).In the Early New Kingdom, short stressed */ˈi/ changes to */ˈe/: ⟨mnj⟩ "Menes" */maˈnij/ > */maˈneʔ/ (Akkadian transcription: ma-né-e). Later, probably 1000–800 BC, a short stressed */ˈu/ changes to */ˈe/: ⟨ḏꜥn.t⟩ "Tanis" */ˈɟuʕnat/ was borrowed into Hebrew as *ṣuʕn but would become transcribed as ⟨ṣe-e'-nu/ṣa-a'-nu⟩ during the Neo-Assyrian Empire.Unstressed vowels, especially after a stress, become */ə/: ⟨nfr⟩ 'good' */ˈnaːfir/ > */ˈnaːfə/ (Akkadian transcription -na-a-pa). */iː/ changes to */eː/ next to /ʕ/ and /j/: ⟨wꜥw⟩ 'soldier' */wiːʕiw/ > */weːʕə/ (earlier Akkadian transcription: ú-i-ú, later: ú-e-eḫ).
+In Sahidic and Bohairic Coptic, Late Egyptian stressed */ˈa/ becomes */ˈo/ and */ˈe/ becomes /ˈa/, but are unchanged in the other dialects: ⟨sn⟩ */san/ 'brother' > Sahaidic and Bohairic ⟨son⟩, Akhminic, Lycopolitan and Fayyumic ⟨san⟩; ⟨rn⟩ 'name' */rin/ > */ren/ > Sahaidic and Bohairic ⟨ran⟩, Akhminic, Lycopolitan and Fayyumic ⟨ren⟩. However, Sahaidic and Bohairic preserve */ˈa/, and Fayyumic renders it as ⟨e⟩ in the presence of guttural fricatives: ⟨ḏbꜥ⟩ 'ten thousand' */ˈbaʕ/ > Sahaidic, Akhmimic and Lycopolitan ⟨tba⟩, Bohairic ⟨tʰba⟩, Fayyumic ⟨tbe⟩. In Akhmimic and Lycopolitan, */ˈa/ becomes /ˈo/ before etymological /ʕ, ʔ/: ⟨jtrw⟩ 'river' */ˈjatraw/ > 
+*/jaʔr(ə)/ > Sahaidic ⟨eioor(e)⟩, Bohairic ⟨ior⟩, Akhminic ⟨ioore, iôôre⟩, Fayyumic ⟨iaal, iaar⟩. Similarly, the diphthongs */ˈaj/, */ˈaw/, which normally have reflexes /ˈoj/, /ˈow/ in Sahidic and are preserved in other dialects, are in Bohairic ⟨ôi⟩ (in non-final position) and ⟨ôou⟩ respectively: "to me, to them" Sahidic ⟨eroi, eroou⟩, Akhminic and Lycopolitan ⟨arai, arau⟩, Fayyumic ⟨elai, elau⟩, Bohairic ⟨eroi, erôou⟩. Sahidic and Bohairic preserve */ˈe/ before /ʔ/ (etymological or from lenited /t r j/ or tonic-syllable coda /w/),: Sahidic and Bohairic ⟨ne⟩ /neʔ/ 'to you (fem.)' < */ˈnet/ < */ˈnic/. */e/ may also have different reflexes before sonorants, near sibilants and in diphthongs.Old */aː/ surfaces as /uː/ after nasals and occasionally other consonants: ⟨nṯr⟩ 'god' */ˈnaːcar/ > /ˈnuːte/ ⟨noute⟩ /uː/ has acquired phonemic status, as is evidenced by minimal pairs like 'to approach' ⟨hôn⟩ /hoːn/ < */ˈçaːnan/ ẖnn vs. 'inside' ⟨houn⟩ /huːn/ < */ˈçaːnaw/ ẖnw. An etymological */uː/ > */eː/ often surfaces as /iː/ next to /r/ and after etymological pharyngeals: ⟨hir⟩ < */χuːr/ 'street' (Semitic loan).Most Coptic dialects have two phonemic vowels in unstressed position. Unstressed vowels generally became /ə/, written as ⟨e⟩ or null (⟨i⟩ in Bohairic and Fayyumic word-finally), but pretonic unstressed /a/ occurs as a reflex of earlier unstressed */e/ near an etymological pharyngeal, velar or sonorant ('to become many' ⟨ašai⟩ < ꜥšꜣ */ʕiˈʃiʀ/) or an unstressed */a/. Pretonic [i] is underlyingly /əj/: Sahidic 'ibis' ⟨hibôi⟩ < h(j)bj.w */hijˈbaːj?w/.Thus, the following is the Sahidic vowel system c. AD 400:
+
+
+=== Phonotactics ===
+Earlier Egyptian has the syllable structure CV(ː)(C) in which V is long in open stressed syllables and short elsewhere. In addition, CVːC or CVCC can occur in word-final, stressed position. However, CVːC occurs only in the infinitive of biconsonantal verbal roots, CVCC only in some plurals.In later Egyptian, stressed CVːC, CVCC, and CV become much more common because of the loss of final dentals and glides.
+
+
+=== Stress ===
+Earlier Egyptian stresses one of the last two syllables. According to some scholars, that is a development from a stage in Proto-Egyptian in which the third-last syllable could be stressed, which was lost as open posttonic syllables lost their vowels: */ˈχupiraw/ > */ˈχupraw/ 'transformation'.
+
+
+=== Egyptological pronunciation ===
+As a convention, Egyptologists make use of an "Egyptological pronunciation" in English: the consonants are given fixed values, and vowels are inserted according to essentially arbitrary rules. Two of these consonants known as alef and ayin are generally pronounced as the vowel /ɑː/. Yodh is pronounced /iː/, w /uː/. Between other consonants, /ɛ/ is then inserted. Thus, for example, the Egyptian name Ramesses is most accurately transliterated as rꜥ-ms-sw ("Ra is the one who bore him") and pronounced as /rɑmɛssu/.
+In transcription, ⟨a⟩, ⟨i⟩, and ⟨u⟩ all represent consonants. For example, the name Tutankhamun (1341–1323 BC) was written in Egyptian as twt-ꜥnḫ-jmn ("living image of Amun"). Experts have assigned generic sounds to these values as a matter of convenience, which is an artificial pronunciation and should not be mistaken for how Egyptian was ever pronounced at any time. So although twt-ꜥnḫ-ı͗mn is pronounced  in modern Egyptological pronunciation, in his lifetime, it was likely to be pronounced something like *[təˈwaːtəʔ ˈʕaːnəχ ʔaˈmaːnəʔ], transliterable as təwā́təʾ-ʿā́nəkh-ʾamā́nəʾ.
+
+
+== Morphology ==
+Egyptian is fairly typical for an Afroasiatic language in that at the heart of its vocabulary is most commonly a root of three consonants, but there are sometimes only two consonants in the root: rꜥ(w) ([riːʕa], "sun"--the [ʕ] is thought to have been something like a voiced pharyngeal fricative). Larger roots are also common and can have up to five consonants: sḫdḫd ("be upside-down").
+Vowels and other consonants are added to the root to derive different meanings, as Arabic, Hebrew, and other Afroasiatic languages still do. However, because vowels and sometimes glides are not written in any Egyptian script except Coptic, it can be difficult to reconstruct the actual forms of words. Thus, orthographic stp ("to choose"), for example, can represent the stative (whose endings can be left unexpressed), the imperfective forms or even a verbal noun ("a choosing").
+
+
+=== Nouns ===
+Egyptian nouns can be masculine or feminine (the latter is indicated, as with other Afroasiatic languages, by adding a -t) and singular or plural (-w / -wt), or dual (-wj / -tj).
+Articles, both definite and indefinite, do not occur until Late Egyptian but are used widely thereafter.
+
+
+=== Pronouns ===
+Egyptian has three different types of personal pronouns: suffix, enclitic (called "dependent" by Egyptologists) and independent pronouns. There are also a number of verbal endings added to the infinitive to form the stative and are regarded by some linguists as a "fourth" set of personal pronouns. They bear close resemblance to their Semitic counterparts. The three main sets of personal pronouns are as follows:
+
+Demonstrative pronouns have separate masculine and feminine singular forms and common plural forms for both genders:
+
+Finally, are interrogative pronouns. They bear a close resemblance to their Semitic and Berber counterparts:
+
+
+=== Verbs ===
+Egyptian verbs have finite and non-finite forms.
+Finite verbs convey person, tense/aspect, mood and voice. Each is indicated by a set of affixal morphemes attached to the verb: For example, the basic conjugation is sḏm ("to hear") is sḏm.f ("he hears").
+Non-finite verbs occur without a subject and are the infinitive, the participles and the negative infinitive, which Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs calls "negatival complement". There are two main tenses/aspects in Egyptian: past and temporally-unmarked imperfective and aorist forms. The latter are determined from their syntactic context.
+
+
+=== Adjectives ===
+Adjectives agree in gender and number with the nouns they modify: z nfr ("[the] good man") and zt nfrt ("[the] good woman").
+Attributive adjectives in phrases are after the nouns they modify: nṯr ꜥꜣ ("[the] great god").
+However, when they are used independently as a predicate in an adjectival phrase, as ꜥꜣ nṯr ("[the] god [is] great", lit. "great [is the] god"), adjectives precede the nouns they modify.
+
+
+=== Prepositions ===
+Egyptian makes use of prepositions.
+
+
+=== Adverbs ===
+Adverbs, in Egyptian, are at the end of a sentence: For example, in zı͗.n nṯr ı͗m ("[the] god went there", lit. "went [the] god there"), ı͗m ("there") is the adverb.
+Here are some common Egyptian adverbs:
+
+
+== Syntax ==
+Old Egyptian, Classical Egyptian, and Middle Egyptian have verb-subject-object as the basic word order. For example, the equivalent of "he opens the door" would be wn s ꜥꜣ ("opens he [the] door"). The so-called construct state combines two or more nouns to express the genitive, as in Semitic and Berber languages. However, that changed in the later stages of the language, including Late Egyptian, Demotic and Coptic.
+The early stages of Egyptian have no articles, but the later forms use pꜣ, tꜣ and nꜣ.
+As with other Afroasiatic languages, Egyptian uses two grammatical genders: masculine and feminine. It also uses three grammatical numbers: singular, dual and plural. However, later Egyptian has a tendency to lose the dual as a productive form.
+
+
+== Legacy ==
+
+The Egyptian language survived through the Middle Ages and into the early modern period in the form of the Coptic language. Coptic survived past the 16th century only as an isolated vernacular and as a liturgical language for the Coptic Orthodox and Coptic Catholic Churches. Coptic also had an enduring effect on Egyptian Arabic, which replaced Coptic as the main daily language in Egypt; the Coptic substratum in Egyptian Arabic appears in certain aspects of syntax and to a lesser degree in vocabulary and phonology.
+In antiquity, Egyptian exerted some influence on Classical Greek, so that a number of Egyptian loanwords into Greek survive into modern usage. Examples include:
+
+ebony (Egyptian hbnj, via Greek and then Latin)
+ivory (Egyptian ꜣbw, via Latin)
+natron (Egyptian nṯrj, via Greek)
+lily (Egyptian ḥrrt, Coptic hlēri, via Greek)
+ibis (Egyptian hbj, via Greek)
+oasis (Egyptian wḥꜣt, via Greek)
+barge (Egyptian bꜣjr, via Greek))
+possibly cat
+pharaoh (Egyptian pr ꜥꜣ, lit. "great house", via Hebrew and Greek)The etymological root of "Egypt" is the same as Copts, ultimately from the Late Egyptian name of Memphis, Hikuptah, a continuation of Middle Egyptian ḥwt-kꜣ-ptḥ (lit. "temple of the ka (soul) of Ptah").
+
+
+== See also ==
+Altägyptisches Wörterbuch
+Ancient Egyptian literature
+Coptic language
+Demotic Egyptian
+Egyptian Arabic
+Egyptian hieroglyphs
+Egyptian numerals
+Hieratic
+Transliteration of Ancient Egyptian
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Allen, James P. (2000). Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs. Cambridge University Press. ISBN 978-0-521-65312-1.
+Allen, James P. (2013). The Ancient Egyptian Language: An Historical Study. Cambridge University Press. ISBN 978-1-107-66467-8.
+Callender, John B. (1975). Middle Egyptian. Undena Publications. ISBN 978-0-89003-006-6.
+Loprieno, Antonio (1995). Ancient Egyptian: A Linguistic Introduction. Cambridge: Cambridge University Press. ISBN 978-0-521-44384-5.
+Satzinger, Helmut (2008). "What happened to the voiced consonants of Egyptian?" (PDF). Vol. 2. Acts of the X International Congress of Egyptologists. pp. 1537–1546. Archived (PDF) from the original on 15 August 2014.
+Vycichl, Werner (1983). Dictionnaire Étymologique de la Langue Copte. Leuven. ISBN 9782-7247-0096-1.
+Vycichl, Werner (1990). La Vocalisation de la Langue Égyptienne. Cairo: IFAO. ISBN 9782-7247-0096-1.
+
+
+== Literature ==
+
+
+=== Overviews ===
+Allen, James P., The Ancient Egyptian Language: An Historical Study, Cambridge University Press, 2013. ISBN 978-1-107-03246-0 (hardback), ISBN 978-1-107-66467-8 (paperback).
+Loprieno, Antonio, Ancient Egyptian: A Linguistic Introduction, Cambridge University Press, 1995. ISBN 0-521-44384-9 (hardback), ISBN 0-521-44849-2 (paperback).
+Peust, Carsten, Egyptian phonology: An Introduction to the Phonology of a Dead Language, Peust & Gutschmidt, 1999. ISBN 3-933043-02-6 (PDF online).
+Vergote, Jozef, "Problèmes de la «Nominalbildung» en égyptien", Chronique d'Égypte 51 (1976), pp. 261–285.
+Vycichl, Werner, La Vocalisation de la Langue Égyptienne, IFAO, Cairo, 1990. ISBN 9782-7247-0096-1.
+
+
+=== Grammars ===
+Allen, James P., Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs, first edition, Cambridge University Press, 1999. ISBN 0-521-65312-6 (hardback) ISBN 0-521-77483-7 (paperback).
+Borghouts, Joris F., Egyptian: An Introduction to the Writing and Language of the Middle Kingdom, two vols., Peeters, 2010. ISBN 978-9-042-92294-5 (paperback).
+Collier, Mark, and Manley, Bill, How to Read Egyptian Hieroglyphs: A Step-by-Step Guide to Teach Yourself, British Museum Press (ISBN 0-7141-1910-5) and University of California Press (ISBN 0-520-21597-4), both 1998.
+Gardiner, Sir Alan H., Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs, Griffith Institute, Oxford, 3rd ed. 1957. ISBN 0-900416-35-1.
+Hoch, James E., Middle Egyptian Grammar, Benben Publications, Mississauga, 1997. ISBN 0-920168-12-4.
+Selden, Daniel L., Hieroglyphic Egyptian: An Introduction to the Language and Literature of the Middle Kingdom, University of California Press, 2013. ISBN 978-0-520-27546-1 (hardback).
+
+
+=== Dictionaries ===
+Erman, Adolf and Grapow, Hermann, Das Wörterbuch der ägyptischen Sprache, Wiley-VCH Verlag GmbH, Berlin, 1992. ISBN 978-3-05-002264-2 (paperback), ISBN 978-3-05-002266-6 (reference vols. 1–5).
+Faulkner, Raymond O., A Concise Dictionary of Middle Egyptian, Griffith Institute, Oxford, 1962. ISBN 0-900416-32-7 (hardback).
+Lesko, Leonard H., A Dictionary of Late Egyptian, 2nd ed., 2 vols., B. C. Scribe Publications, Providence, 2002 et 2004. ISBN 0-930548-14-0 (vol.1), ISBN 0-930548-15-9 (vol. 2).
+Shennum, David, English-Egyptian Index of Faulkner's Concise Dictionary of Middle Egyptian, Undena Publications, 1977. ISBN 0-89003-054-5.
+Bonnamy, Yvonne and Sadek, Ashraf-Alexandre, Dictionnaire des hiéroglyphes: Hiéroglyphes-Français, Actes Sud, Arles, 2010. ISBN 978-2-7427-8922-1.
+Vycichl, Werner, Dictionnaire Étymologique de la Langue Copte, Peeters, Leuven, 1984. ISBN 2-8017-0197-1.
+de Vartavan, Christian, Vocalised Dictionary of Ancient Egyptian, SAIS, London, 2016. ISBN 978-0-9954898-1-3. [Free PDF download: https://www.academia.edu/24283355/Vocalised_Dictionary_of_Ancient_Egyptian]
+
+
+=== Online dictionaries ===
+The Beinlich Wordlist, an online searchable dictionary of ancient Egyptian words (translations are in German).
+Thesaurus Linguae Aegyptiae, an online service available from October 2004 which is associated with various German Egyptological projects, including the monumental Altägyptisches Wörterbuch Archived 14 December 2020 at the Wayback Machine of the Berlin-Brandenburgische Akademie der Wissenschaften (Berlin-Brandenburg Academy of Sciences and Humanities, Berlin, Germany).
+Mark Vygus Dictionary 2018, a searchable dictionary of ancient Egyptian words, arranged by glyph.Important Note: The old grammars and dictionaries of E. A. Wallis Budge have long been considered obsolete by Egyptologists, even though these books are still available for purchase.
+More book information is available at Glyphs and Grammars.
+
+
+== External links ==
+
+Thesaurus Linguae Aegyptiae: Dictionary of the Egyptian language
+The Egyptian connection: Egyptian and the Semitic languages by Helmut Satzinger
+Ancient Egyptian in the wiki Glossing Ancient Languages (recommendations for the Interlinear Morphemic Glossing of Ancient Egyptian texts)

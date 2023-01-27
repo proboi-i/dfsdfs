@@ -1,0 +1,152 @@
+URI[https://en.wikipedia.org/wiki/Somali_language]
+= Somali_language = 
+Somali  (Latin script: Af-Soomaali; Wadaad: اَف صومالي‎; Osmanya: 𐒖𐒍 𐒈𐒝𐒑𐒛𐒐𐒘 [æ̀f sɔ̀ːmɑ́ːlì]) is an Afroasiatic language belonging to the Cushitic branch. It is spoken as a mother tongue by Somalis in Greater Somalia and the Somali diaspora. Somali is an official language in Somalia and Ethiopia, and a national language in Djibouti as well as in northeastern Kenya. The Somali language is written officially with the Latin alphabet although the Arabic alphabet and several Somali scripts like Osmanya, Kaddare and the Borama script are informally used.
+
+
+== Classification ==
+
+Somali is classified within the Cushitic branch of the Afroasiatic family, specifically, Lowland East Cushitic in addition to Afar and Saho. Somali is the best-documented of the Cushitic languages, with academic studies of the language dating back to the late 19th century.
+
+
+== Geographic distribution of Somali ==
+The Somali language is spoken in Somali inhabited areas of Somalia, Djibouti, Ethiopia, Kenya, Yemen and by members of the Somali diaspora. It is also spoken as an adoptive language by a few ethnic minority groups and individuals in Somali majority regions.
+Somali is the most widely spoken Cushitic language in the region followed by Oromo and Afar.As of 2019, there were approximately 21.8 million speakers of Somali, spread in Greater Somalia of which around 7.8 million resided in Somalia. The language is spoken by an estimated 95% of the country's inhabitants, and also by a majority of the population in Djibouti.Following the start of the Somali Civil War in the early 1990s, the Somali-speaking diaspora increased in size, with newer Somali speech communities forming in parts of the Middle East, North America and Europe.
+
+
+=== Official status ===
+Constitutionally, Somali and Arabic are the two official languages of Somalia. Somali has been an official national language since January 1973, when the Supreme Revolutionary Council (SRC) declared it the Somali Democratic Republic's primary language of administration and education. Somali was thereafter established as the main language of academic instruction in forms 1 through 4, following preparatory work by the government-appointed Somali Language Committee. It later expanded to include all 12 forms in 1979. In 1972, the SRC adopted a Latin orthography as the official national alphabet over several other writing scripts that were then in use. Concurrently, the Italian-language daily newspaper Stella d'Ottobre ("The October Star") was nationalized, renamed to Xiddigta Oktoobar, and began publishing in Somali. The state-run Radio Mogadishu has also broadcast in Somali since 1943. Additionally, other state-run public networks like Somaliland National TV, regional public networks such as Puntland TV and Radio and, as well as Eastern Television Network and Horn Cable Television, among other private broadcasters, air programs in Somali.Somali is recognized as an official working language in the Somali Region of Ethiopia. Although it is not an official language of Djibouti, it constitutes a major national language there. Somali is used in television and radio broadcasts, with the government-operated Radio Djibouti transmitting programs in the language from 1943 onwards.The Kenya Broadcasting Corporation also broadcasts in the Somali language in its Iftin FM Programmes. The language is spoken in the Somali territories within North Eastern Kenya, namely Wajir County, Garissa County and Mandera County.The Somali language is regulated by the Regional Somali Language Academy, an intergovernmental institution established in June 2013 in Djibouti City by the governments of Djibouti, Somalia and Ethiopia. It is officially mandated with preserving the Somali language.As of October 2022, Somali and Oromo are the only Cushitic languages available on Google Translate.
+
+
+== Varieties ==
+
+Somali linguistic varieties are broadly divided into three main groups: Northern, Benadir and Maay. Northern Somali (or Nsom) forms the basis for Standard Somali. It is spoken by more than 85% of the entire Somali population, with its speech area stretching from Djibouti,Somali Region of Ethiopia, Northern Frontier District to most parts of Somalia This widespread modern distribution is a result of a long series of southward population movements over the past ten centuries from the Gulf of Aden littoral. Lamberti subdivides Northern Somali into three dialects: Northern Somali proper (spoken in the northwest; he describes this dialect as Northern Somali in the proper sense), the Darod group (spoken in the northeast and along the eastern Ethiopia frontier; greatest number of speakers overall), and the Lower Juba group (spoken by northern Somali settlers in the southern riverine areas).
+
+Benadir (also known as Coastal Somali) is spoken on the central Indian Ocean seaboard, including Mogadishu. It forms a relatively smaller group. The dialect is fairly mutually intelligible with Northern Somali.
+
+There are other languages that are spoken in Somalia which are not necessarily Afsoomali. They may be a mixture of the Somali languages and other indigenous languages. Such a language is Maay which is principally spoken by the Digil and Mirifle (Rahanweyn or Sab) clans in the southern regions of Somalia. Its speech area extends from the southwestern border with Ethiopia to a region close to the coastal strip between Mogadishu and Kismayo, including the city of Baidoa. Maay is not mutually comprehensible with Northern Somali, and it differs in sentence structure and phonology. It is also not generally used in education or media. However, Maay speakers often use Standard Somali as a lingua franca, which is learned via mass communications, internal migration and urbanization.Maay is not closely related with the Somali language in sentence structure and phonology is spoken by Jiddu, Dabarre, Garre and Tunni varieties that are also spoken by smaller Rahanweyn communities. Collectively, these languages present similarities with Oromo that are not found in mainstream Somali. Chief among these is the lack of pharyngeal sounds in the Rahanweyn/Digil and Mirifle languages, features which by contrast typify Somali but are not Somali. Although in the past frequently classified as dialects of Somali, more recent research by the linguist Mohamed Diriye Abdullahi has shown that these varieties, including Maay, constitute separate Cushitic languages. 
+The degree of divergence is comparable to that between Spanish and Portuguese. Of the Digil varieties, Jiddu is the most incomprehensible to Benadir and Northern speakers. Despite these linguistic differences, Somali speakers collectively view themselves as speaking a common language.These assumptions however has been contested by a more recent study by Deqa Hassan that tested the mutual intelligibility between Af-Maay and Af-Maxaa speakers (Northern Somali).
+The study found that Af-Maay is partially mutually intelligible to Af-Maxaa (Northern Speakers) and that intelligibility increases with increased understanding of Standard Somali, which implies understanding of standard Somali (Northern Somali) increases the chance of understanding Af-Maay. This accounts for the most significant linguistic factor that ties both language variations together. Furthermore, Af-Maay is categorized as a Type 5 dialect for the overlapping common cultural history it shares with Af Maxaa speakers which explains its somewhat mutual intelligibility.
+
+
+== Phonology ==
+
+
+=== Vowels ===
+Somali has five vowel articulations that all contrast murmured and harsh voice as well as vowel length. There is little change in vowel quality when the vowel is lengthened. Each vowel has a harmonic counterpart, and every vowel within a harmonic group (which notably can be larger than a word in Somali) must harmonize with the other vowels. The Somali orthography, however, does not distinguish between the two harmonic variants of each vowel.
+
+
+=== Consonants ===
+Somali has 22 consonant phonemes.
+The consonants /b d̪ ɡ/ often weaken to [β ð ɣ] intervocalically. The retroflex plosive /ɖ/ may have an implosive quality for some speakers, and intervocalically it can be realized as the flap [ɽ]. Some speakers produce /ħ/ with epiglottal trilling. /q/ is often epiglottalized.The language has five basic vowels. Each has a front and back variation as well as long or short versions. This gives a distinct 20 pure vowel sounds. It also exhibits three tones: high, low and falling. Vowels harmonize within a harmonic group, so all vowels within the group must either be front or back. The Somali orthography does not distinguish between the front and back variants of vowels, however, as there are few minimal pairs.The syllable structure of Somali is (C)V(C). Root morphemes usually have a mono- or di-syllabic structure.
+Pitch is phonemic in Somali, but it is debated whether Somali is a pitch accent or tonal language. Andrzejewski (1954) posits that Somali is a tonal language, whereas Banti (1988) suggests that it is a pitch accent language.
+
+
+=== Tone ===
+Lexical prominence in Somali can be classified under a pitch accent system, in which there is one high-tone mora per word.
+The tone system distinguishes both grammatical and lexical differences. Differences include numbers singular and plural (a grammatical distinction), and masculine and feminine genders (a grammatical and sometimes also lexical distinction). One example is inán ('girl') versus ínan ('boy'). This reflects a tonal pattern that codes grammatical gender, such as dameér ('female donkey') versus daméer ('male donkey').
+The question of the tone system in Somali has been debated for decades. The modern consensus is as follows.
+In Somali, the tone-bearing unit is the mora rather than the vowel of the syllable. A long vowel or a diphthong consists of two morae and can bear two tones. Each mora is defined as being of high or low tone. Only one high tone occurs per word and this must be on the final or penultimate mora. Particles do not have a high tone. (These include prepositions, clitic pronouns for subject and object, impersonal subject pronouns and focus markers.) There are therefore three possible "accentual patterns" in word roots.
+Phonetically there are three tones on long vowels: high, low and falling:
+
+On a long vowel or diphthong, a sequence of high-low is realised as a falling tone.
+On a long vowel or diphthong, a sequence of low-high is realised as high-high. (Occasionally, it is a rising tone.)This use of tone may be characterized as pitch accent. It is similar to that in Oromo.
+Stress is connected with tone. The high tone has strong stress; the falling tone has less stress and the low tone has no stress.
+When needed, the conventions for marking tone on written Somali are as follows:
+
+acute accent - high tone
+grave accent - low tone
+circumflex - falling toneTones on long vowels are marked on the first vowel symbol.[dubious – discuss]
+
+
+=== Phonotactics ===
+The syllable structure of Somali is (C)V(C).
+Root morphemes usually have a mono- or di-syllabic structure.
+Clusters of two consonants do not occur word-initially or word-finally, i.e., they only occur at syllable boundaries. The following consonants can be geminate: /b/, /d/, /ɖ/, /ɡ/, /ɢ/, /m/, /n/, /r/ and /l/. The following cannot be geminate: /t/, /k/ and the fricatives.
+Two vowels cannot occur together at syllable boundaries. Epenthetic consonants, e.g. [j] and [ʔ], are therefore inserted.
+
+
+== Grammar ==
+
+
+=== Morphology ===
+Somali is an agglutinative language, and also shows properties of inflection. Affixes mark many grammatical meanings, including aspect, tense and case.Somali has an old prefixal verbal inflection restricted to four common verbs, with all other verbs undergoing inflection by more obvious suffixation. This general pattern is similar to the stem alternation that typifies Cairene Arabic.Changes in pitch are used for grammatical rather than lexical purposes. This includes distinctions of gender, number and case. In some cases, these distinctions are marked by tone alone (e.g. Ínan, "boy"; inán, "girl").Somali has two sets of pronouns: independent (substantive, emphatic) pronouns and clitic (verbal) pronouns. The independent pronouns behave grammatically as nouns, and normally occur with the suffixed article -ka/-ta (e.g. adiga, "you"). This article may be omitted after a conjunction or focus word. For example, adna meaning "and you..." (from adi-na). Clitic pronouns are attached to the verb and do not take nominal morphology. Somali marks clusivity in the first person plural pronouns; this is also found in a number of other East Cushitic languages, such as Rendille and Dhaasanac.As in various other Afro-Asiatic languages, Somali is characterized by polarity of gender, whereby plural nouns usually take the opposite gender agreement of their singular forms. For example, the plural of the masculine noun dibi ("bull") is formed by converting it into feminine dibi. Somali is unusual among the world's languages in that the object is unmarked for case while the subject is marked, though this feature is found in other Cushitic languages such as Oromo.
+
+
+=== Syntax ===
+Somali is a subject–object–verb (SOV) language. It is largely head final, with postpositions and with obliques preceding verbs. These are common features of the Cushitic and Semitic Afroasiatic languages spoken in the Horn region (e.g. Amharic). However, Somali noun phrases are head-initial, whereby the noun precedes its modifying adjective. This pattern of general head-finality with head-initial noun phrases is also found in other Cushitic languages (e.g. Oromo), but not generally in Ethiopian Semitic languages.Somali uses three focus markers: baa, ayaa and waxa(a), which generally mark new information or contrastive emphasis. Baa and ayaa require the focused element to occur preverbally, while waxa(a) may be used following the verb.
+
+
+== Vocabulary ==
+
+Somali loanwords can be divided into those derived from other Afroasiatic languages (mainly Arabic), and those of Indo-European extraction (mainly Italian).Somali's main lexical borrowings come from Arabic, and are estimated to constitute about 20% of the language's vocabulary. This is a legacy of the Somali people's extensive social, cultural, commercial and religious links and contacts with nearby populations in the Arabian peninsula. Arabic loanwords are most commonly used in religious, administrative and education-related speech (e.g. aamiin for "faith in God"), though they are also present in other areas (e.g. kubbad-da, "ball"). Soravia (1994) noted a total of 1,436 Arabic loanwords in Agostini a.o. 1985, a prominent 40,000-entry Somali dictionary. Most of the terms consisted of commonly used nouns. These lexical borrowings may have been more extensive in the past since a few words that Zaborski (1967:122) observed in the older literature were absent in Agostini's later work. In addition, the majority of personal names are derived from Arabic.The Somali language also contains a few Indo-European loanwords that were retained from the colonial period. Most of these lexical borrowings come from English and Italian and are used to describe new objects or modern concepts (e.g. telefishen-ka, "television"; raadia-ha, "radio"). There are as well 300 directly Romance loans, such as garawati for "tie" (from the Italian cravatta).
+Indeed, the most used loanwords from the Italian are "ciao" as a friendly salute, "dimuqraadi" from Italian "democratico" (democratic), "mikroskoob" from "microscopio” (microscope), "Jalaato" from "gelato" (ice cream), "baasto" from "pasta" (pasta), "bataate" from "patate" (potato), "bistoolad" from "pistol" (pistol), "fiyoore" from "fiore" (flower) and "injinyeer" from "ingegnere" (engineer). Somalis call their calendar months as Soon, soonfur, siditaal, carafa....but these changed recently. Furthermore, all the months in Somali language are now loaned words from the Italian, like "Febraayo" that comes from "febbraio" (February).
+Additionally, Somali contains lexical terms from Persian, Urdu and Hindi that were acquired through historical trade with communities in the Near East and South Asia (e.g. khiyaar "cucumber" from Persian: خيار khiyār ). Other loan words have also displaced their native synonyms in some dialects (e.g. jabaati  "a type of flat bread" from Hindi:  चपाती chapāti displacing sabaayad). Some of these words were also borrowed indirectly via Arabic.As part of a broader governmental effort of linguistic purism in the Somali language, the past few decades have seen a push in Somalia toward replacement of loanwords in general with their Somali equivalents or neologisms. To this end, the Supreme Revolutionary Council during its tenure officially prohibited the borrowing and use of English and Italian terms.
+
+
+== Writing system ==
+
+Archaeological excavations and research in Somalia uncovered ancient inscriptions in a distinct writing system. In an 1878 report to the Royal Geographical Society of Great Britain, scientist Johann Maria Hildebrandt noted upon visiting the area that "we know from ancient authors that these districts, at present so desert, were formerly populous and civilised[...] I also discovered ancient ruins and rock-inscriptions both in pictures and characters[...] These have hitherto not been deciphered." According to the 1974 report for Ministry of Information and National Guidance, this script represents the earliest written attestation of Somali.Much more recently, Somali archaeologist Sada Mire has published ancient inscriptions found throughout Somaliland. As much for much of Somali linguistic history the language was not widely used for literature, Dr. Mire's publications however prove that writing as a technology was not foreign nor scarce in the region. These piece of writing are from the Semitic Himyarite and Sabaean languages that were largely spoken in what is modern day Yemen —"there is an extensive and ancient relationship between the people and cultures of both sides of the Red Sea coast" Mire posits. Yet, while many more such ancient inscriptions are yet to be found or analyzed, many have been "bulldozed by developers, as the Ministry of Tourism could not buy the land or stop the destruction".Besides Ahmed's Latin script, other orthographies that have been used for centuries for writing the Somali language include the long-established Arabic script and Wadaad writing. According to Bogumił Andrzejewski, this usage was limited to Somali clerics and their associates, as sheikhs preferred to write in the liturgical Arabic language. Various such historical manuscripts in Somali nonetheless exist, which mainly consist of Islamic poems (qasidas), recitations and chants. Among these texts are the Somali poems by Sheikh Uways and Sheikh Ismaaciil Faarah. The rest of the existing historical literature in Somali principally consists of translations of documents from Arabic.Since then a number of writing systems have been used for transcribing the Somali language. Of these, the Somali Latin alphabet, officially adopted in 1972, is the most widely used and recognised as official orthography of the state. The script was developed by a number of leading scholars of Somali, including Musa Haji Ismail Galal, B. W. Andrzejewski and Shire Jama Ahmed specifically for transcribing the Somali language, and uses all letters of the English Latin alphabet except p, v and z. There are no diacritics or other special characters except the use of the apostrophe for the glottal stop, which does not occur word-initially. There are three consonant digraphs: DH, KH and SH. Tone is not marked, and front and back vowels are not distinguished.
+Writing systems developed in the twentieth century include the Osmanya, Borama and Kaddare alphabets, which were invented by Osman Yusuf Kenadid, Abdurahman Sheikh Nuur and Hussein Sheikh Ahmed Kaddare, respectively.
+
+
+== Numbers and calendrical terms ==
+
+
+=== Numbers ===
+For all number between 11 kow iyo toban and 99 sagaashal iyo sagaal it is equally correct to switch the placement of the numbers, although larger numbers is some dialects prefer to place the 10s numeral first. For example 25 may both be written as labaatan iyo shan and shan iyo labaatan (lit. Twenty and Five & Five and Twenty).
+Although neither the Latin nor Osmanya scripts accommodate this numerical switching.
+
+
+=== Multiples of 10 ===
+
+
+=== Names of large numbers ===
+*the commas in the Osmanya number chart are added for clarity
+
+
+=== Days of the week ===
+
+
+=== Months of the year ===
+
+
+== See also ==
+Languages of Djibouti
+Languages of Somalia
+Languages of Kenya
+Somali Sign Language
+Somali literature
+Somali Studies
+Somali Latin alphabet
+
+
+== References ==
+
+
+=== Sources ===
+
+
+== Further reading ==
+Abdullahi, Mohamed Diriye (2000). Le Somali, dialectes et histoire. Ph.D. dissertation, Université de Montréal.
+Armstrong, L.E. (1964). "The phonetic structure of Somali," Mitteilungen des Seminars für Orientalische Sprachen Berlin 37/3:116-161.
+Bell, C.R.V. (1953). The Somali Language. London: Longmans, Green & Co.
+Berchem, Jörg (1991). Referenzgrammatik des Somali. Köln: Omimee.
+Cana, Frank Richardson (1911). "Somaliland" . Encyclopædia Britannica. Vol. 25 (11th ed.). pp. 378–384, see page 379. Inhabitants.—The Somali belong to the Eastern (Abyssinia) Hamitic family.... Their influence has been very slight even on the Somali language, whose structure and vocabulary are essentially Hamitic, with marked affinities to the Galla on the one hand and to the Dankali (Afar) on the other.
+Cardona, G.R. (1981). "Profilo fonologico del somalo," Fonologia e lessico. Ed. G.R. Cardona & F. Agostini. Rome: Dipartimento per la Cooperazione allo Sviluppo; Comitato Tecnico Linguistico per l'Università Nazionale Somala, Ministero degli Affari Esteri.  Volume 1, pages 3–26.
+Dobnova, Elena Z. (1990). Sovremennyj somalijskij jazyk. Moskva: Nauka.
+Puglielli, Annarita (1997). "Somali Phonology," Phonologies of Asia and Africa, Volume 1.  Ed. Alan S. Kaye. Winona Lake:  Eisenbrauns. Pages 521–535.
+Lamberti, M. (1986). Die Somali-Dialekte. Hamburg: Buske.
+Lamberti, M. (1986). Map of the Somali-Dialects in the Somali Democratic Republic. Hamburg: Buske.
+Saeed, John Ibrahim (1987). Somali Reference Grammar. Springfield, VA: Dunwoody Press.
+
+
+== External links ==
+
+Somali Language Page: Resources, links and information on the Somali language.
+Hooyo.Web - Somali Grammar
+Somali Language and Linguistics: A Bibliography
+Learn101 - Learn Somali
+Virtual keyboard for historical Osmanya script. Lexilogos.
+Digital Dialects - Somali language learning games
+Enhancing the Quality of Google Somali Translations
+[1]

@@ -1,0 +1,98 @@
+URI[https://en.wikipedia.org/wiki/Standard_German]
+= Standard_German = 
+Standard High German (SHG), less precisely Standard German or High German (not to be confused with High German dialects, more precisely Upper German dialects) (German: Standardhochdeutsch, Standarddeutsch, Hochdeutsch or, in Switzerland, Schriftdeutsch), is the standardized variety of the German language used in formal contexts and for communication between different dialect areas. It is a pluricentric Dachsprache with three codified (or standardised) specific regional variants: German Standard German, Austrian Standard German and Swiss Standard German.
+Regarding the spelling and punctuation, a recommended standard is published by the Council for German Orthography which represents the governments of all majority and minority German-speaking countries and dependencies. Adherence is obligatory for government institutions, including schools. Regarding the pronunciation, although there is no official standards body, there is a long-standing de facto standard pronunciation (Bühnendeutsch), most commonly used in formal speech and teaching materials. It is similar to the formal German spoken in and around Hanover. Adherence to those standards by private individuals and companies, including the print and audio-visual media, is voluntary but widespread.
+
+
+== Origins ==
+Standard German originated not as a traditional dialect of a specific region but as a written language developed over a process of several hundred years in which writers tried to write in a way that was understood in the largest area.
+Martin Luther's translation of the Bible in 1522 was an important development towards an early standardization of written German. Luther based his translation largely on the already developed language of the Saxon chancery, which was more widely understood than other dialects and as a Central German dialect, was felt to be "halfway" between the dialects of the north and south. Luther drew principally on Eastern Upper and East Central German dialects and preserved much of the grammatical system of Middle High German.Later in 1748, a grammar manual by Johann Christoph Gottsched, Grundlegung einer deutschen Sprachkunst, was key in the development of German writing and standardization of the language. Similarly to Luther, Gottsched based his manual on the Central German variant of the Upper Saxon area. Over the course of the mid-18th century and onward, a written standard then began to emerge and be widely accepted in German-speaking areas, thus ending the period of Early New High German.
+Until about 1800, Standard German was almost entirely a written language. People in Northern Germany who spoke mainly Low Saxon languages, which were very different from Standard German, learned it more or less as a foreign language. However, the Northern pronunciation (of Standard German) later became considered standard and spread southward. In some regions such as around Hanover, the local dialect has completely died out as spoken language but is preserved in dialect literature and scholarly descriptions.
+It is thus the spread of Standard German as a language taught at school that defines the German Sprachraum, which was thus a political decision, rather than a direct consequence of dialect geography. That allowed areas with dialects with very little mutual intelligibility to participate in the same cultural sphere. Currently, local dialects are used mainly in informal situations or at home and in dialect literature, but more recently, a resurgence of German dialects has appeared in mass media.
+
+
+== Terminology ==
+In German, Standard German is generally called Hochdeutsch, reflecting the fact that its phonetics are largely those of the High German spoken in the southern uplands and the Alps (including Austria, Switzerland, Liechtenstein and parts of northern Italy as well as southern Germany). The corresponding term Low German reflects the fact that these dialects belong to the lowlands stretching towards the North Sea. The widespread but mistaken impression that Hochdeutsch is so-called because it is perceived to be "good German" has led to use of the supposedly less judgmental Standarddeutsch ("Standard German"), deutsche Standardsprache ("German standard language"). On the other hand, the "standard" written languages of Switzerland and Austria have each been codified as standards distinct from that used in Germany. For this reason, "Hochdeutsch" or "High German", originally a mere geographic designation, applies unproblematically to Swiss Standard German and Austrian German as well as to German Standard German and may be preferred for that reason. A more precise term for the dialects of the Southern part of the German language area is "Upper German" (Oberdeutsch).
+
+
+== Pluricentricity ==
+
+Standard German is pluricentric with different national varieties, namely: German Standard German, Austrian Standard German and Swiss Standard German. These varieties of standard German differ only in a few features, mostly in vocabulary and pronunciation, but in some instances of grammar and orthography. In formal writing, the differences are minimal to nonexistent; in regards to the spoken language, the different varieties of Standard German are easily recognized by most speakers.These three national standards (German, Austrian and Swiss) have each been adopted by other German-speaking countries and communities as their standard form of German. The German standard is applied in Luxembourg, Belgium, and Namibia while the Swiss standard has been adopted in Liechtenstein.The variation of the Standard German varieties must not be confused with the variation of the local German dialects. Even though the Standard German varieties are to a certain degree influenced by the local dialects, they are very distinct. All varieties of Standard German are based on the common tradition of the written German language, whereas the local dialects have their own historical roots that go further back than the unification of the written language, and in the case of Low German, belong to a different language entirely.
+
+
+== Continuum between Standard German and German dialects ==
+In most regions, the speakers use a continuum of mixtures from more dialectal varieties to more standard varieties according to situation. However, there are two (or three) exceptions:
+
+In Northern Germany, there is no continuum in the strict sense between the local varieties of Low German ("Plattdeutsch") on the one hand, and Standard German on the other. Since the former have not undergone the High German consonant shift, they are too different from the standard for a continuum to emerge. High German and Low German are best seen as separate languages, but because High (Middle and Upper) and Low German form a dialect continuum and Standard German serves as dachsprache for all forms of German, they are often described as dialects of German. Under a socio-linguistic approach to the problem, even if Low German dialects are Abstandsprachen (linguistically quite different), they are perceived as dialects of German because they lack Ausbau. However, Low German did influence the standard-based vernaculars spoken today in Northern Germany by language transfer (in pronunciation, vocabulary, grammar, and syntax), and it continues to do so to a limited degree. High German heavily influenced by Low German has been known as Missingsch, but most contemporary Northern Germans exhibit only an intermediate Low German substratum in their speech.
+In German-speaking Switzerland, there is no such continuum between the Swiss German varieties and Swiss Standard German, and the use of Standard German is almost entirely restricted to the written language. Therefore, this situation has been called a medial diglossia. Standard German is seldom spoken among native Swiss, and even then the accent and vocabulary is very much Swiss, except for instance when speaking with people who do not understand the Swiss German dialects at all, and it is expected to be used in school. Standard German has, however, left a clear imprint on the contemporary variants of Swiss German, regional expressions and vocabulary having been replaced with material assimilated from the standard language. Of all the German-speaking countries, Switzerland has however most fully retained the use of dialect in everyday situations. Dialect is used to a lesser extent for some everyday situations in southern Germany, Austria, Liechtenstein, Alsace, and South Tyrol. The regular use of dialect in Swiss media (radio, internet, and television) contrasts with its much rarer appearance in the media of Austria, Germany, East Belgium, South Tyrol, and Liechtenstein.
+Luxembourgish was considered a German dialect like many others until about World War II but then it underwent ausbau; it created its own standard form in vocabulary, grammar and spelling and therefore is seen today as an independent language. Due to the fact that Luxembourgish has a maximum of some 600,000 native speakers, resources in the language like books, newspapers, magazines, television, internet etc. are limited. Since most Luxembourgers also speak Standard German and French, there is strong competition with these two which both have very large language resources. Luxembourgers are generally trilingual, using French and Standard German in some areas of life, Luxembourgish in others. Standard German is taught in schools in Luxembourg and close to 90% of the population can speak it.
+
+
+== Phonology ==
+
+While the three principal national varieties are recognized as three distinct standards, the differences are few, perhaps comparable to the difference between British and American English. Duden codifies the standard pronunciation for German Standard German and allows for a small number of divergences; for example, the string "äh" has two authorized pronunciations, /ɛː/ and /eː/. Some regions see only the first as correct, and others use only the second; Duden now recognizes both as correct. Standardized High German pronunciation is generally used in radio and television as well as in German learning materials for non-natives and at least aspirationally by language teachers. The accent is documented in reference works such as Deutsches Aussprachewörterbuch (German Pronunciation Dictionary) by Eva-Maria Krech et al., Duden 6 Das Aussprachewörterbuch (Duden volume 6, The Pronunciation Dictionary) by Max Mangold and the training materials at the Westdeutscher Rundfunk (West German Broadcasting) and Deutschlandfunk (Radio Germany). It is an invented accent, rather than one radiating from any particular German-speaking city. It is often said that the people of Hannover speak German with an accent that comes closest to the standard of the Duden dictionaries, but the claim is debatable, particularly since it may apply equally well to the rest of Northern Germany.
+
+
+== Grammar ==
+
+
+== Orthography ==
+
+
+=== Features ===
+Standard High German is written in the Latin alphabet. In addition to the 26 standard letters, German has three vowels with an umlaut mark, namely ä, ö and ü, as well as the Eszett or scharfes s (sharp s): ß. In Switzerland and Liechtenstein, ss is used instead of ß. Since ß can never occur at the beginning of a word, it has no traditional uppercase form.
+
+
+=== History ===
+A first step to standardisation, although non-prescriptive, of Early New High German was introduced by the Luther Bible of 1534. In consequence, the written language of the chancery of Saxony-Wittenberg rose in importance in the course of the 17th century so much so that it was used in texts such as the 1665 revision of the Zürich Bible.
+The First Orthographical Conference convened in 1876 by order of the government of Prussia, but failed. Konrad Duden published the first edition of his dictionary, later simply known as the Duden, in 1880. The first spelling codification by the Second Orthographic Conference of 1901, based on Duden's work, came into effect in 1902.
+In 1944 there was a failed attempt at another reform; this was delayed on the order of Hitler and not taken up again after the end of World War II.
+In the following decades German spelling was essentially decided de facto by the editors of the Duden dictionaries. After the war, this tradition was followed with two different centers: Mannheim in West Germany and Leipzig in East Germany. By the early 1950s, a few other publishing houses had begun to attack the Duden monopoly in the West by publishing their own dictionaries, which did not always conform to the "official" spellings prescribed by Duden. In response, the Ministers of Culture of the federal states in West Germany officially declared the Duden spellings to be binding as of November 1955 ("Duden-Monopol" or "Dudenmonopol", "Duden-Privileg" or "Dudenprivileg").
+
+
+==== Orthography Reform of 1996 ====
+
+The orthography reform of 1996 was based on an international agreement signed by the governments of the German-speaking countries Germany, Austria, Liechtenstein and Switzerland; but acceptance of the reform was limited and led to public controversy and considerable dispute. The states (Bundesländer) of North Rhine-Westphalia and Bavaria refused to accept it. At one point, the dispute reached the highest court, which quickly dismissed it, claiming that the states had to decide for themselves and that only in schools could the reform be made the official rule – everybody else could continue writing as they had learned it.
+While, as of 2004, most German print media followed the reform, some newspapers, such as Die Zeit, Neue Zürcher Zeitung and Süddeutsche Zeitung, created their own in-house orthographies.
+After 10 years, without any intervention by the federal parliament, a major revision of the spelling reform was installed in 2006 because there were disagreements regarding capitalization and splitting of German words. Also revised were the rules governing punctuation marks.The most noticeable change was probably in the use of the letter ß, called scharfes s (Sharp S) or Eszett (pronounced ess-tsett, coming from ſz). Traditionally, this letter was used in three situations:
+
+After a long vowel or vowel combination;
+Before a t;
+At the end of a syllable.Examples are Füße, paßt, and daß. Currently, only the first rule is in effect, making the reformed spellings Füße, passt, and dass. The word Fuß 'foot' has the letter ß because it contains a long vowel, even though that letter occurs at the end of a syllable. The logic of this change is that an 'ß' is a single letter whereas 'ss' are two letters, so the same distinction applies as (for example) between the words den and denn.
+
+
+== English to Standard German cognates ==
+This is a selection of cognates in both English and Standard German. Instead of the usual infinitive ending -en, Standard German verbs are indicated by a hyphen after their stems. Words that are written with capital letters in Standard German are nouns.
+
+
+== Loanwords from Standard German to English ==
+
+English has taken many loanwords from German, often without any change of spelling (aside from frequently eliminating umlauts and not capitalizing nouns):
+
+
+== Organisations ==
+Several organisations promote the use and learning of the Standard German language.
+
+
+=== Goethe Institut ===
+
+The government-backed Goethe-Institut, (named after Johann Wolfgang von Goethe) aims to enhance the knowledge of German culture and language within Europe and the rest of the world. This is done by holding exhibitions and conferences with German-related themes, and providing training and guidance in the learning and use of the German language. For example, the Goethe-Institut teaches the Goethe-Zertifikat German language qualification.
+
+
+=== Deutsche Welle ===
+
+The German state broadcaster Deutsche Welle provides radio and television broadcasts in Standard German and 30 other languages across the globe. Its Standard German language services are spoken slowly and thus tailored for learners. Deutsche Welle also provides an e-learning website for learning Standard German.
+
+
+== See also ==
+History of the German language
+Standard language
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==

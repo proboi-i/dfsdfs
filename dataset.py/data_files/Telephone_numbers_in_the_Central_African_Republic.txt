@@ -1,0 +1,22 @@
+URI[https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Central_African_Republic]
+= Telephone_numbers_in_the_Central_African_Republic = 
+The following are the telephone codes in the Central African Republic.
+
+
+== Current calling formats ==
++236 XXXX XXXX - from outside the Central African Republic
+XXXX XXXX - from inside the Central African RepublicThe NSN length is eight digits.
+
+
+== List of number ranges in the Central African Republic ==
+
+
+== Changes as of 1 November 2007 ==
+The Agence chargée de la Régulation des Télécommunications (ART), Bangui, announces the introduction of new resources in the National Numbering Plan (NNP) of the Central African Republic.
+The new eight-digit will become effective on Thursday, 1 November 2007, at 0500 hours UTC.
+The National Numbering Plan (NNP) will change from six (6) to eight (8) digits in accordance with ITU-T E.164 Recommendation.•	Mobile telephone service
+
+•	Fixed telephone service
+
+
+== References ==

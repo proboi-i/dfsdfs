@@ -1,0 +1,129 @@
+URI[https://en.wikipedia.org/wiki/New_Zealand_Parliament]
+= New_Zealand_Parliament = 
+The New Zealand Parliament (Māori: Pāremata Aotearoa) is the unicameral legislature of New Zealand, consisting of the King of New Zealand (King-in-Parliament) and the New Zealand House of Representatives. The King is usually represented by his governor-general. Before 1951, there was an upper chamber, the New Zealand Legislative Council. The New Zealand Parliament was established in 1854 and is one of the oldest continuously functioning legislatures in the world. It has met in Wellington, the capital of New Zealand, since 1865.
+The House of Representatives normally consists of 120 members of Parliament (MPs), though sometimes more due to overhang seats. There are 72 MPs elected directly in electorates while the remainder of seats are assigned to list MPs based on each party's share of the total party vote. Māori were represented in Parliament from 1867, and in 1893 women gained the vote. Although elections can be called early, each three years Parliament is dissolved and goes up for reelection.
+Parliament is supreme over all other government institutions. The legislature is closely linked to the executive. The New Zealand Government comprises a prime minister (head of government) and other ministers. In accordance with the principle of responsible government, these individuals are always drawn from the House of Representatives, and are held accountable to it.
+Neither the monarch (currently King Charles III) nor his governor-general participates in the legislative process, save for signifying the King's approval to a bill passed by the House, known as the granting of Royal Assent, which is necessary for a bill to be enacted as law. The governor-general formally summons and dissolves Parliament—the latter in order to call a general election.
+
+
+== History ==
+
+
+=== Westminster model ===
+
+The New Zealand Parliament is specifically modelled on the Westminster system of parliamentary representation, developed in the United Kingdom of Great Britain and Ireland. This system can be traced back to the "Model Parliament" of 1295.Over the centuries, parliaments progressively limited the power of the monarchy. The Bill of Rights 1688 (which has been ratified as law in New Zealand) established a system where parliaments would be regularly elected. Among its provisions, it set out parliament's role in taxation and supply. The Bill of Rights also confirmed absolute freedom of speech in parliament.
+
+
+=== Establishment ===
+As early as 1846 the British settlers in New Zealand petitioned for self-government. The New Zealand Parliament was created by the New Zealand Constitution Act 1852, an Act of the British Parliament, which established a bicameral legislature officially named the General Assembly, but usually referred to as Parliament. It had a lower house, called the House of Representatives, and an upper house, called the Legislative Council. The members of the House were elected under the first-past-the-post (FPP) voting system, while those of the Council were appointed by the governor. The first members were sworn in on 24 May 1854 in Auckland.
+
+
+==== Upper house abolished ====
+ 
+Initially, legislative councillors were appointed for life, but from the 1890s they were appointed for renewable seven-year terms. This change, coupled with responsible government (whereby the premier advised the governor on Council appointments) and party politics, meant that by the 20th century, the government usually controlled the Council as well as the House, and the passage of bills through the upper house became a formality. In 1951, the Council was ended altogether, making the New Zealand legislature unicameral. The Council sat for the last time on 1 December 1950, before it was formally abolished on 1 January 1951.At the time of its abolition the upper house had fifty-four members, including its own speaker.
+
+
+=== Provincial government ===
+Under the Constitution Act, legislative power was also conferred on New Zealand's provinces (originally six in number), each of which had its own elected provincial council. These provincial councils were able to legislate for their provinces on most subjects. New Zealand was never a federation comparable to Canada or Australia; Parliament could legislate concurrently with the provinces on any matter, and in the event of a conflict, the law passed by Parliament would prevail. Over a twenty-year period, political power was progressively centralised, and the provinces were abolished altogether in 1876.
+
+
+=== Māori representation ===
+
+New Zealand had representatives of the indigenous population in its Parliament from an early date, in contrast to many other colonial states. Reserved Māori seats were created in 1867 during the term of the 4th Parliament; Māori men aged 21 and over, whether or not they owned property, could vote to elect four Māori members of the House of Representatives.The Māori electorates have lasted far longer than the intended five years. In 2002, the seats increased in number to seven.
+
+
+=== Country quota ===
+One historical speciality of the New Zealand Parliament was the country quota, which gave greater representation to rural politics. From 1889 on (and even earlier in more informal forms), districts were weighted according to their urban/rural split (with any locality of less than 2,000 people considered rural). Those districts which had large rural proportions received a greater number of nominal votes than they actually contained voters – as an example, in 1927, Waipawa, a district without any urban population at all, received an additional 4,153 nominal votes to its actual 14,838 – having the maximum factor of 28% extra representation. The country quota was in effect until it was abolished in 1945 by a mostly urban-elected Labour government, which switched to a one-vote-per-person system.
+
+
+=== Modern independent legislature ===
+
+Originally the New Zealand Parliament remained subordinate to the British Parliament, the supreme legislative authority for the entire British Empire—although, in practice, Britain's role was minimal from the 1890s. The New Zealand Parliament received progressively more control over New Zealand affairs through the passage of Imperial (British) laws such as the Colonial Laws Validity Act 1865, constitutional amendments, and an increasingly hands-off approach by the British government. In 1947, the New Zealand Parliament passed the Statute of Westminster Adoption Act, giving that parliament full power over New Zealand law, and the New Zealand Constitution Amendment Act 1947, an Act of the British Parliament, allowed the New Zealand Parliament to regulate its own composition. In 1973 a further amendment, the New Zealand Constitution Amendment Act 1973, expanded the territorial jurisdiction of New Zealand's parliament.In 1986 a new Constitution Act was passed, finally removing the power for the British Parliament to pass laws affecting New Zealand (which was by then only with New Zealand's consent), restating the few remaining provisions of the 1852 Act, consolidating the legislation establishing Parliament, and officially replacing the name "General Assembly" with "Parliament".Beginning in the 1890s, when the New Zealand Liberal Party was established as the first formal political party in New Zealand, political power shifted from the House of Representatives to elections, parties and leaders. The conservative Reform Party was formed in 1909, and the New Zealand Labour Party in 1916. The New Zealand National Party emerged in 1936 from the amalgamation of Reform and a remnant of the Liberals, the United Party. As of the 2020 general election, the current parties represented in the House of Representatives are National, Labour, the Greens, ACT, and the Māori Party.Labour Member of Parliament Whetu Tirikatene-Sullivan was the longest-serving female MP (1967–1996) and was also the first MP to give birth while serving in office. National MP Ruth Richardson was the first MP to bring her baby into the debating chamber while fellow National MP Katherine Rich was the first MP to feed her baby in the House. During the 1990s, a child care centre was established for the children of MPs and parliamentary staff. In November 2017, the Speaker of the House Trevor Mallard announced that Parliament would becoming more "baby friendly." Family friendly policies have included making an atrium near the parliamentary chamber accessible to MP's children, giving carers and spouses the same security clearances as MPs, opening the Parliamentary swimming pool to the families of MPs and staff, and updating the family room to have baby-feeding and changing facilities, and a play area on Parliament's lawn.On 10 February 2021, Mallard announced that ties were no longer compulsory in Parliament following a Standing Orders meeting where the majority voted in favour of the Māori Party's submission calling for the elimination of neckties as part of Parliament's compulsory business attire. This announcement followed an argument between Mallard and Māori Party co-leader Rawiri Waititi, who had been ejected from Parliament for refusing to wear a neck tie in favour of Māori business attire.
+
+
+== Sovereignty ==
+
+Based on the Westminster system, the New Zealand Parliament is supreme, with no other government institution able to over-ride its decisions. As such, legislative action is not justiciable—it cannot be challenged by the judiciary.: 604  The ability of Parliament to act is, legally, unimpeded. For example, the New Zealand Bill of Rights Act 1990 is a normal piece of legislation, not superior law, as codified constitutions are in some other countries.
+The House of Representatives has the exclusive power to regulate its own procedures. The House has "entrenched" certain issues relating to elections. These include the length of a parliamentary term, deciding on who can vote, how they vote (via secret ballot), how the country should be divided into electorates, and the make-up of the Representation Commission, which decides on these electorates. These issues require either 75% of all MPs to support the bill or a referendum on the issue. As the entrenchment mechanism is not entrenched itself, it could be repealed by a simple majority, thus allowing the entrenched provisions of the Electoral Act to also be repealed by a simple majority.
+
+
+== Monarch ==
+
+The monarch of New Zealand – currently King Charles III, represented in New Zealand by the Governor-General, Dame Cindy Kiro  – is one of the components of Parliament. This results from the role of the monarch to sign into law (give Royal Assent to) the bills that have been passed by the House of Representatives. MPs must express their loyalty to the King and defer to his authority, as the Oath of Allegiance must be recited by all new parliamentarians before they may take their seat, and the official opposition is traditionally dubbed His Majesty's Loyal Opposition.
+
+
+== Houses ==
+
+
+=== House of Representatives ===
+
+The House of Representatives was established as a lower house and has been the Parliament's sole house since 1951. Since the introduction of MMP in 1996, the House consists of 120 members of Parliament (MPs), elected to a three-year term. Parliamentary elections use the mixed-member proportional (MMP) system, a hybrid of first-past-the-post and closed party-list proportional representation; 71 MPs represent single-member electorates of roughly the same population, while the remainder are list MPs. These MPs assemble to represent the people, pass laws and supervise the work of government. Members also form select committees of the House, appointed to deal with particular areas or issues.Ministers in the New Zealand Government are drawn from amongst the members of the House of Representatives (with the possible exception of brief periods following an election). The government of the day, and by extension the prime minister, must achieve and maintain the support of the House in order to gain and remain in power. The Government is dependent on Parliament to implement its legislative agenda, and has always required the House's approval to spend money.
+
+
+=== Upper house ===
+The Parliament does not have an upper house; there was an upper house up to 1951, and there have been occasional suggestions to create a new one. The Legislative Council chamber continues to be used during the Opening of Parliament. This is in keeping with the British tradition in which the monarch is barred from entering the lower house.
+
+
+==== Legislative Council ====
+
+The original Legislative Council was created by the Charter for Erecting the Colony of New Zealand on 16 November 1840, which saw New Zealand established as a Crown colony separate from New South Wales on 1 July 1841. Originally, the Legislative Council consisted of the governor, colonial secretary and colonial treasurer (who comprised the Executive Council), and three justices of the peace appointed by the governor. The Legislative Council had the power to issue Ordinances (statutory instruments).With the passing of the New Zealand Constitution Act 1852, the Legislative Council became the upper house of the General Assembly. The Legislative Council was intended to scrutinise and amend bills passed by the House of Representatives, although it could not initiate legislation or amend money bills. Despite occasional proposals for an elected Council, members of the Legislative Council (MLCs) were appointed by the governor, generally on the recommendation of the prime minister. It was eventually decided that the Council was having no significant impact on New Zealand's legislative process; its final sitting was on 1 December 1950.
+
+
+==== Senate proposals ====
+In September 1950, the National government of Sidney Holland set up a constitutional reform committee to consider an alternative second chamber, chaired by Ronald Algie. A report produced by the committee in 1952 proposed a nominated Senate, with 32 members, appointed by leaders of the parties in the House of Representatives according to the parties' strength in that House. Senators would serve for three-year-terms, and be eligible for reappointment. The Senate would have the power to revise, initiate or delay legislation, to hear petitions, and to scrutinise regulations and Orders in Council, but the proposal was rejected by the Prime Minister and by the Labour opposition, which had refused to nominate members to the committee.After the 1990 election, the National government of Jim Bolger proposed the establishment of an elected Senate, thereby reinstating a bicameral system, and a Senate Bill was drafted. Under the Bill, the Senate would have 30 members, elected by STV, from six senatorial districts, four in the North Island and two in the South Island. Like the old Legislative Council it would not have powers to amend or delay money bills. The intention was to include a question on a Senate in the second referendum on electoral reform. Voters would be asked, if they did not want a new voting system, whether or not they wanted a Senate. However, following objections from the Labour opposition, which derided it as a red herring, and other supporters of the mixed-member proportional (MMP) representation system, the Senate question was removed by the Select Committee on Electoral Reform.In 2010, the New Zealand Policy Unit of the Centre for Independent Studies proposed a Senate in the context of the 2011 referendum on MMP. They proposed a proportionally-elected upper house made up 31 seats elected using a proportional list vote by region, with the House of Representatives elected by FPP and consisting of 79 seats.
+
+
+== Term ==
+
+A term of Parliament in New Zealand may not last more than three years. The Constitution Act 1986 outlines that the governor-general is responsible for dissolving Parliament, which is done by royal proclamation. Dissolution ends a parliamentary term, after which the writ for a general election is issued. Upon completion of the election, the governor-general, on the advice of the prime minister, then issues a proclamation summoning Parliament to assemble. On the date given, new MPs are sworn in and then are, along with returning MPs, called to the old Legislative Council chamber, where they are instructed to elect their speaker and return to the House of Representatives to do so before adjourning.A new parliamentary session is marked by the Opening of Parliament, during which the governor-general reads the Speech from the Throne, on the King's behalf. This speech is given at the start of every new Parliament, and explains why Parliament has been assembled. It outlines the Government's legislative agenda. On occasion, the monarch may open Parliament and personally deliver the speech; for example, Queen Elizabeth II personally attended the Opening of Parliament in 1954 (to mark the legislature's centenary), and more recently in 1986 and 1990.MPs receive the Royal Summons to these events from the usher of the Black Rod, after the usher knocks on the doors of the House of Representatives chamber that have been slammed shut, to illustrate the MPs' right to deny entry to anyone, including the monarch.
+
+
+== Passage of legislation ==
+
+Before any law is passed, it is first introduced in Parliament as a draft known as a bill. The majority of bills are promulgated by the government of the day. It is rare for government bills to be defeated (the first to be defeated in the 20th century was in 1998). It is also possible for individual MPs to promote their own bills, called members' bills; these are usually put forward by opposition parties, or by MPs who wish to deal with a matter that parties do not take positions on. All bills must go through three readings in the House of Representatives before receiving Royal Assent to become an Act of Parliament (statutory law).
+
+
+=== House and committees ===
+
+Each bill goes through several stages before it becomes a law. The first stage is the first reading, where MPs debate the bill in principle. It is normally sent to a select committee where the public has the opportunity to make submissions on the bill and the committee can recommend amendments to the bill. The select committee stage is followed by the second reading, where MPs again debate the bill in principle and the select committee recommendations. This is followed by the committee of the whole house, where MPs debate individual clauses or parts and make amendments. In the third reading, MPs debate the final form of the bill. If a majority of MPs vote in favour of the bill at its third reading, the bill is passed. If a majority of MPs vote against the bill at any reading, the bill is rejected and goes no further through the process.
+
+
+=== Royal Assent ===
+
+If a bill passes its third reading, it is passed by the clerk of the House of Representatives to the governor-general, who will (assuming constitutional conventions are followed) grant Royal Assent as a matter of course. Some constitutional lawyers, such as Professor Philip Joseph, believe the governor-general does retain the power to refuse Royal Assent to bills in exceptional circumstances—specifically if democracy were to be abolished. Others, such as former law professor and Prime Minister Sir Geoffrey Palmer and Professor Matthew Palmer argue any refusal of Royal Assent would cause a constitutional crisis.As a practical reality, because the Royal Assent to a bill must follow quickly after its passage by the House of Representatives, if there is any substantial issue about the constitutional validity of a bill, the issue must be considered by the attorney-general before the bill is introduced into the House.
+
+
+== List of terms of Parliament ==
+
+Parliament is currently in its 53rd term.
+
+
+== See also ==
+Bellamy's catering service
+Constitution of New Zealand
+Elections in New Zealand
+Independence of New Zealand
+List of legislatures by country
+Lists of statutes of New Zealand
+Politics of New Zealand
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+
+
+== External links ==
+New Zealand Parliament
+Introducing Parliament – A one-hour guide to how the New Zealand Parliament works
+Images from around Parliament Buildings
+Parliament Today
+Parliament at Radio New Zealand
+Digitised reports from selected volumes of the Appendix to the Journals of the House of Representatives

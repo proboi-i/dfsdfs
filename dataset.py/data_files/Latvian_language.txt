@@ -1,0 +1,178 @@
+URI[https://en.wikipedia.org/wiki/Latvian_language]
+= Latvian_language = 
+Latvian  (latviešu valoda [ˈlatviɛʃu ˈvaluɔda]), also known as Lettish, is an Eastern Baltic language belonging to the Baltic branch of the Indo-European language family, spoken in the Baltic region. It is the language of Latvians and the official language of Latvia as well as one of the official languages of the European Union. There are about 1.3 million native Latvian speakers in Latvia and 100,000 abroad. Altogether, 2 million, or 80% of the population of Latvia, speak Latvian. Of those, around 1.16 million or 62% of Latvia's population use it as their primary language at home, however excluding the Latgale Region it is spoken as a native language in villages and towns by over 90% of the population.As a Baltic language, Latvian is most closely related to neighboring Lithuanian (as well as Old Prussian, an extinct Baltic language); however Latvian has followed a more rapid development. In addition, there is some disagreement whether Latgalian and Kursenieki, which are mutually intelligible with Latvian, should be considered varieties or separate languages.Latvian first appeared in print in the mid-16th century with the reproduction of the Lord's Prayer in Latvian in Sebastian Münster's Cosmographia universalis (1544), in Latin script.
+
+
+== Classification ==
+Latvian belongs to the Baltic branch of the Indo-European language family. It is one of two living Baltic languages with an official status (the other being Lithuanian). The Latvian and Lithuanian languages have retained many features of the nominal morphology of Proto-Indo-European, though their phonology and verbal morphology show many innovations (in other words, forms that did not exist in Proto-Indo-European), with Latvian being considerably more innovative than Lithuanian. However Latvian has been also influenced by the Livonian language. For example, Latvian borrowed first-syllable stress from Finno-Ugric languages.
+
+
+== History ==
+
+
+=== Origins ===
+According to some glottochronological speculations, the Eastern Baltic languages split from Western Baltic (or, perhaps, from the hypothetical proto-Baltic language) between 400 and 600 CE. The differentiation between Lithuanian and Latvian started after 800 CE. At a minimum, transitional dialects existed until the 14th century or 15th century, and perhaps as late as the 17th century.Latvian as a distinct language emerged over several centuries from the language spoken by the ancient Latgalians assimilating the languages of other neighbouring Baltic tribes—Curonian, Semigallian and Selonian—which resulted in these languages gradually losing their most distinct characteristics. This process of consolidation started in the 13th century after the Livonian Crusade and forced christianization, which formed a unified political, economic and religious space in Medieval Livonia.
+
+
+=== 16th–18th century ===
+The oldest known examples of written Latvian are from a 1530 translation of a hymn made by Nikolaus Ramm, a German pastor in Riga. The oldest preserved book in Latvian is a 1585 Catholic catechism of Petrus Canisius currently located at the Uppsala University Library.The first person to translate the Bible into Latvian was the German Lutheran pastor Johann Ernst Glück (The New Testament in 1685 and The Old Testament in 1691). The Lutheran pastor Gotthard Friedrich Stender was a founder of Latvian secular literature. He wrote the first illustrated Latvian alphabet book (1787), the first encyclopedia “The Book of High Wisdom of the World and Nature” (Augstas gudrības grāmata no pasaules un dabas; 1774), grammar books and Latvian–German and German–Latvian dictionaries.
+
+
+=== 19th century ===
+Until the 19th century, the Latvian written language was influenced by German Lutheran pastors and the German language, because the upper class of local society was formed by Baltic Germans. In the middle of the 19th century the First Latvian National Awakening was started, led by “Young Latvians” who popularized the use of Latvian language. Participants in this movement laid the foundations for standard Latvian and also popularized the Latvianization of loan words. However, in the 1880s, when Czar Alexander III came into power, Russification started.
+According to the 1897 Imperial Russian Census, there were 505,994 (75.1%) speakers of Latvian in the Governorate of Courland and 563,829 (43.4%) speakers of Latvian in the Governorate of Livonia, making Latvian-speakers the largest linguistic group in each of the governorates.
+
+
+=== 20th century ===
+After the death of Alexander III at the beginning of the 20th century, Latvian nationalist movements re-emerged. In 1908, Latvian linguists Kārlis Mīlenbahs and Jānis Endzelīns elaborated the modern Latvian alphabet, which slowly replaced the old orthography used before. Another feature of the language, in common with its sister language Lithuanian, that was developed at that time is that proper names from other countries and languages are altered phonetically to fit the phonological system of Latvian, even if the original language also uses the Latin alphabet. Moreover, the names are modified to ensure that they have noun declension endings, declining like all other nouns. For example, a place such as Lecropt (a Scottish parish) is likely to become Lekropta; the Scottish village of Tillicoultry becomes Tilikutrija.
+After Soviet occupation of Latvia, the policy of Russification greatly affected the Latvian language, while the use of Latvian among the Latvians in Russia had already dwindled after the so-called 1937–1938 Latvian Operation of the NKVD during which at least 16,573 ethnic Latvians and Latvian nationals were executed. In the 1941 June deportation and the 1949 Operation Priboi, tens of thousands of Latvians and other ethnicities were deported from Latvia and massive immigration from Russian SFSR, Ukrainian SSR, Byelorussian SSR and other republics of the Soviet Union followed, largely as a result of Stalin's plan to integrate Latvia and the other Baltic republics into the Soviet Union by means of colonization. As a result, the proportion of the ethnic Latvian population within the total population was reduced from 80% in 1935 to 52% in 1989. In Soviet Latvia, most of the immigrants who settled in the country did not learn Latvian. According to the 2011 census Latvian was the language spoken at home by 62% of the country's population.After the re-establishment of independence in 1991, a new policy of language education was introduced. The primary declared goal was the integration of all inhabitants into the environment of the official state language while protecting the languages of Latvia's ethnic minorities.Government-funded bilingual education was available in primary schools for ethnic minorities until 2019 when Parliament decided on educating only in Latvian. Minority schools are available for Russian, Yiddish, Polish, Lithuanian, Ukrainian, Belarusian, Estonian and Roma schools. Latvian is taught as a second language in the initial stages too, as is officially declared, to encourage proficiency in that language, aiming at avoiding alienation from the Latvian-speaking linguistic majority and for the sake of facilitating academic and professional achievements. Since the mid-1990s, the government may pay a student's tuition in public universities only provided that the instruction is in Latvian. Since 2004, the state mandates Latvian as the language of instruction in public secondary schools (Form 10–12) for at least 60% of class work (previously, a broad system of education in Russian existed).The Official Language Law was adopted on 9 December 1999. Several regulatory acts associated with this law have been adopted. Observance of the law is monitored by the Latvian State Language Center run by the Ministry of Justice.
+
+
+=== 21st century ===
+To counter the influence of Russian and English, government organizations (namely the Terminology Commission of the Latvian Academy of Science and the State Language Center) popularize the use of Latvian terms. A debate arose over the Latvian term for euro. The Terminology Commission suggested eira or eirs, with their Latvianized and declinable ending, would be a better term for euro than the widely used eiro, while European Central Bank insisted that the original name euro be used in all languages. New terms are Latvian derivatives, calques or new loanwords. For example, Latvian has two words for "telephone"—tālrunis and telefons, the former being a direct translation into Latvian of the latter international term. Still, others are older or more euphonic loanwords rather than Latvian words. For example, "computer" can be either dators, kompjūters. Both are loanwords; the native Latvian word for "computer" is skaitļotājs, which is also an official term. However, now dators has been considered an appropriate translation, skaitļotājs is also used.
+There are several contests held annually to promote the correct use of Latvian. One of them is "Word of the year" (Gada vārds) organized by the Riga Latvian Society since 2003. It features categories such as the "Best word", "Worst word", "Best saying" and "Word salad". In 2018 the word zibmaksājums (instant payment) won the category of "Best word" and influenceris (influencer) won the category of "Worst word". The word pair of straumēt (stream) and straumēšana (streaming) were named the best words of 2017, while transporti as an unnecessary plural of the name for transport was chosen as the worst word of 2017.
+
+
+== Dialects ==
+There are three dialects in Latvian: the Livonian dialect, High Latvian and the Middle dialect. Latvian dialects and their varieties should not be confused with the Livonian, Curonian, Semigallian and Selonian languages.
+
+
+=== Livonian dialect ===
+
+The Livonian dialect of Latvian was more affected by the Livonian language substratum than Latvian in other parts of Latvia. It is divided into the Vidzeme variety and the Courland variety (also called tāmnieku). There are two syllable intonations in the Livonian dialect, extended and broken. In the Livonian dialect, short vowels in the endings of words are discarded, while long vowels are shortened. In all genders and numbers, only one form of the verb is used. Personal names in both genders are derived with endings – els, -ans. In prefixes ie is changed to e. Due to migration and the introduction of a standardised language this dialect has declined. It arose from assimilated Livonians, who started to speak in Latvian and assimilated Livonian grammar into Latvian. There are no remaining native speakers of the Livonian language as the last native speaker Grizelda Kristiņa died in 2013, despite the Latvian Government attempts to preserve the dialect following the restoration of independence in 1990 and currently it is learned by some people only as a hobby.
+
+
+=== Middle dialect ===
+The Middle dialect spoken in central and Southwestern Latvia is the basis of standard Latvian. The dialect is divided into the Vidzeme variety, the Curonian variety and the Semigallian variety. The Vidzeme variety and the Semigallian variety are closer to each other than to the Curonian variety, which is more archaic than the other two. There are three syllable intonations in some parts of Vidzeme variety of the Middle dialect, extended, broken and falling. The Curonian and Semigallian varieties have two syllable intonations, extended and broken, but some parts of the Vidzeme variety has extended and falling intonations. In the Curonian variety, ŗ is still used. The Kursenieki language, which used to be spoken along Curonian Spit, is closely related to the varieties of the Middle dialect spoken in Courland.
+
+
+=== Upper Latvian dialect ===
+Upper Latvian dialect is spoken in Eastern Latvia. It is set apart from the rest of the Latvian by a number of phonetic differences. The dialect has two main varieties – Selonian (two syllable intonations, falling and rising) and Non-Selonian (falling and broken syllable intonations). There is a standard language, the Latgalian language, which is based on deep non-Selonian varieties spoken in the south of Latgale. The term "Latgalian" is sometimes also applied to all non-Selonian varieties or even the whole dialect. However, it is unclear if it is accurate to use the term for any varieties besides the standard language. While the term may refer to varieties spoken in Latgale or by Latgalians, not all speakers identify as speaking Latgalian, for example, speakers of deep Non-Selonian varieties in Vidzeme explicitly deny speaking Latgalian. It is spoken by approximately 15% of Latvia's population, however almost all of its speakers are also fluent in the standard Latvian language and they promote the dialect in popular culture in order to preserve their distinct culture. The Latvian Government since 1990 has also taken measures to protect the dialect from extinction.
+
+
+== Non-native speakers ==
+The history of the Latvian language (see below) has placed it in a peculiar position for a language of its size whereby it is spoken by a large number of non-native speakers as compared to native speakers. The immigrant and minority population in Latvia is 700,000 people: Russians, Belarusians, Ukrainians, Poles, and others. The majority of immigrants settled in Latvia between 1940 and 1991; supplementing pre-existing ethnic minority communities (Latvian Germans, Latvian Jews). The trends show that the proficiency of Latvian among its non-native speakers is gradually increasing. In a 2009 survey by Latvian Language Agency 56% percent of respondents with Russian as their native language described having a good knowledge of Latvian, whereas for the younger generation (from 17 to 25 years) the number was 64%.The increased adoption of Latvian by minorities was brought about by its status as the only official language of the country and other changes in the society after the fall of the Soviet Union that mostly shifted linguistic focus away from Russian. As an example, in 2007, universities and colleges for the first time received applications from prospective students who had a bilingual secondary education in schools for minorities. Fluency in Latvian is expected in a variety of professions and careers.
+
+
+== Grammar ==
+
+Latvian grammar represents a classic Indo-European (Baltic) system with well-developed inflection and derivation. Primary word stress, with some exceptions in derivation and inflection, is on the first syllable. There are no articles in Latvian; definiteness is expressed by an inflection of adjectives. Basic word order in Latvian is subject–verb–object; however, word order is relatively free.
+
+
+=== Nouns ===
+
+There are two grammatical genders in Latvian (masculine and feminine) and two numbers, singular and plural. Nouns, adjectives, and declinable participles decline into seven cases: nominative, genitive, dative, accusative, instrumental, locative, and vocative. There are six declensions for nouns.
+
+
+=== Verbs ===
+
+There are three conjugation classes in Latvian. Verbs are conjugated for person, tense, mood and voice.
+
+
+== Orthography ==
+
+Latvian in Latin script was first based upon the German orthography, while the alphabet of the Latgalian dialect was based on the Polish orthography. At the beginning of the 20th century, it was replaced by a more phonologically consistent orthography.
+
+
+=== Standard orthography ===
+Today, the Latvian standard orthography employs 33 characters:
+
+The modern standard Latvian alphabet uses 22 unmodified letters of the Latin alphabet (all except ⟨q, w, x, y⟩). It adds a further eleven characters by modification. The vowel letters ⟨a⟩, ⟨e⟩, ⟨i⟩ and ⟨u⟩ can take a macron to show length, unmodified letters being short; these letters are not differentiated while sorting (e.g. in dictionaries). The letters ⟨c⟩, ⟨s⟩ and ⟨z⟩ are pronounced [ts], [s] and [z] respectively, while when marked with a caron, ⟨č, š, ž⟩, they are pronounced [tʃ], [ʃ] and [ʒ] respectively. The letters ⟨ģ, ķ, ļ, ņ⟩, written with a comma placed underneath (or above them for  lowercase g), which indicate palatalized versions of ⟨g, k, l, n⟩ representing the sounds [ɟ], [c], [ʎ] and [ɲ]. Latvian orthography also contains nine digraphs, which are written ⟨ai, au, ei, ie, iu, ui, oi, dz, dž⟩. Non-standard varieties of Latvian add extra letters to this standard set.
+Latvian spelling has almost one-to-one correspondence between graphemes and phonemes. Every phoneme corresponds to a letter so that the reader can almost always pronounce words by putting the letters together. There are only two exceptions to this consistency in the orthography: the letters ⟨e, ē⟩ represent two different sounds: /ɛ æ/ and /ɛː æː/. The second mismatch is that letter ⟨o⟩ indicates both the short and long [ɔ], and the diphthong [uɔ]. These three sounds are written as ⟨o⟩, ⟨ō⟩ and ⟨uo⟩ in Latgalian, and some Latvians campaign for the adoption of this system in standard Latvian. However, Latvian grammarians argue that ⟨o⟩ and ⟨ō⟩ are found only in loanwords, with the /uo/ sound being the only native Latvian phoneme. The digraph ⟨uo⟩ was discarded in 1914, and the letters ⟨ō⟩ and ⟨ŗ⟩ have not been used in the official Latvian language since 1946. Likewise, the digraph ⟨ch⟩ was discarded in 1957, although ⟨ō⟩, ⟨ŗ⟩, and ⟨ch⟩ are still used in some varieties and by many Latvians living beyond the borders of Latvia. The letter ⟨y⟩ is used only in Latgalian, where it represents /ɨ/, a sound not present in other dialects.
+
+
+=== Old orthography ===
+
+The old orthography was based on that of German and did not represent the Latvian language phonemically. At the beginning, it was used to write religious texts for German priests to help them in their work with Latvians. The first writings in Latvian were chaotic: there were twelve variations of writing Š. In 1631 the German priest Georg Mancelius tried to systematize the writing. He wrote long vowels according to their position in the word – a short vowel followed by h for a radical vowel, a short vowel in the suffix and vowel with a diacritic mark in the ending indicating two accents. Consonants were written following the example of German with multiple letters. The old orthography was used until the 20th century when it was slowly replaced by the modern orthography.
+
+
+=== Latvian on computers ===
+
+In late 1992 the official Latvian computing standard LVS 8-92 took effect. It was followed by LVS 24-93 (Latvian language support for computers) that also specified the way Latvian language (alphabet, numbers, currency, punctuation marks, date and time) should be represented on computers. A Latvian ergonomic keyboard standard LVS 23-93 was also announced several months later, but it didn't gain popularity due to its need for a custom-built keyboard.Nowadays standard QWERTY or the US keyboards are used for writing in Latvian; diacritics are entered by using a dead key (usually ', occasionally ~). Some keyboard layouts use the modifier key AltGr (most notably the Windows 2000 and XP built-in layout (Latvian QWERTY), it is also default modifier in X11R6, thus a default in most Linux distributions).
+In the 1990s, lack of software support of diacritics caused an unofficial style of orthography, often called translits, to emerge for use in situations when the user is unable to access Latvian diacritic marks (e-mail, newsgroups, web user forums, chat, SMS etc.). It uses the basic Modern Latin alphabet only, and letters that are not used in standard orthography are usually omitted. In this style, diacritics are replaced by digraphs – a doubled letter indicates a long vowel (as in Finnish and Estonian); a following j indicates palatalisation of consonants, i.e., a cedilla; and the postalveolars Š, Č and Ž are written with h replacing the háček, as in English. Sometimes the second letter, the one used instead of a diacritic, is changed to one of two other diacritic letters (e.g. š is written as ss or sj, not sh), and since many people may find it difficult to use these unusual methods, they write without any indication of missing diacritic marks, or they use digraphing only if the diacritic mark in question would make a semantic difference. Sometimes an apostrophe is used before or after the character that would properly need to be diacriticised.  Also, digraph diacritics are often used and sometimes even mixed with diacritical letters of standard orthography. Although today there is software support available, diacritic-less writing is still sometimes used for financial and social reasons. As š and ž are part of the Windows-1252 coding, it is possible to input those two letters using a numerical keypad. Latvian language code for cmd and .bat files - Windows-1257
+
+
+=== Comparative orthography ===
+For example, the Lord's Prayer in Latvian written in different styles:
+
+
+== Phonology ==
+
+
+=== Consonants ===
+Consonants in consonant sequences assimilate to the voicing of the subsequent consonant, e.g. apgabals [ˈabɡabals] or labs [ˈlaps]. Latvian does not feature final-obstruent devoicing.
+Consonants can be long (written as double consonants) mamma [ˈmamːa], or short. Plosives and fricatives occurring between two short vowels are lengthened: upe [ˈupːe]. Same with 'zs' that is pronounced as /sː/, šs and žs as /ʃː/.
+
+
+=== Vowels ===
+Latvian has six vowels, with length as distinctive feature:
+
+/ɔ ɔː/, and the diphthongs involving it other than /uɔ/, are confined to loanwords.
+Latvian also has 10 diphthongs, four of which are only found in loanwords (/ai ui ɛi au iɛ uɔ iu (ɔi) ɛu (ɔu)/), although some diphthongs are mostly limited to proper names and interjections.
+
+
+=== Syllable accent ===
+Standard Latvian and, with some exceptions in derivation and inflection, all of the Latvian dialects have fixed initial stress. Long vowels and diphthongs have a tone, regardless of their position in the word. This includes the so-called "mixed diphthongs", composed of a short vowel followed by a sonorant.
+
+
+== Loanwords ==
+During the period of Livonia many Middle Low German words such as amats (profession), dambis (dam), būvēt (to build) and bikses (trousers) were borrowed into Latvian, while the period of Swedish Livonia brought loanwords like skurstenis (chimney) from Swedish. It also has loanwords from the Finnic languages, mainly from Livonian and Estonian. There are about 500-600 borrowings from Finnic languages in Latvian, for example: māja ‘house’ (Liv. mōj), puika ‘boy’ (Liv. pūoga), pīlādzis ‘mountain ash’ (Liv. pī’lõg), sēne ‘mushroom’ (Liv. sēņ).Loanwords from other Baltic language include ķermenis (body) from Old Prussian, as well as veikals (store) and paģiras (hangover) from Lithuanian.
+
+
+== History of the study ==
+The first Latvian dictionary Lettus compiled by Georg Mancelius was published in 1638.The first grammar of the Latvian language is a short “Manual on the Latvian language” (Latin: Manuductio ad linguam lettonicam) by Johans Georgs Rehehūzens, published in 1644 in Riga.
+
+
+== Bibliography ==
+Bielenstein, Die lettische Sprache (Berlin, 1863–64)
+Bielenstein, Lettische Grammatik (Mitau, 1863)
+Bielenstein, Die Elemente der lettischen Sprache (Mitau, 1866), popular in treatment
+Ulmann and Brasche, Lettisches Wörterbuch (Riga, 1872–80)
+Bielenstein, Tausend lettische Räthsel, übersetzt und erklärt (Mitau, 1881)
+Bezzenberger, Lettische Dialekt-Studien (Göttingen, 1885)
+Bezzenberger, Ueber die Sprach der preussischen Letten;; (Göttingen, 1888)
+Thomsen, Beröringer melem de Finske og de Baltiske Sprog (Copenhagen, 1890)
+Bielenstein, Grenzen des lettischen Volksstammes und der lettischen Sprache (St. Petersburg, 1892)
+Baron and Wissendorff, Latwju dainas (Latvian Folksongs, Mitau, 1894)
+Andreianov, Lettische Volkslieder und Mythen (Halle, 1896 )
+Bielenstein, Ein glückliches Leben (Riga, 1904)
+Brentano, Lehrbuch der lettischen Sprache (Vienna, c. 1907)
+Holst, Lettische Grammatik (Hamburg, 2001)
+Wolter, "Die lettische Literatur," in Die ost-europäische Literaturen (Berlin, 1908)
+Kalning, Kurzer Lettischer Sprachführer (Riga, 1910)
+
+
+=== Literary histories in Latvian ===
+Klaushush, Latweeschu rakstneezibas wehsture (Riga, 1907)
+Pludons, Latwiju literaturas vēsture (Jelgava, 1908–09)
+Lehgolnis, Latweeschu literaturas wehsture (Riga, 1908)
+Prande, Latviešu Rakstniecība Portrejās (Rīga, 1923)
+
+
+== See also ==
+List of Latvian words borrowed from Old East Slavic
+
+
+== References ==
+
+
+== Further reading ==
+Derksen, Rick (1996). Metatony in Baltic. Amsterdam: Rodopi.
+Kalnača, Andra; Lokmane, Ilze (2021). Latvian Grammar. Rīga: University of Latvia Press. doi:10.22364/latgram.2021. ISBN 978-9934-18-635-6.
+Prauliņš, Dace (2012). Latvian: An Essential Grammar. London: Routeledge. ISBN 9780415576925.
+
+
+== External links ==
+
+Live Latvian-language radio streams online
+Official Language Law in English
+Overview of the Latvian Language (en)
+State (Official) Language Commission (linguistic articles, applicable laws, etc.)
+English–Latvian / Latvian–English dictionary
+English-Latvian and Latvian–English online translation
+Latvian–English Dictionary from Webster's Online Dictionary – The Rosetta Edition
+National Agency for Latvian Language Training
+Examples of Latvian words and phrases (with sound)
+Languages of the World:Latvian
+Latvian bilingual dictionaries
+Latvian Swadesh list of basic vocabulary words (from Wiktionary's Swadesh-list appendix)

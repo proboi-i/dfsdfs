@@ -1,0 +1,129 @@
+URI[https://en.wikipedia.org/wiki/Australian_Government]
+= Australian_Government = 
+The Australian Government, also known as the Commonwealth Government, is the national government of Australia, a federal parliamentary constitutional monarchy. Like other Westminster-style systems of government, the Australian Government is made up of three branches: the executive (the prime minister, the ministers, and government departments), the legislative (the Parliament of Australia), and the judicial.
+The legislative branch, the federal Parliament, is made up of two chambers: the House of Representatives (lower house) and Senate (upper house). The House of Representatives has 151 members, each representing an individual electoral district of about 165,000 people. The Senate has 76 members: twelve from each of the six states and two each from Australia's internal territories, the Australian Capital Territory and Northern Territory. The Australian monarch, currently King Charles III, is represented by the governor-general. The Australian Government in its executive capacity is formed by the party or coalition with a majority in the House of Representatives, with the prime minister being the parliamentary leader who has the support of a majority of members in the House of Representatives. The prime minister is formally appointed to the role by the governor-general.
+The government is based in the nation's capital, Canberra, in the Australian Capital Territory. The head offices of all fourteen federal departments lie in Canberra, along with Parliament House and the High Court. The judicial branch of government, headed by the High Court of Australia, is independent of the legislative and executive branch, and ensures that government acts according to the constitution and law. As a founding member of the Commonwealth and a former British colony before Federation in 1901, Australia's Constitution is influenced heavily by the British Westminster system of government, as well as the United States Constitution.
+
+
+== Structure ==
+
+Section 1 of the Australian Constitution creates a democratic legislature, the bicameral Parliament of Australia which consists of the monarch and two chambers of parliament, the Senate and the House of Representatives. Section 51 of the Constitution provides for the Australian Government's legislative powers and allocates certain powers and responsibilities (known as "heads of power") to the Federal Government. All remaining responsibilities are retained by the six states (previously separate colonies). Further, each state has its own constitution, so that Australia has seven devolved Parliaments, none of which can encroach on the functions of any other. The High Court of Australia arbitrates on any disputes which arise between the Federal Government and the states and territories, or among the states and territories themselves.
+The Parliament of Australia can propose changes to the Constitution. To become effective, the proposals must be put to a referendum of all Australians of voting age and must receive a 'double majority': a majority of all votes, and a majority of votes in a majority of States.
+The Australian Constitution also provides that the states can agree to refer any of their powers to the Federal Government. This may be achieved by way of an amendment to the Constitution via referendum (a vote on whether the proposed transfer of power from the states to the federation, or vice versa, should be implemented). More commonly powers may be transferred by passing other acts of legislation that authorise the transfer and such acts require the legislative agreement of all the state governments involved. This "transfer" legislation may have a "sunset clause", a legislative provision that nullifies the transfer of power after a specified period, at which point the original division of power is restored.
+In addition, Australia has several territories, two of which are self-governing: the Australian Capital Territory and the Northern Territory.  While these territories' legislatures exercise powers devolved to them by the Australian Government, the Parliament of Australia has the authority to override their legislation and to alter their powers.  Australian citizens in these territories are represented by members of both houses of the Parliament of Australia, albeit with less representation in the Senate. Norfolk Island was self-governing from 1979 until 2015, although it was never represented as such in the Parliament of Australia. The other inhabited territories: Jervis Bay, Christmas Island and the Cocos (Keeling) Islands, have never been self-governing.
+The federal nature and the structure of the Parliament of Australia were the subject of protracted negotiations among the colonies during the drafting of the Constitution. The House of Representatives is elected on a basis that reflects the differing populations of the states. Therefore, the most populous state, New South Wales, has 48 members, while the least populated, Tasmania, has only five.  But the Senate is elected on a basis of equality among the states: all states elect 12 senators, regardless of population. This was intended to allow the senators of the smaller states to form a majority and thus be able to amend or reject bills originating in the House of Representatives. The Australian Capital Territory and the Northern Territory, the only territories represented in Senate, each elect only two.
+The third level of governance is local government, in the form of shires, towns or cities. The councils of these areas are composed of elected representatives (known as either councillor or alderman, depending on the state). Their powers are devolved to them by the state or territory in which they are located.
+Separation of powers is the principle whereby the three arms of government undertake their activities separately from each other. The legislature proposes and debates laws that the executive then administers, and the judicial arbitrates cases arising from the administration of laws and common law. Only the federal High Court can deem if a law is constitutional or not.
+
+
+== Legislature of the Parliament of Australia ==
+
+The Legislature makes the laws, and supervises the activities of the other two arms with a view to changing the laws when appropriate. The Australian Parliament is bicameral, consisting of the King of Australia, a 76-member Senate and a 151-member House of Representatives.
+Twelve Senators from each state are elected for six-year terms, using proportional representation and the single transferable vote (known in Australia as "quota-preferential voting": see Australian electoral system), with half elected every three years. In addition to the state senators, two senators are elected by voters from the Northern Territory (which for this purpose includes the Indian Ocean Territories, Christmas Island and the Cocos (Keeling) Islands), while another two senators are elected by the voters of the Australian Capital Territory (which for this purpose includes the Jervis Bay Territory and Norfolk Island). Senators from the territories are also elected using preferential voting, but their term of office is not fixed; it starts on the day of a general election for the House of Representatives and ends on the day before the next such election.
+The members of the House of Representatives are elected by majority-preferential voting using the non-proportional Instant-runoff voting system from single-member constituencies allocated among the states and territories.  In ordinary legislation, the two chambers have co-ordinate powers, but all proposals for appropriating revenue or imposing taxes must be introduced in the House of Representatives. Under the prevailing Westminster system, the leader of the political party or coalition of parties that holds the support of a majority of the members in the House of Representatives is invited to form a government and is named Prime Minister.
+
+The Prime Minister and the Cabinet are responsible to the Parliament, of which they must, in most circumstances, be members. General elections are held at least once every three years. The Prime Minister has a discretion to advise the Governor-General to call an election for the House of Representatives at any time, but Senate elections can only be held within certain periods prescribed in the Constitution. The most recent general election was on 21 May 2022.
+The Commonwealth Parliament and all the state and territory legislatures operate within the conventions of the Westminster system, with a recognised Leader of the Opposition, usually the leader of the largest party outside the government, and a Shadow Cabinet of Opposition members who "shadow" each member of the Ministry, asking questions on matters within the Minister's portfolio. Although the Government, by virtue of commanding a majority of members in the lower house of the legislature, can usually pass its legislation and control the workings of the house, the Opposition can considerably delay the passage of legislation and obstruct government business if it chooses.
+The day-to-day business of the House of Representatives is usually negotiated between the Leader of the House, appointed by the Prime Minister, and the Manager of Opposition Business in the House, appointed by the Leader of the Opposition in the Commonwealth parliament.
+
+
+== Executive ==
+
+
+=== Head of state ===
+
+The Australian Constitution dates from 1901, when the Dominions of the British Empire were not sovereign states, and does not use the term "head of state". As Australia is a constitutional monarchy, government and academic sources describe the King as head of state. In practice, the role of head of state of Australia is divided between two people, the King of Australia and the Governor-General of Australia, who is appointed by the King on the advice of the Prime Minister of Australia. Though in many respects the Governor-General is the King's representative, and exercises various constitutional powers in his name, they independently exercise many important powers in their own right. The governor-general represents Australia internationally, making and receiving state visits.
+
+The monarch of Australia, currently Charles III, is also the monarch of the other Commonwealth realms, and the sovereign of the United Kingdom. Like the other Dominions, Australia gained legislative independence from the Parliament of the United Kingdom by virtue of the Statute of Westminster 1931, which was adopted in Australia in 1942 with retrospective effect from 3 September 1939. By the Royal Style and Titles Act 1953, the Australian Parliament gave the Queen the title Queen of Australia, and in 1973 titles with any reference to her status as Queen of the United Kingdom and Defender of the Faith as well were removed, making her Queen of Australia.
+Section 61 of the Constitution provides that 'The executive power of the Commonwealth is vested in the King and is exercisable by the Governor‑General as the King's representative, and extends to the execution and maintenance of this Constitution, and of the laws of the Commonwealth'. Section 2 of the Australian Constitution provides that a Governor-General shall represent the King in Australia. In practice, the Governor-General carries out all the functions usually performed by a head of state, without reference to the King.
+Under the conventions of the Westminster system the Governor-General's powers are almost always exercised on the advice of the Prime Minister or other ministers. The Governor-General retains reserve powers similar to those possessed by the King in the United Kingdom. These are rarely exercised, but during the Australian constitutional crisis of 1975 Governor-General Sir John Kerr used them independently of the Queen and the Prime Minister.
+Australia has periodically experienced movements seeking to end the monarchy. In a 1999 referendum, the Australian people voted on a proposal to change the Constitution. The proposal would have removed references to the Queen from the Constitution and replaced the Governor-General with a President nominated by the Prime Minister, but subject to the approval of a two-thirds majority of both Houses of the Parliament. The proposal was defeated. The Australian Republican Movement continues to campaign for an end to the monarchy in Australia, opposed by Australians for Constitutional Monarchy and Australian Monarchist League.
+
+
+=== Executive council ===
+
+The Federal Executive Council is a formal body which exists and meets to give legal effect to decisions made by the Cabinet, and to carry out various other functions. All ministers are members of the council and are entitled to be styled "The Honourable", a style which they retain for life. The governor-general usually presides at council meetings, but in his or her absence another minister nominated as the Vice-President of the Executive Council presides at the meeting of the council. Since 1 June 2022, the vice-president of the Federal Executive Council has been Senator Katy Gallagher.
+There are times when the government acts in a "caretaker" capacity, principally in the period prior to and immediately following a general election.
+
+
+=== Cabinet ===
+
+The Cabinet of Australia is the council of senior Ministers of the Crown, responsible to the Federal Parliament. The ministers are appointed by the Governor-General, on the advice of the Prime Minister, who serve at the former's pleasure. Cabinet meetings are strictly private and occur once a week where vital issues are discussed and policy formulated. Outside the cabinet there is an outer ministry and also a number of junior ministers, called Parliamentary secretaries, responsible for a specific policy area and reporting directly to a senior Cabinet minister.
+The Constitution of Australia does not recognise the Cabinet as a legal entity; it exists solely by convention. Its decisions do not in and of themselves have legal force. However, it serves as the practical expression of the Federal Executive Council, which is Australia's highest formal governmental body. In practice, the Federal Executive Council meets solely to endorse and give legal force to decisions already made by the Cabinet. All members of the Cabinet are members of the Executive Council. While the Governor-General is nominal presiding officer, he almost never attends Executive Council meetings. A senior member of the Cabinet holds the office of vice-president of the Executive Council and acts as presiding officer of the Executive Council in the absence of the Governor-General.
+Until 1956 all members of the ministry were members of the Cabinet. The growth of the ministry in the 1940s and 1950s made this increasingly impractical, and in 1956 Robert Menzies created a two-tier ministry, with only senior ministers holding Cabinet rank, also known within parliament as the front bench. This practice has been continued by all governments except the Whitlam Government.
+When the non-Labor parties are in power, the Prime Minister makes all Cabinet and ministerial appointments at their own discretion, although in practice they consult with senior colleagues in making appointments. When the Liberal Party and its predecessors (the Nationalist Party and the United Australia Party) have been in coalition with the National Party or its predecessor the Country Party, the leader of the junior Coalition party has had the right to nominate their party's members of the Coalition ministry, and to be consulted by the Prime Minister on the allocation of their portfolios.
+When Labor first held office under Chris Watson, Watson assumed the right to choose members of his Cabinet. In 1907, however, the party decided that future Labor Cabinets would be elected by the members of the Parliamentary Labor Party, the Caucus, and the Prime Minister would retain the right to allocate portfolios. This practice was followed until 2007. Between 1907 and 2007, Labor Prime Ministers exercised a predominant influence over who was elected to Labor ministries, although the leaders of the party factions also exercised considerable influence. Prior to the 2007 general election, the then Leader of the Opposition, Kevin Rudd, said that he and he alone would choose the ministry should he become Prime Minister. His party won the election and he chose the ministry, as he said he would.The cabinet meets not only in Canberra but also in state capitals, most frequently Sydney and Melbourne. Kevin Rudd was in favour of the Cabinet meeting in other places, such as major regional cities. There are Commonwealth Parliament Offices in each State Capital, with those in Sydney located in Phillip Street.
+
+
+=== Departments ===
+As of February 2020, there are 14 departments of the Australian Government.
+Attorney-General's Department
+Department of Agriculture, Water and the Environment
+Department of Defence
+Department of Education, Skills and Employment
+Department of Finance
+Department of Foreign Affairs and Trade
+Department of Health
+Department of Home Affairs
+Department of Industry, Science, Energy and Resources
+Department of Infrastructure, Transport, Regional Development and Communications
+Department of the Prime Minister and Cabinet
+Department of Social Services
+Department of the Treasury
+Department of Veterans' AffairsAdditionally, there are four departments which support the Parliament of Australia:
+Department of Parliamentary Services
+Department of the House of Representatives
+Department of the Senate
+Parliamentary Budget Office
+
+
+== Judiciary ==
+
+As a federation, in Australia judicial power is exercised by both federal and state courts.
+Federal judicial power is vested in the High Court of Australia and such other federal courts created by the Federal Parliament, including the Federal Court of Australia, the Family Court of Australia, and the Federal Circuit Court of Australia. Additionally, the federal legislature has the power to enact laws which vest federal authority in State courts. Since the Australian Constitution requires a separation of powers at the federal level, only courts may exercise federal judicial power; and conversely, non-judicial functions cannot be vested in courts.State judicial power is exercised by each State's Supreme Court, and such other courts and tribunals created by the State Parliaments of Australia.
+The High Court is the final court of appeal in Australia and has the jurisdiction to hear appeals on matters of both federal and state law. It has both original and appellate jurisdiction, the power of judicial review over laws passed by federal and State parliaments, and has jurisdiction to interpret the Constitution of Australia. Unlike in the United States, there is only one common law of Australia, rather than separate common laws for each State.Until the passage of the Australia Act 1986, and associated legislation in the Parliament of the United Kingdom of Great Britain and Northern Ireland, some Australian cases could be referred to the British Judicial Committee of the Privy Council for final appeal. With this act, Australian law was made unequivocally sovereign, and the High Court of Australia was confirmed as the highest court of appeal. The theoretical possibility of the British Parliament enacting laws to override the Australian Constitution was also removed.
+
+
+== Publicly owned entities ==
+
+
+=== Corporations prescribed by acts of parliament ===
+The following corporations are prescribed by Acts of Parliament:
+
+Australian Broadcasting Corporation (Australian Broadcasting Corporation Act 1983)
+Clean Energy Finance Corporation (Clean Energy Finance Corporation Act 2012)
+Special Broadcasting Service (Special Broadcasting Service Act 1991)
+
+
+=== Government Business Enterprises ===
+As of March 2021, the following Corporate Commonwealth entities are prescribed as Government Business Enterprises (GBEs) by section 5(1) of the Public Governance, Performance and Accountability (PGPA) Rule:
+Australia Post
+Defence Housing AustraliaThe following Commonwealth companies are prescribed as GBEs by section 5(2) of the PGPA Rule:
+Australian Submarine Corporation (ASC)
+Australian Naval Infrastructure
+Australian Rail Track Corporation, which manages the Inland Rail project
+Moorebank Intermodal Terminal
+NBN Co
+Snowy Hydro
+Western Sydney Airport
+
+
+=== Other public non-financial corporations ===
+Airservices Australia
+
+
+== See also ==
+Prime Minister of Australia
+Australian Public Service
+Referendums in Australia
+States and territories of Australia
+Timeline of the expansion of federal powers in Australia
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==

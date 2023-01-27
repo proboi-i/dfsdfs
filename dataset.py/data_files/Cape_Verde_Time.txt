@@ -1,0 +1,4 @@
+URI[https://en.wikipedia.org/wiki/Cape_Verde_Time]
+= Cape_Verde_Time = 
+Cape Verde Time (CVT) is a time zone used by the Atlantic island nation of Cape Verde. The zone is one hour behind UTC (UTC-01:00).
+Daylight saving time is not observed in this time zone.

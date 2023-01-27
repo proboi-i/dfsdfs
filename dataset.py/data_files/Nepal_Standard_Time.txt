@@ -1,0 +1,24 @@
+URI[https://en.wikipedia.org/wiki/Nepal_Standard_Time]
+= Nepal_Standard_Time = 
+Nepal Standard Time (NPT) is the time zone for Nepal. With a time offset from Coordinated Universal Time (UTC) of UTC+05:45 all over Nepal, it is one of only three time zones with a 45-minute offset from UTC.NPT is an approximation of Kathmandu mean time, which is 5:41:16 ahead of UTC.  The standard meridian passes through the peak of Gaurishankar mountain about 100 kilometres (62 mi) east of Kathmandu.Nepal used local solar time until 1920, in Kathmandu UTC+05:41:16. In 1920, Nepal adopted Indian Standard Time, UTC+05:30. In 1986 Nepal advanced their clocks by 15 minutes, giving them a time zone of UTC+05:45.
+
+
+== See also ==
+Date and time notation in Nepal
+UTC+05:40
+UTC+05:45
+
+
+== References ==
+
+
+== Notes ==
+
+
+== External links ==
+Nepali Time & calendar for both PC & Web
+Nepali calendar
+Nepali Time
+Nepali Time
+Nepali Time and Date with Calendar
+Current time in Nepal
